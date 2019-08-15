@@ -2,6 +2,7 @@ var express = require('express');
 var router = express.Router();
 const path = require('path');
 
+// El query "type" solo es para desarrollo local.
 router.get('/:assets_id', (req, res) => {
   const query = req.query;
   file = req.params.assets_id;
@@ -20,7 +21,7 @@ router.get('/:assets_id', (req, res) => {
   if( query.lenguaje ) {
     file = `${file}-L${query.lenguaje}`
   }
-  file = `${file}.json`
+  file = `${file}.${query.type}`
   res.sendFile(file, { root: path.join(__dirname, '../assets') });
 });
 
