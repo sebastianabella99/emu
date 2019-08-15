@@ -63,10 +63,27 @@ router.post('/workflow', (req, res) => {
   });
 });
 
+// access_token
+
+// {
+//   "iss": "Online JWT Builder",
+//   "iat": 1565906011,
+//   "exp": 1597442011,
+//   "aud": "www.example.com",
+//   "sub": "jrocket@example.com",
+//   "cliendtID": "0123456789",
+//   "partner": "ML",
+//   "product": "CAM",
+//   "lenguaje": "es-CR",
+//   "canal": "web",
+//   "pais": "CR",
+//   "modulo": "que???"
+// }
+
 router.post('/auth', countrie, (req, res) => {
   res.json({
     state:1, 
-    access_token:'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1NTM2Mjk1MTMsImV4cCI6MTU4NTE2NTk4OCwiYXVkIjoiIiwic3ViIjoiIiwicGFydG5lciI6IkxNIiwiY2xpZW50SWQiOiIxMjM0NTY3ODkwIn0.uG9p8SkWJALmEt_6P7neJQtKadyd9itg1Sle233hn7c',
+    access_token:'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1NjU5MDYwMTEsImV4cCI6MTU5NzQ0MjAxMSwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImNsaWVuZHRJRCI6IjAxMjM0NTY3ODkiLCJwYXJ0bmVyIjoiTUwiLCJwcm9kdWN0IjoiQ0FNIiwibGVuZ3VhamUiOiJlcy1DUiIsImNhbmFsIjoid2ViIiwicGFpcyI6IkNSIiwibW9kdWxvIjoicXVlPz8_In0.2UplU6K0DBOTsikhlNbNq2IcgvkkoIIG4GEXym1ovKE',
     refresh_token:'abslslRSkskED2233ksksk82sss7jjsjjsRRksksF92DDD'
   });
 });

@@ -1,61 +1,51 @@
 module.exports = {
+    ING001: {
+        codigoPais: 'CR',
+    },
     ING002: {
         codigoPais: 'CR',
-        productos: [
-            {
-                id: 0,
-                titulo: 'Crédito Móvil',
-                descripcion: 'Crédito de consumo con atención en line.'
-            },
-            {
-                id: 1,
-                titulo: 'Cuenta Móvil',
-                descripcion: 'Ábrala desde su celular sin costo y comience a usarla de inmediato.'
-            },
-            {
-                id: 2,
-                titulo: 'Tarjeta Móvil',
-                descripcion: 'Solicítela y recíbala en su domicilio'
-            }
-        ]
     },
     ING003: {
         codigoPais: 'CR',
+        producto: {
+            id: '0',
+            titulo: 'titulo'
+        }
     },
     BEN001: {
         codigoPais: 'CR',
         titulo: 'Conviértase en Cliente Davivienda en menos tiempo abriendo su Cuenta de Ahorros Móvil y acceda a los siguientes beneficios:',
-        beneficios: [
-            {
-                id: '0',
-                icono: 'assets/cam/img/icon/ico_plata.svg',
-                descripcion: 'Apertura automática de cuentas en colones y dólares.',
-                titulo: ''
-            }, {
-                id: '1',
-                icono: 'assets/cam/img/icon/ico_percent.svg',
-                descripcion: 'Reciba atractivos intereses por sus saldos.',
-                titulo: ''
-            }, {
-                id: '2',
-                icono: 'assets/cam/img/icon/ico_compu.svg',
-                descripcion: 'Realice transferencias en tiempo real o programadas a travé del Sistema SINPE.o SINPE Móvil.',
-                titulo: ''
-            },
-            {
-                id: '3',
-                icono: 'assets/cam/img/icon/ico_manoCel.svg',
-                descripcion: 'Realice con facilidad transferencias internacionales.',
-                titulo: ''
-            }, {
-                id: '4',
-                icono: 'assets/cam/img/icon/ico_personas.svg',
-                descripcion: 'Afilie sus cargos automáticos a su cuenta maestra y ahorre tiempo.',
-                titulo: ''
-            }
-        ]
+        // beneficios: [
+        //     {
+        //         id: '0',
+        //         icono: 'assets/cam/img/icon/ico_plata.svg',
+        //         descripcion: 'Apertura automática de cuentas en colones y dólares.',
+        //         titulo: ''
+        //     }, {
+        //         id: '1',
+        //         icono: 'assets/cam/img/icon/ico_percent.svg',
+        //         descripcion: 'Reciba atractivos intereses por sus saldos.',
+        //         titulo: ''
+        //     }, {
+        //         id: '2',
+        //         icono: 'assets/cam/img/icon/ico_compu.svg',
+        //         descripcion: 'Realice transferencias en tiempo real o programadas a travé del Sistema SINPE.o SINPE Móvil.',
+        //         titulo: ''
+        //     },
+        //     {
+        //         id: '3',
+        //         icono: 'assets/cam/img/icon/ico_manoCel.svg',
+        //         descripcion: 'Realice con facilidad transferencias internacionales.',
+        //         titulo: ''
+        //     }, {
+        //         id: '4',
+        //         icono: 'assets/cam/img/icon/ico_personas.svg',
+        //         descripcion: 'Afilie sus cargos automáticos a su cuenta maestra y ahorre tiempo.',
+        //         titulo: ''
+        //     }
+        // ]
     },
-    CAM004: {
+    TPR001: {
         codigoPais: 'CR',
         productos: [
             {
@@ -111,34 +101,79 @@ module.exports = {
                 }
         ]
     },
-    CAM005: {
+    BIO001: {
         codigoPais: 'CR',
      },
-    CAM006: {
+    BIO002: {
+    codigoPais: 'CR',
+    },
+    BIO003: {
+    codigoPais: 'CR',
+    },
+    BIO004: {
+    codigoPais: 'CR',
+    },
+    BIO005: {
+    codigoPais: 'CR',
+    },
+    BIO006: {
+    codigoPais: 'CR',
+    entidades: [
+        {
+            id: '0',
+            nombre: 'Ciudad de Panama'
+        }
+    ],
+    operadores: [
+        {
+            id: '0',
+            nombre: 'Claro'
+        }
+    ]
+    },
+    VIN001: {
+        codigoPais: 'CR',
+        cliente:{
+               nombre: 'Sergio Rafael',
+               documento: {
+                    tipo: '01',
+                    numero: '1234567890'
+               },
+               sexo: 'M',
+               nit: '111111111'
+            }
+    },
+    VIN002: {
+        codigoPais: 'CR',
+    },
+    VIN003: {
         codigoPais: 'CR',
      },
-    CAM007: {
+     VIN004: {
         codigoPais: 'CR',
      },
-    CAM008: {
+     VIN005: {
         codigoPais: 'CR',
      },
-    CAM009: {
+     VIN006: {
         codigoPais: 'CR',
      },
-    CAM010: {
+     ACU001: {
         codigoPais: 'CR',
      },
-    CAM011: {
+     AUT001: {
         codigoPais: 'CR',
      },
-    CAM012: {
+     AUT002: {
         codigoPais: 'CR',
      },
-    CAM013: {
+     ACU002: {
         codigoPais: 'CR',
      },
-    CAM014: {
+     OTP001: {
+        codigoPais: 'CR',
+     },
+     ACU003: {
         codigoPais: 'CR',
      }
 };
