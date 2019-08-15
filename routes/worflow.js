@@ -7,6 +7,7 @@ countrie = (req, res, next) => {
   console.clear();
   flujo = req.body.assertion;
   datos = require(`../data/${req.body.assertion}`);
+  req.body = { token: datos.token}
   next();
 };
 
@@ -81,9 +82,10 @@ router.post('/workflow', (req, res) => {
 // }
 
 router.post('/auth', countrie, (req, res) => {
+  console.log(req.body.token);
   res.json({
     state:1, 
-    access_token:'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1NjU5MDYwMTEsImV4cCI6MTU5NzQ0MjAxMSwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImNsaWVuZHRJRCI6IjAxMjM0NTY3ODkiLCJwYXJ0bmVyIjoiTUwiLCJwcm9kdWN0IjoiQ0FNIiwibGVuZ3VhamUiOiJlcy1DUiIsImNhbmFsIjoid2ViIiwicGFpcyI6IkNSIiwibW9kdWxvIjoicXVlPz8_In0.2UplU6K0DBOTsikhlNbNq2IcgvkkoIIG4GEXym1ovKE',
+    access_token: req.body.token,
     refresh_token:'abslslRSkskED2233ksksk82sss7jjsjjsRRksksF92DDD'
   });
 });
