@@ -7,7 +7,8 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
 var workflowRouter = require('./routes/worflow');
-
+var assetsRouter = require('./routes/assets');
+var jwks = require('./routes/jwks');
 var app = express();
 
 // view engine setup
@@ -33,7 +34,10 @@ app.use(function (req, res, next) {
   next();
 });
 
-app.use('', workflowRouter);
+
+app.use('/api', workflowRouter);
+app.use('/assets', assetsRouter);
+app.use('/auth/v1/keystore', jwks);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

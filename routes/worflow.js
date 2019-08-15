@@ -1,15 +1,17 @@
 var express = require('express');
 var router = express.Router();
 var datos = null;
-
+var flujo = '';
 
 countrie = (req, res, next) => {
   console.clear();
+  flujo = req.body.assertion;
   datos = require(`../data/${req.body.assertion}`);
   next();
 };
 
 router.post('/workflow', (req, res) => {
+  console.clear();
   console.log(req.body.stepId);
   var paso = req.body.stepId;
   switch(paso){
@@ -41,10 +43,19 @@ router.post('/workflow', (req, res) => {
       paso = 'CAM009';
       break;
   };
-
+  console.log('==============================================================================');
+  console.warn({
+    data: {
+      stepStatus: 1,
+      clientId: '1234-4567-8901-2345-6789-0123',
+      payload: datos[paso],
+      stepId: paso
+    }
+  })
+  console.log('==============================================================================');
   res.json({
     data: {
-      stepStatus: datos.state,		
+      stepStatus: 1,
       clientId: '1234-4567-8901-2345-6789-0123',
       payload: datos[paso],
       stepId: paso
@@ -52,15 +63,12 @@ router.post('/workflow', (req, res) => {
   });
 });
 
-router.get('/auth/v1/keystore/.well-known/jwks.json', (req, res) => {
-  res.json(require(`../data/key.json`));
-});
-
-router.post('/api/auth', countrie, (req, res) => {
+router.post('/auth', countrie, (req, res) => {
   res.json({
     state:1, 
     access_token:'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1NTM2Mjk1MTMsImV4cCI6MTU4NTE2NTk4OCwiYXVkIjoiIiwic3ViIjoiIiwicGFydG5lciI6IkxNIiwiY2xpZW50SWQiOiIxMjM0NTY3ODkwIn0.uG9p8SkWJALmEt_6P7neJQtKadyd9itg1Sle233hn7c',
     refresh_token:'abslslRSkskED2233ksksk82sss7jjsjjsRRksksF92DDD'
   });
 });
+
 module.exports = router;
