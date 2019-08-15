@@ -1,5 +1,5 @@
 cuando se agrega un archivo se le debe dar nombre de acuerdo a lo siguiente:
-`${assets-id}${filtro}.js`
+`${assets-id}${filtro}.json`
 
 el filtro se estructura de acuerdo a lo siguente:
 si tiene aliado

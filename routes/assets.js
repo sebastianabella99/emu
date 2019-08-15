@@ -1,5 +1,6 @@
 var express = require('express');
 var router = express.Router();
+const path = require('path');
 
 router.get('/:assets_id', (req, res) => {
   const query = req.query;
@@ -19,8 +20,8 @@ router.get('/:assets_id', (req, res) => {
   if( query.lenguaje ) {
     file = `${file}-L${query.lenguaje}`
   }
-  file = `${file}.js`
-  res.json(require(`../assets/${file}`));
+  file = `${file}.json`
+  res.sendFile(file, { root: path.join(__dirname, '../assets') });
 });
 
 module.exports = router;
