@@ -14,40 +14,9 @@ module.exports = {
         lenguaje: 'es',
         pais: 'PA'
     },
-    ING003: {
-        codigoPais: 'PA',
-    },
+    ING003: { },
     BEN001: {
-        codigoPais: 'PA',
-        titulo: 'Conviértase en Cliente Davivienda en menos tiempo abriendo su Cuenta de Ahorros Móvil y acceda a los siguientes beneficios:',
-        beneficios: [
-            {
-              id: '0',
-              icono: 'assets/cam/img/icon/ico_manoCel.svg',
-              descripcion: 'Cuenta 100% digital.',
-              titulo: ''
-            }, {
-              id: '1',
-              icono: 'assets/cam/img/icon/ico_celuplata.svg',
-              descripcion: 'Apertura de cuenta en línea.',
-              titulo: ''
-            }, {
-              id: '2',
-              icono: 'assets/cam/img/icon/ico_compu.svg',
-              descripcion: 'Acceso a los canales electrónicos.',
-              titulo: ''
-            }, {
-              id: '3',
-              icono: 'assets/cam/img/icon/ico_atm.svg',
-              descripcion: 'Retiro de efectivo gratís en todas las redes clave.',
-              titulo: ''
-            }, {
-              id: '4',
-              icono: 'assets/cam/img/icon/ico_cerdito.svg',
-              descripcion: 'No tiene monto mínimo de apertura.',
-              titulo: ''
-          }
-      ]
+        titulo: 'Conviértase en Cliente Davivienda en menos tiempo abriendo su Cuenta de Ahorros Móvil y acceda a los siguientes beneficios:'
     },
     CAM004: {
         codigoPais: 'PA',

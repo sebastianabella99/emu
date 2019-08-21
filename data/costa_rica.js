@@ -14,45 +14,9 @@ module.exports = {
         lenguaje: 'es',
         pais: 'CR'
     },
-    ING003: {
-        
-        producto: {
-            id: '0',
-            titulo: 'titulo'
-        }
-    },
+    ING003: { },
     BEN001: {
-        
         titulo: 'Conviértase en Cliente Davivienda en menos tiempo abriendo su Cuenta de Ahorros Móvil y acceda a los siguientes beneficios:',
-        // beneficios: [
-        //     {
-        //         id: '0',
-        //         icono: 'assets/cam/img/icon/ico_plata.svg',
-        //         descripcion: 'Apertura automática de cuentas en colones y dólares.',
-        //         titulo: ''
-        //     }, {
-        //         id: '1',
-        //         icono: 'assets/cam/img/icon/ico_percent.svg',
-        //         descripcion: 'Reciba atractivos intereses por sus saldos.',
-        //         titulo: ''
-        //     }, {
-        //         id: '2',
-        //         icono: 'assets/cam/img/icon/ico_compu.svg',
-        //         descripcion: 'Realice transferencias en tiempo real o programadas a travé del Sistema SINPE.o SINPE Móvil.',
-        //         titulo: ''
-        //     },
-        //     {
-        //         id: '3',
-        //         icono: 'assets/cam/img/icon/ico_manoCel.svg',
-        //         descripcion: 'Realice con facilidad transferencias internacionales.',
-        //         titulo: ''
-        //     }, {
-        //         id: '4',
-        //         icono: 'assets/cam/img/icon/ico_personas.svg',
-        //         descripcion: 'Afilie sus cargos automáticos a su cuenta maestra y ahorre tiempo.',
-        //         titulo: ''
-        //     }
-        // ]
     },
     TPR001: {
         

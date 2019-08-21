@@ -14,30 +14,9 @@ module.exports = {
         lenguaje: 'es',
         pais: 'SV'
     },
-    ING003: {
-        
-    },
+    ING003: { },
     BEN001: {
-        
-        titulo: 'Conviértase en Cliente Davivienda en menos tiempo abriendo su Cuenta de Ahorros Móvil y acceda a los siguientes beneficios:',
-        beneficios: [
-            {
-                id: '0',
-                icono: 'assets/cam/img/icon/ico_manoCel.svg',
-                descripcion: 'Apertura 100% digital.',
-                titulo: ''
-              }, {
-                id: '0',
-                icono: 'assets/cam/img/icon/ico_signopesos.svg',
-                descripcion: 'Monto de apertura $0.00',
-                titulo: ''
-              }, {
-                id: '0',
-                icono: 'assets/cam/img/icon/ico_transaccion.svg',
-                descripcion: 'Transacciones interbancarias Gratis.',
-                titulo: ''
-              }
-        ]
+        titulo: 'Conviértase en Cliente Davivienda en menos tiempo abriendo su Cuenta de Ahorros Móvil y acceda a los siguientes beneficios:'
     },
     CAM004: {
         

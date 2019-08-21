@@ -14,35 +14,9 @@ module.exports = {
         lenguaje: 'es',
         pais: 'HN'
     },
-    ING003: {
-        
-    },
+    ING003: { },
     BEN001: {
-        
-        titulo: 'Conviértase en Cliente Davivienda en menos tiempo abriendo su Cuenta de Ahorros Móvil y acceda a los siguientes beneficios:',
-        beneficios: [
-            {
-                id: '0',
-                icono: 'assets/cam/img/icon/ico_cardhand.svg',
-                descripcion: 'Reciba una tarjeta de débito para realizar todas sus compras.',
-                titulo: ''
-              }, {
-                id: '1',
-                icono: 'assets/cam/img/icon/ico_atm.svg',
-                descripcion: 'Haga retiros gratis con su tarjeta de débito en ATM Davivienda Gratis.',
-                titulo: ''
-              },{
-                id: '2',
-                icono: 'assets/cam/img/icon/ico_bolsaplata.svg',
-                descripcion: 'Participe en sorteos mensuales.',
-                titulo: ''
-              }, {
-                id: '3',
-                icono: 'assets/cam/img/icon/ico_compu.svg',
-                descripcion: 'Creación de la cuenta 100% digital.',
-                titulo: ''
-              }
-        ]
+        titulo: 'Conviértase en Cliente Davivienda en menos tiempo abriendo su Cuenta de Ahorros Móvil y acceda a los siguientes beneficios:'
     },
     CAM004: {
         
