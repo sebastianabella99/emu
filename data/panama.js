@@ -1,24 +1,18 @@
 module.exports = {
     token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1NjU5MDYwMTEsImV4cCI6MTU5NzQ0MjAxMSwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImNsaWVuZHRJRCI6IjAxMjM0NTY3ODkiLCJwYXJ0bmVyIjoiTUwiLCJwcm9kdWN0IjoiQ0FNIiwibGVuZ3VhamUiOiJlcy1DUiIsImNhbmFsIjoid2ViIiwicGFpcyI6IlBBIiwibW9kdWxvIjoicXVlPz8_In0.3_a2XeY4QSph2NmpcOvykRLMNj9BiEujnnzkDS3gK38',
+    ING001: {
+        aliado: 'ML',
+        canal: 'web',
+        idModulo: 'cam',
+        lenguaje: 'es',
+        pais: 'PA'
+    },
     ING002: {
-        codigoPais: 'PA',
-        productos: [
-            {
-                id: 0,
-                titulo: 'Crédito Móvil',
-                descripcion: 'Crédito de consumo con atención en line.'
-            },
-            {
-                id: 1,
-                titulo: 'Cuenta Móvil',
-                descripcion: 'Ábrala desde su celular sin costo y comience a usarla de inmediato.'
-            },
-            {
-                id: 2,
-                titulo: 'Tarjeta Móvil',
-                descripcion: 'Solicítela y recíbala en su domicilio'
-            }
-        ]
+        aliado: 'ML',
+        canal: 'web',
+        idModulo: 'cam',
+        lenguaje: 'es',
+        pais: 'PA'
     },
     ING003: {
         codigoPais: 'PA',

@@ -1,0 +1,17 @@
+[
+    {
+        "idProducto": "0",
+        "titulo": "Crédito Móvil",
+        "descripcion": "Crédito de consumo con atención en line."
+    },
+    {
+        "idProducto": "1",
+        "titulo": "Cuenta Móvil",
+        "descripcion": "Ábrala desde su celular sin costo y comience a usarla de inmediato."
+    },
+    {
+        "idProducto": "2",
+        "titulo": "Tarjeta Móvil",
+        "descripcion": "Solicítela y recíbala en su domicilio"
+    }
+]

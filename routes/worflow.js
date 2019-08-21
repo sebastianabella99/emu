@@ -16,7 +16,7 @@ router.post('/workflow', (req, res) => {
   console.log(req.body.stepId);
   var paso = req.body.stepId;
   switch(paso){
-    case "000":
+    case "INITIAL":
       paso = 'ING002';
       break;
     case "ING002":
@@ -82,7 +82,6 @@ router.post('/workflow', (req, res) => {
 // }
 
 router.post('/auth', countrie, (req, res) => {
-  console.log(req.body.token);
   res.json({
     state:1, 
     access_token: req.body.token,

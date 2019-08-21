@@ -1,30 +1,24 @@
 module.exports = {
     token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1NjU5MDYwMTEsImV4cCI6MTU5NzQ0MjAxMSwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImNsaWVuZHRJRCI6IjAxMjM0NTY3ODkiLCJwYXJ0bmVyIjoiTUwiLCJwcm9kdWN0IjoiQ0FNIiwibGVuZ3VhamUiOiJlcy1DUiIsImNhbmFsIjoid2ViIiwicGFpcyI6IkhOIiwibW9kdWxvIjoicXVlPz8_In0.RACacOzgx-qr0yKGUTMYqlU_Uod9L0ijZudl95iAzsY',
+    ING001: {
+        aliado: 'ML',
+        canal: 'web',
+        idModulo: 'cam',
+        lenguaje: 'es',
+        pais: 'HN'
+    },
     ING002: {
-        codigoPais: 'HN',
-        productos: [
-            {
-                id: 0,
-                titulo: 'Crédito Móvil',
-                descripcion: 'Crédito de consumo con atención en line.'
-            },
-            {
-                id: 1,
-                titulo: 'Cuenta Móvil',
-                descripcion: 'Ábrala desde su celular sin costo y comience a usarla de inmediato.'
-            },
-            {
-                id: 2,
-                titulo: 'Tarjeta Móvil',
-                descripcion: 'Solicítela y recíbala en su domicilio'
-            }
-        ]
+        aliado: 'ML',
+        canal: 'web',
+        idModulo: 'cam',
+        lenguaje: 'es',
+        pais: 'HN'
     },
     ING003: {
-        codigoPais: 'HN',
+        
     },
     BEN001: {
-        codigoPais: 'HN',
+        
         titulo: 'Conviértase en Cliente Davivienda en menos tiempo abriendo su Cuenta de Ahorros Móvil y acceda a los siguientes beneficios:',
         beneficios: [
             {
@@ -51,7 +45,7 @@ module.exports = {
         ]
     },
     CAM004: {
-        codigoPais: 'HN',
+        
         productos: [
             {
             id: 0,
@@ -66,17 +60,17 @@ module.exports = {
         ]
     },
     CAM005: {
-        codigoPais: 'HN',
+        
      },
     CAM006: {
-        codigoPais: 'HN',
+        
      },
-    CAM007: { codigoPais: 'HN' },
-    CAM008: { codigoPais: 'HN' },
-    CAM009: { codigoPais: 'HN' },
-    CAM010: { codigoPais: 'HN' },
-    CAM011: { codigoPais: 'HN' },
-    CAM012: { codigoPais: 'HN' },
-    CAM013: { codigoPais: 'HN' },
-    CAM014: { codigoPais: 'HN' },
+    CAM007: {  },
+    CAM008: {  },
+    CAM009: {  },
+    CAM010: {  },
+    CAM011: {  },
+    CAM012: {  },
+    CAM013: {  },
+    CAM014: {  },
 };

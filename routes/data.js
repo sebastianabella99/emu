@@ -3,15 +3,16 @@ var router = express.Router();
 const path = require('path');
 
 // El query "type" solo es para desarrollo local.
-router.get('/:assets_id', (req, res) => {
+
+const respuesta = (req, res) => {
   const query = req.query;
-  file = req.params.assets_id;
+  file = req.params.data_id;
   // if( query.aliado ) {
   //   file = `${file}-A${query.aliado}`
   // }
-  // if( query.pais ) {
-  //   file = `${file}-P${query.pais}`
-  // }
+  if( query.pais ) {
+    file = `${file}-P${query.pais}`
+  }
   // if( query.modulo ) {
   //   file = `${file}-M${query.modulo}`
   // }
@@ -21,8 +22,12 @@ router.get('/:assets_id', (req, res) => {
   // if( query.lenguaje ) {
   //   file = `${file}-L${query.lenguaje}`
   // }
-  file = `${file}.${query.type}`
-  res.sendFile(file, { root: path.join(__dirname, '../assets') });
-});
+  file = `${file}.json`
+  console.log('Archivo enviado',file);
+  res.sendFile(file, { root: path.join(__dirname, '../dataService') });
+};
+
+router.get('/:data_id', respuesta);
+router.get('/:data_id/:filtro', respuesta);
 
 module.exports = router;

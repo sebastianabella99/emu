@@ -1,20 +1,28 @@
 module.exports = {
     token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1NjU5MDYwMTEsImV4cCI6MTU5NzQ0MjAxMSwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImNsaWVuZHRJRCI6IjAxMjM0NTY3ODkiLCJwYXJ0bmVyIjoiTUwiLCJwcm9kdWN0IjoiQ0FNIiwibGVuZ3VhamUiOiJlcy1DUiIsImNhbmFsIjoid2ViIiwicGFpcyI6IkNSIiwibW9kdWxvIjoicXVlPz8_In0.2UplU6K0DBOTsikhlNbNq2IcgvkkoIIG4GEXym1ovKE',
     ING001: {
-        codigoPais: 'CR',
+        aliado: 'ML',
+        canal: 'web',
+        idModulo: 'cam',
+        lenguaje: 'es',
+        pais: 'CR'
     },
     ING002: {
-        codigoPais: 'CR',
+        aliado: 'ML',
+        canal: 'web',
+        idModulo: 'cam',
+        lenguaje: 'es',
+        pais: 'CR'
     },
     ING003: {
-        codigoPais: 'CR',
+        
         producto: {
             id: '0',
             titulo: 'titulo'
         }
     },
     BEN001: {
-        codigoPais: 'CR',
+        
         titulo: 'Conviértase en Cliente Davivienda en menos tiempo abriendo su Cuenta de Ahorros Móvil y acceda a los siguientes beneficios:',
         // beneficios: [
         //     {
@@ -47,7 +55,7 @@ module.exports = {
         // ]
     },
     TPR001: {
-        codigoPais: 'CR',
+        
         productos: [
             {
             id: '0',
@@ -103,22 +111,22 @@ module.exports = {
         ]
     },
     BIO001: {
-        codigoPais: 'CR',
+        
      },
     BIO002: {
-    codigoPais: 'CR',
+    
     },
     BIO003: {
-    codigoPais: 'CR',
+    
     },
     BIO004: {
-    codigoPais: 'CR',
+    
     },
     BIO005: {
-    codigoPais: 'CR',
+    
     },
     BIO006: {
-    codigoPais: 'CR',
+    
     entidades: [
         {
             id: '0',
@@ -133,7 +141,7 @@ module.exports = {
     ]
     },
     VIN001: {
-        codigoPais: 'CR',
+        
         cliente:{
                nombre: 'Sergio Rafael',
                documento: {
@@ -145,36 +153,36 @@ module.exports = {
             }
     },
     VIN002: {
-        codigoPais: 'CR',
+        
     },
     VIN003: {
-        codigoPais: 'CR',
+        
      },
      VIN004: {
-        codigoPais: 'CR',
+        
      },
      VIN005: {
-        codigoPais: 'CR',
+        
      },
      VIN006: {
-        codigoPais: 'CR',
+        
      },
      ACU001: {
-        codigoPais: 'CR',
+        
      },
      AUT001: {
-        codigoPais: 'CR',
+        
      },
      AUT002: {
-        codigoPais: 'CR',
+        
      },
      ACU002: {
-        codigoPais: 'CR',
+        
      },
      OTP001: {
-        codigoPais: 'CR',
+        
      },
      ACU003: {
-        codigoPais: 'CR',
+        
      }
 };

@@ -8,6 +8,7 @@ var logger = require('morgan');
 
 var workflowRouter = require('./routes/worflow');
 var assetsRouter = require('./routes/assets');
+var dataRouter = require('./routes/data');
 var jwks = require('./routes/jwks');
 var app = express();
 
@@ -27,7 +28,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use(function (req, res, next) {
+app.use((req, res, next) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
   res.setHeader('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization');
@@ -37,15 +38,16 @@ app.use(function (req, res, next) {
 
 app.use('/api', workflowRouter);
 app.use('/assets', assetsRouter);
+app.use('/data', dataRouter);
 app.use('/auth/v1/keystore', jwks);
 
 // catch 404 and forward to error handler
-app.use(function(req, res, next) {
+app.use((req, res, next) => {
   next(createError(404));
 });
 
 // error handler
-app.use(function(err, req, res, next) {
+app.use((err, req, res, next) => {
   // set locals, only providing error in development
   res.locals.message = err.message;
   res.locals.error = req.app.get('env') === 'development' ? err : {};
