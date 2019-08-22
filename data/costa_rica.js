@@ -19,7 +19,6 @@ module.exports = {
         titulo: 'Conviértase en Cliente Davivienda en menos tiempo abriendo su Cuenta de Ahorros Móvil y acceda a los siguientes beneficios:',
     },
     TPR001: {
-        
         productos: [
             {
             id: '0',
@@ -90,22 +89,20 @@ module.exports = {
     
     },
     BIO006: {
-    
-    entidades: [
-        {
-            id: '0',
-            nombre: 'Ciudad de Panama'
-        }
-    ],
-    operadores: [
-        {
-            id: '0',
-            nombre: 'Claro'
-        }
-    ]
+        entidades: [
+            {
+                id: '0',
+                nombre: 'Ciudad de Panama'
+            }
+        ],
+        operadores: [
+            {
+                id: '0',
+                nombre: 'Claro'
+            }
+        ]
     },
     VIN001: {
-        
         cliente:{
                nombre: 'Sergio Rafael',
                documento: {
@@ -121,32 +118,32 @@ module.exports = {
     },
     VIN003: {
         
-     },
-     VIN004: {
+    },
+    VIN004: {
+    
+    },
+    VIN005: {
+    
+    },
+    VIN006: {
         
-     },
-     VIN005: {
-        
-     },
-     VIN006: {
-        
-     },
-     ACU001: {
-        
-     },
-     AUT001: {
-        
-     },
-     AUT002: {
-        
-     },
-     ACU002: {
-        
-     },
-     OTP001: {
-        
-     },
-     ACU003: {
-        
-     }
+    },
+    ACU001: {
+    
+    },
+    AUT001: {
+    
+    },
+    AUT002: {
+    
+    },
+    ACU002: {
+    
+    },
+    OTP001: {
+    
+    },
+    ACU003: {
+    
+    }
 };
