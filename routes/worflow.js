@@ -26,22 +26,22 @@ router.post('/workflow', (req, res) => {
       paso = 'BEN001';
       break;
     case "BEN001":
-      paso = 'CAM004';
+      paso = 'VIN001';
       break;
-    case "CAM004":
-      paso = 'CAM005';
+    case "VIN001":
+      paso = 'VIN002';
       break;
-    case "CAM005":
-      paso = 'CAM006';
+    case "VIN002":
+      paso = 'VIN003';
       break;
-    case "CAM006":
-      paso = 'CAM007';
+    case "VIN003":
+      paso = 'VIN004';
       break;
-    case "CAM007":
-      paso = 'CAM008';
+    case "VIN004":
+      paso = 'VIN005';
       break;
-    case "CAM008":
-      paso = 'CAM009';
+    case "VIN005":
+      paso = 'VIN006';
       break;
   };
   console.log('==============================================================================');
