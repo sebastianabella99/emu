@@ -82,10 +82,38 @@ module.exports = {
    
    },
    VIN005: {
-       
+        tipoOperaciones: [
+            {
+                id: '01',
+                nombre: 'Tipo Operación SV 1'
+            }
+        ]
    },
    VIN006: {
-       
+       tipoIdentificaciones: [
+           {
+               id: '01',
+               nombre: 'DNI'
+           }
+       ],
+       parentescos: [
+           {
+               id: '01',
+               nombre: 'Padre'
+           }
+       ],
+       clasificacionesTributariasUSA: [
+           {
+               id: '01',
+               nombre: 'Clasificación USA 1'
+           }
+       ],
+       clasificacionesTributarias: [
+        {
+            id: '01',
+            nombre: 'Clasificación 1'
+        }
+    ]
    },
    ACU001: {
    

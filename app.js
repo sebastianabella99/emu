@@ -35,7 +35,6 @@ app.use((req, res, next) => {
   next();
 });
 
-//console.log(workflowRouter);
 app.use('/api', workflowRouter);
 app.use('/assets', assetsRouter);
 app.use('/data', dataRouter);
