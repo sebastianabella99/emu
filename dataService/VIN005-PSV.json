@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Tipo Operación SV 0",
+        "value": "00"
+    },
+    {
+        "label": "Tipo Operación SV 1",
+        "value": "01"
+    },
+    {
+        "label": "Tipo Operación SV 2",
+        "value": "02"
+    },
+    {
+        "label": "Tipo Operación SV 3",
+        "value": "03"
+    }
+]

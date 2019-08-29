@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Tipo Operación CR 0",
+        "value": "00"
+    },
+    {
+        "label": "Tipo Operación CR 1",
+        "value": "01"
+    },
+    {
+        "label": "Tipo Operación CR 2",
+        "value": "02"
+    },
+    {
+        "label": "Tipo Operación CR 3",
+        "value": "03"
+    }
+]
