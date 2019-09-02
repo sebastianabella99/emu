@@ -18,7 +18,7 @@ module.exports = {
     BEN001: {
         titulo: 'Conviértase en Cliente Davivienda en menos tiempo abriendo su Cuenta de Ahorros Móvil y acceda a los siguientes beneficios:'
     },
-    TPR001: {
+    TPC001: {
         productos: [
             {
             id: 0,
