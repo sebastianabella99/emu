@@ -20,7 +20,7 @@ router.post('/workflow', (req, res) => {
       paso = 'ING002';
       break;
     case "ING002":
-      paso = 'ING003';
+      paso = 'TPR001';
       break;
     case "ING003":
       paso = 'BEN001';

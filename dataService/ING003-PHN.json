@@ -1,19 +1,7 @@
 [
     {
-        "label": "Opción 0",
-        "value": "00"
-    },
-    {
-        "label": "Opción 1",
-        "value": "01"
-    },
-    {
-        "label": "Opción 2",
-        "value": "02"
-    },
-    {
-        "label": "Opción 3",
-        "value": "03"
+        "label": "Tarjeta de Identidad",
+        "value": "0007"
     }
 
 ]

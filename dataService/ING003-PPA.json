@@ -1,19 +1,26 @@
 [
     {
-        "label": "Opción 0",
-        "value": "00"
+        "label": "Cédula Panameña",
+        "value": "0000"
     },
     {
-        "label": "Opción 1",
-        "value": "01"
+        "label": "Cédula Naturalizado (N)",
+        "value": "0001"
     },
     {
-        "label": "Opción 2",
-        "value": "02"
+        "label": "Cédula Nacido en el Extranjero (PE)",
+        "value": "0002"
     },
     {
-        "label": "Opción 3",
-        "value": "03"
+        "label": "Carné de Residente Permanente (E)",
+        "value": "0003"
+    },
+    {
+        "label": "Cédula Colombiana",
+        "value": "0004"
+    },
+    {
+        "label": "Pasaporte",
+        "value": "0005"
     }
-
 ]
