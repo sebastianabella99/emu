@@ -82,10 +82,20 @@ module.exports = {
    
    },
    VIN005: {
-   
+        tipoOperaciones: [
+            {
+                id: '01',
+                nombre: 'Tipo Operación PA 1'
+            }
+        ]
    },
    VIN006: {
-       
+        tipoIdentificaciones: [
+            {
+                id: '01',
+                nombre: 'DNI'
+            }
+        ]
    },
    ACU001: {
    

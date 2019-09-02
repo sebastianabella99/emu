@@ -123,7 +123,12 @@ module.exports = {
     
     },
     VIN005: {
-    
+        tipoOperaciones: [
+            {
+                id: '01',
+                nombre: 'Tipo Operación CR 1'
+            }
+        ]
     },
     VIN006: {
         

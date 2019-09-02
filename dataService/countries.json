@@ -1,0 +1,16 @@
+{
+    "countries": [
+        {
+            "name": "Argentina",
+            "dane": "001"
+        },
+        {
+            "name": "Colombia",
+            "dane": "002"
+        },
+        {
+            "name": "México",
+            "dane": "003"
+        }
+    ]
+}
