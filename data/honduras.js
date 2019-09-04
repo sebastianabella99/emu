@@ -22,12 +22,42 @@ module.exports = {
         productos: [
             {
             id: 0,
-            titulo: 'Cuenta de ahooros nómina',
+            titulo: 'Cuenta Inversión',
             caracteristicas: [
-                    {
-                        id: 0,
-                        descripcion: 'Monto de apertura 0$'
-                    }
+                {
+                    id: 0,
+                    descripcion: 'Cuenta en Lempiras.'
+                },
+                {
+                    id: 1,
+                    descripcion: 'Monto mínimo de creación L1.000.'
+                },
+                {
+                    id: 2,
+                    descripcion: 'Manejo de tasas preferenciales.'
+                },
+                {
+                    id: 3,
+                    descripcion: 'Manejo de fondos a través de Tarjeta Débito.'
+                }
+            ]
+            },
+            {
+            id: 1,
+            titulo: 'Cuenta Inversión Tradicional',
+            caracteristicas: [
+                {
+                    id: 0,
+                    descripcion: 'Cuenta en Lempiras.'
+                },
+                {
+                    id: 1,
+                    descripcion: 'Monto mínimo de creación: L500.'
+                },
+                {
+                    id: 2,
+                    descripcion: 'Manejo de fondos a través de Tarjeta Débito.'
+                }
             ]
             }
         ]

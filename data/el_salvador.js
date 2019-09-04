@@ -22,12 +22,46 @@ module.exports = {
         productos: [
             {
             id: 0,
-            titulo: 'Cuenta de ahooros nómina',
+            titulo: 'Cuenta de Ahorros Móvil',
             caracteristicas: [
-                    {
-                        id: 0,
-                        descripcion: 'Monto de apertura 0$'
-                    }
+                {
+                    id: 0,
+                    descripcion: 'Cuenta con apertura 100% electrónica.'
+                },
+                {
+                    id: 1,
+                    descripcion: 'Monto de apertura $0.'
+                },
+                {
+                    id: 2,
+                    descripcion: 'Aplica para personas naturales mayores de 18 años.'
+                },
+                {
+                    id: 3,
+                    descripcion: 'Manejo de fondos a través de Tarjeta Débito.'
+                }
+            ]
+            },
+            {
+            id: 1,
+            titulo: 'Daviplata',
+            caracteristicas: [
+                {
+                    id: 0,
+                    descripcion: 'Cuenta de ahorros 100% Digital.'
+                },
+                {
+                    id: 1,
+                    descripcion: 'Monto de apertura $0'
+                },
+                {
+                    id: 2,
+                    descripcion: 'Retiros de efectivo sin tarjeta.'
+                },
+                {
+                    id: 3,
+                    descripcion: '4 retiros GRATIS mensuales en cajeros automáticos de Davivienda.'
+                }
             ]
             }
         ]

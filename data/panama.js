@@ -22,12 +22,34 @@ module.exports = {
         productos: [
             {
             id: 0,
-            titulo: 'Cuenta de ahooros nómina',
+            titulo: 'Cuenta Digital',
             caracteristicas: [
-                    {
-                        id: 0,
-                        descripcion: 'Monto de apertura 0$'
-                    }
+                {
+                    id: 0,
+                    descripcion: 'Apertura de cuenta de ahorro en línea, de manera inmediata.'
+                },
+                {
+                    id: 1,
+                    descripcion: 'Los depósitos y retiros mensuales no puedes superar el monto de $5.000 USD.'
+                },
+                {
+                    id: 2,
+                    descripcion: 'El saldo máximo en la cuenta no debe superar los $5.000 USD.'
+                } 
+            ]
+            },
+            {
+            id: 1,
+            titulo: 'Cuenta Regular',
+            caracteristicas: [
+                {
+                    id: 0,
+                    descripcion: 'Cuenta de ahorros con tarjeta débito MasterCard.'
+                },
+                {
+                    id: 1,
+                    descripcion: 'El primer deposito en la cuenta no podrá ser superior al monto registrado durante el proceso de apertura.'
+                }
             ]
             }
         ]
