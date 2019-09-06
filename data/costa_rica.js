@@ -12,7 +12,6 @@ module.exports = {
         titulo: 'Conviértase en Cliente Davivienda en menos tiempo abriendo su Cuenta de Ahorros Móvil y acceda a los siguientes beneficios:',
     },
     TPC001: {
-
     },
     BIO001: {
         
