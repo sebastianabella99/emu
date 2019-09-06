@@ -15,55 +15,18 @@ router.post('/workflow', (req, res) => {
   console.clear();
   console.log(req.body.stepId);
   var paso = req.body.stepId;
-  switch(paso){
-    case "INITIAL":
-      paso = 'ING001';
-      break;
-    case "ING001":
-      paso = 'ING002';
-      break;
-    case "ING002":
-      paso = 'TPC001';
-    case "TPC001":
-      paso = 'BEN001';
-      break;
-    case "BEN001":
-      paso = 'VIN001';
-      break;
-    case "VIN001":
-      paso = 'VIN002';
-      break;
-    case "VIN002":
-      paso = 'VIN003';
-      break;
-    case "VIN003":
-      paso = 'VIN004';
-      break;
-    case "VIN004":
-      paso = 'VIN005';
-      break;
-    case "VIN005":
-      paso = 'VIN006';
-      break;
+  var response = {
+    data: {
+      stepStatus: datos[datos.workflow[paso]].status,
+      clientId: '1234-4567-8901-2345-6789-0123',
+      payload: datos[datos.workflow[paso]].payload,
+      stepId: datos.workflow[paso]
+    }
   };
   console.log('==============================================================================');
-  console.warn({
-    data: {
-      stepStatus: 1,
-      clientId: '1234-4567-8901-2345-6789-0123',
-      payload: datos[paso],
-      stepId: paso
-    }
-  })
+  console.warn(response);
   console.log('==============================================================================');
-  res.json({
-    data: {
-      stepStatus: 1,
-      clientId: '1234-4567-8901-2345-6789-0123',
-      payload: datos[paso],
-      stepId: paso
-    }
-  });
+  res.json(response);
 });
 
 // access_token
