@@ -7,30 +7,12 @@ module.exports = {
         lenguaje: 'es',
         pais: 'SV'
     },
-    ING002: {
-        aliado: 'ML',
-        canal: 'web',
-        idModulo: 'cam',
-        lenguaje: 'es',
-        pais: 'SV'
-    },
-    ING003: { },
+    ING002: { },
     BEN001: {
         titulo: 'Conviértase en Cliente Davivienda en menos tiempo abriendo su Cuenta de Ahorros Móvil y acceda a los siguientes beneficios:'
     },
     TPC001: {
-        productos: [
-            {
-            id: 0,
-            titulo: 'Cuenta de ahooros nómina',
-            caracteristicas: [
-                    {
-                        id: 0,
-                        descripcion: 'Monto de apertura 0$'
-                    }
-            ]
-            }
-        ]
+        
     },
     BIO001: {
         

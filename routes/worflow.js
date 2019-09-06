@@ -17,18 +17,17 @@ router.post('/workflow', (req, res) => {
   var paso = req.body.stepId;
   switch(paso){
     case "INITIAL":
+      paso = 'ING001';
+      break;
+    case "ING001":
       paso = 'ING002';
       break;
     case "ING002":
       paso = 'TPC001';
-      break;
-    case "ING003":
+    case "TPC001":
       paso = 'BEN001';
       break;
     case "BEN001":
-      paso = 'TPC001';
-      break;
-    case "TPC001":
       paso = 'VIN001';
       break;
     case "VIN001":

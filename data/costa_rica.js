@@ -7,71 +7,12 @@ module.exports = {
         lenguaje: 'es',
         pais: 'CR'
     },
-    ING002: {
-        aliado: 'ML',
-        canal: 'web',
-        idModulo: 'cam',
-        lenguaje: 'es',
-        pais: 'CR'
-    },
-    ING003: { },
+    ING002: { },
     BEN001: {
         titulo: 'Conviértase en Cliente Davivienda en menos tiempo abriendo su Cuenta de Ahorros Móvil y acceda a los siguientes beneficios:',
     },
     TPC001: {
-        productos: [
-            {
-            id: '0',
-            titulo: 'Cuenta Maestra',
-            caracteristicas: [
-                    {
-                        id: '0',
-                        descripcion: 'Saldo mínimo $50.00'
-                    }, {
-                        id: '1',
-                        descripcion: 'Retiro en ATM Davivienda ilimitados sin costo.'
-                    }, {
-                        id: '2',
-                        descripcion: 'Manejo de fondos a través de Tarjeta Débito'
-                    }
-            ]
-            },
-            {
-                id: '1',
-                titulo: 'Cuenta Maestra Premium',
-                caracteristicas: [
-                        {
-                            id: '0',
-                            descripcion: 'Saldo mínimo $1.000.00'
-                        }, {
-                            id: '1',
-                            descripcion: 'Retiro en ATM Davivienda ilimitados sin costo'
-                        }, {
-                            id: '2',
-                            descripcion: 'Asignación de un ejecutivo especializado.'
-                        }
-                ]
-            },
-            {
-                id: '2',
-                titulo: 'Cuenta Maestra Planilla',
-                caracteristicas: [
-                        {
-                            id: '0',
-                            descripcion: 'Aplica para empleados de empresas con convenio de planilla.'
-                        }, {
-                            id: '1',
-                            descripcion: 'Sin saldo mínimo.'
-                        }, {
-                            id: '2',
-                            descripcion: 'Retiros ATM Davivienda ilimitados sin costo.'
-                        }, {
-                            id: '3',
-                            descripcion: '5 Retiros gratis en red ATH'
-                        }
-                ]
-                }
-        ]
+
     },
     BIO001: {
         
