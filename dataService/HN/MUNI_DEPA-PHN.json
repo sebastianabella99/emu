@@ -1,0 +1,1492 @@
+[
+ {
+   "departamento": "ATLANTIDA",
+   "municipio": "LA CEIBA",
+   "label": "LA CEIBA ATLANTIDA"
+ },
+ {
+   "departamento": "ATLANTIDA",
+   "municipio": "EL PORVENIR",
+   "label": "EL PORVENIR ATLANTIDA"
+ },
+ {
+   "departamento": "ATLANTIDA",
+   "municipio": "ESPARTA",
+   "label": "ESPARTA ATLANTIDA"
+ },
+ {
+   "departamento": "ATLANTIDA",
+   "municipio": "JUTIAPA",
+   "label": "JUTIAPA ATLANTIDA"
+ },
+ {
+   "departamento": "ATLANTIDA",
+   "municipio": "LA MASICA",
+   "label": "LA MASICA ATLANTIDA"
+ },
+ {
+   "departamento": "ATLANTIDA",
+   "municipio": "SAN FRANCISCO",
+   "label": "SAN FRANCISCO ATLANTIDA"
+ },
+ {
+   "departamento": "ATLANTIDA",
+   "municipio": "TELA",
+   "label": "TELA ATLANTIDA"
+ },
+ {
+   "departamento": "ATLANTIDA",
+   "municipio": "ARIZONA",
+   "label": "ARIZONA ATLANTIDA"
+ },
+ {
+   "departamento": "COLON",
+   "municipio": "TRUJILLO",
+   "label": "TRUJILLO COLON"
+ },
+ {
+   "departamento": "COLON",
+   "municipio": "BALFATE",
+   "label": "BALFATE COLON"
+ },
+ {
+   "departamento": "COLON",
+   "municipio": "IRIONA",
+   "label": "IRIONA COLON"
+ },
+ {
+   "departamento": "COLON",
+   "municipio": "LIMON",
+   "label": "LIMON COLON"
+ },
+ {
+   "departamento": "COLON",
+   "municipio": "SABA",
+   "label": "SABA COLON"
+ },
+ {
+   "departamento": "COLON",
+   "municipio": "SANTA FE",
+   "label": "SANTA FE COLON"
+ },
+ {
+   "departamento": "COLON",
+   "municipio": "SANTA ROSA DE AGUAN",
+   "label": "SANTA ROSA DE AGUAN COLON"
+ },
+ {
+   "departamento": "COLON",
+   "municipio": "SONAGUERA",
+   "label": "SONAGUERA COLON"
+ },
+ {
+   "departamento": "COLON",
+   "municipio": "TOCOA",
+   "label": "TOCOA COLON"
+ },
+ {
+   "departamento": "COLON",
+   "municipio": "BONITO ORIENTAL",
+   "label": "BONITO ORIENTAL COLON"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "COMAYAGUA",
+   "label": "COMAYAGUA COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "AJUTERIQUE",
+   "label": "AJUTERIQUE COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "EL ROSARIO",
+   "label": "EL ROSARIO COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "ESQUIAS",
+   "label": "ESQUIAS COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "HUMUYA",
+   "label": "HUMUYA COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "LA LIBERTAD",
+   "label": "LA LIBERTAD COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "LAMANI",
+   "label": "LAMANI COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "LA TRINIDAD",
+   "label": "LA TRINIDAD COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "LEJAMANI",
+   "label": "LEJAMANI COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "MEAMBAR",
+   "label": "MEAMBAR COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "MINAS DE ORO",
+   "label": "MINAS DE ORO COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "OJOS DE AGUA",
+   "label": "OJOS DE AGUA COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "SAN JERONIMO",
+   "label": "SAN JERONIMO COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "SAN JOSE DE COMAYAGUA",
+   "label": "SAN JOSE DE COMAYAGUA COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "SAN JOSE DEL POTRERO",
+   "label": "SAN JOSE DEL POTRERO COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "SAN LUIS",
+   "label": "SAN LUIS COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "SAN SEBASTIAN",
+   "label": "SAN SEBASTIAN COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "SIGUATEPEQUE",
+   "label": "SIGUATEPEQUE COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "VILLA DE SAN ANTONIO",
+   "label": "VILLA DE SAN ANTONIO COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "LAJAS",
+   "label": "LAJAS COMAYAGUA"
+ },
+ {
+   "departamento": "COMAYAGUA",
+   "municipio": "TAULABE",
+   "label": "TAULABE COMAYAGUA"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "SANTA ROSA DE COPAN",
+   "label": "SANTA ROSA DE COPAN COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "CABAÑAS",
+   "label": "CABAÑAS COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "CONCEPCION",
+   "label": "CONCEPCION COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "COPAN RUINAS",
+   "label": "COPAN RUINAS COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "CORQUIN",
+   "label": "CORQUIN COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "CUCUYAGUA",
+   "label": "CUCUYAGUA COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "DOLORES",
+   "label": "DOLORES COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "DULCE NOMBRE",
+   "label": "DULCE NOMBRE COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "EL PARAISO",
+   "label": "EL PARAISO COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "FLORIDA",
+   "label": "FLORIDA COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "LA JIGUA",
+   "label": "LA JIGUA COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "LA UNION",
+   "label": "LA UNION COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "NUEVA ARCADIA",
+   "label": "NUEVA ARCADIA COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "SAN AGUSTIN",
+   "label": "SAN AGUSTIN COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "SAN ANTONIO",
+   "label": "SAN ANTONIO COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "SAN JERONIMO",
+   "label": "SAN JERONIMO COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "SAN JOSE",
+   "label": "SAN JOSE COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "SAN JUAN DE OPOA",
+   "label": "SAN JUAN DE OPOA COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "SAN NICOLAS",
+   "label": "SAN NICOLAS COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "SAN PEDRO",
+   "label": "SAN PEDRO COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "SANTA RITA",
+   "label": "SANTA RITA COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "TRINIDAD",
+   "label": "TRINIDAD COPAN"
+ },
+ {
+   "departamento": "COPAN",
+   "municipio": "VERACRUZ",
+   "label": "VERACRUZ COPAN"
+ },
+ {
+   "departamento": "CORTES",
+   "municipio": "SAN PEDRO SULA",
+   "label": "SAN PEDRO SULA CORTES"
+ },
+ {
+   "departamento": "CORTES",
+   "municipio": "CHOLOMA",
+   "label": "CHOLOMA CORTES"
+ },
+ {
+   "departamento": "CORTES",
+   "municipio": "OMOA",
+   "label": "OMOA CORTES"
+ },
+ {
+   "departamento": "CORTES",
+   "municipio": "PIMIENTA",
+   "label": "PIMIENTA CORTES"
+ },
+ {
+   "departamento": "CORTES",
+   "municipio": "POTRERILLOS",
+   "label": "POTRERILLOS CORTES"
+ },
+ {
+   "departamento": "CORTES",
+   "municipio": "PUERTO CORTES",
+   "label": "PUERTO CORTES CORTES"
+ },
+ {
+   "departamento": "CORTES",
+   "municipio": "SAN ANTONIO DE CORTES",
+   "label": "SAN ANTONIO DE CORTES CORTES"
+ },
+ {
+   "departamento": "CORTES",
+   "municipio": "SAN FRANCISCO DE YOJOA",
+   "label": "SAN FRANCISCO DE YOJOA CORTES"
+ },
+ {
+   "departamento": "CORTES",
+   "municipio": "SAN MANUEL",
+   "label": "SAN MANUEL CORTES"
+ },
+ {
+   "departamento": "CORTES",
+   "municipio": "SANTA CRUZ DE YOJOA",
+   "label": "SANTA CRUZ DE YOJOA CORTES"
+ },
+ {
+   "departamento": "CORTES",
+   "municipio": "VILLANUEVA",
+   "label": "VILLANUEVA CORTES"
+ },
+ {
+   "departamento": "CORTES",
+   "municipio": "LA LIMA",
+   "label": "LA LIMA CORTES"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "CHOLUTECA",
+   "label": "CHOLUTECA CHOLUTECA"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "APACILAGUA",
+   "label": "APACILAGUA CHOLUTECA"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "CONCEPCION DE MARIA",
+   "label": "CONCEPCION DE MARIA CHOLUTECA"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "DUYURE",
+   "label": "DUYURE CHOLUTECA"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "EL CORPUS",
+   "label": "EL CORPUS CHOLUTECA"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "EL TRIUNFO",
+   "label": "EL TRIUNFO CHOLUTECA"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "MARCOVIA",
+   "label": "MARCOVIA CHOLUTECA"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "MOROLICA",
+   "label": "MOROLICA CHOLUTECA"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "NAMASIGUE",
+   "label": "NAMASIGUE CHOLUTECA"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "OROCUINA",
+   "label": "OROCUINA CHOLUTECA"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "PESPIRE",
+   "label": "PESPIRE CHOLUTECA"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "SAN ANTONIO DE FLORES",
+   "label": "SAN ANTONIO DE FLORES CHOLUTECA"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "SAN ISIDRO",
+   "label": "SAN ISIDRO CHOLUTECA"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "SAN JOSE",
+   "label": "SAN JOSE CHOLUTECA"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "SAN MARCOS DE COLON",
+   "label": "SAN MARCOS DE COLON CHOLUTECA"
+ },
+ {
+   "departamento": "CHOLUTECA",
+   "municipio": "SANTA ANA DE YUSGUARE",
+   "label": "SANTA ANA DE YUSGUARE CHOLUTECA"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "YUSCARAN",
+   "label": "YUSCARAN EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "ALAUCA",
+   "label": "ALAUCA EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "DANLI",
+   "label": "DANLI EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "EL PARAISO",
+   "label": "EL PARAISO EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "GUINOPE",
+   "label": "GUINOPE EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "JACALEAPA",
+   "label": "JACALEAPA EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "LIURE",
+   "label": "LIURE EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "MOROCELI",
+   "label": "MOROCELI EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "OROPOLI",
+   "label": "OROPOLI EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "POTRERILLOS",
+   "label": "POTRERILLOS EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "SAN ANTONIO DE FLORES",
+   "label": "SAN ANTONIO DE FLORES EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "SAN LUCAS",
+   "label": "SAN LUCAS EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "SAN MATIAS",
+   "label": "SAN MATIAS EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "SOLEDAD",
+   "label": "SOLEDAD EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "TEUPASENTI",
+   "label": "TEUPASENTI EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "TEXIGUAT",
+   "label": "TEXIGUAT EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "VADO ANCHO",
+   "label": "VADO ANCHO EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "YAUYUPE",
+   "label": "YAUYUPE EL PARAISO"
+ },
+ {
+   "departamento": "EL PARAISO",
+   "municipio": "TROJES",
+   "label": "TROJES EL PARAISO"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "DISTRITO CENTRAL",
+   "label": "DISTRITO CENTRAL FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "ALUBAREN",
+   "label": "ALUBAREN FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "CEDROS",
+   "label": "CEDROS FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "CURAREN",
+   "label": "CURAREN FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "EL PORVENIR",
+   "label": "EL PORVENIR FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "GUAYMACA",
+   "label": "GUAYMACA FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "LA LIBERTAD",
+   "label": "LA LIBERTAD FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "LA VENTA",
+   "label": "LA VENTA FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "LEPATERIQUE",
+   "label": "LEPATERIQUE FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "MARAITA",
+   "label": "MARAITA FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "MARALE",
+   "label": "MARALE FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "NUEVA ARMENIA",
+   "label": "NUEVA ARMENIA FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "OJOJONA",
+   "label": "OJOJONA FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "ORICA",
+   "label": "ORICA FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "REITOCA",
+   "label": "REITOCA FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "SABANAGRANDE",
+   "label": "SABANAGRANDE FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "SAN ANTONIO DE ORIENTE",
+   "label": "SAN ANTONIO DE ORIENTE FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "SAN BUENAVENTURA",
+   "label": "SAN BUENAVENTURA FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "SAN IGNACIO",
+   "label": "SAN IGNACIO FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "SAN JUAN DE FLORES",
+   "label": "SAN JUAN DE FLORES FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "SAN MIGUELITO",
+   "label": "SAN MIGUELITO FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "SANTA ANA",
+   "label": "SANTA ANA FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "SANTA LUCIA",
+   "label": "SANTA LUCIA FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "TALANGA",
+   "label": "TALANGA FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "TATUMBLA",
+   "label": "TATUMBLA FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "VALLE DE ANGELES",
+   "label": "VALLE DE ANGELES FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "VILLA DE SAN FRANCISCO",
+   "label": "VILLA DE SAN FRANCISCO FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "FRANCISCO MORAZAN",
+   "municipio": "VALLECILLOS",
+   "label": "VALLECILLOS FRANCISCO MORAZAN"
+ },
+ {
+   "departamento": "GRACIAS A DIOS",
+   "municipio": "PUERTO LEMPIRA",
+   "label": "PUERTO LEMPIRA GRACIAS A DIOS"
+ },
+ {
+   "departamento": "GRACIAS A DIOS",
+   "municipio": "BRUS LAGUNA",
+   "label": "BRUS LAGUNA GRACIAS A DIOS"
+ },
+ {
+   "departamento": "GRACIAS A DIOS",
+   "municipio": "AHUAS",
+   "label": "AHUAS GRACIAS A DIOS"
+ },
+ {
+   "departamento": "GRACIAS A DIOS",
+   "municipio": "JUAN FRANCISCO BULNES",
+   "label": "JUAN FRANCISCO BULNES GRACIAS A DIOS"
+ },
+ {
+   "departamento": "GRACIAS A DIOS",
+   "municipio": "VILLEDA MORALES",
+   "label": "VILLEDA MORALES GRACIAS A DIOS"
+ },
+ {
+   "departamento": "GRACIAS A DIOS",
+   "municipio": "WAMPUSIRPE",
+   "label": "WAMPUSIRPE GRACIAS A DIOS"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "LA ESPERANZA",
+   "label": "LA ESPERANZA INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "CAMASCA",
+   "label": "CAMASCA INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "COLOMONCAGUA",
+   "label": "COLOMONCAGUA INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "CONCEPCION",
+   "label": "CONCEPCION INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "DOLORES",
+   "label": "DOLORES INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "INTIBUCA",
+   "label": "INTIBUCA INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "JESUS DE OTORO",
+   "label": "JESUS DE OTORO INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "MAGDALENA",
+   "label": "MAGDALENA INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "MASAGUARA",
+   "label": "MASAGUARA INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "SAN ANTONIO",
+   "label": "SAN ANTONIO INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "SAN ISIDRO",
+   "label": "SAN ISIDRO INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "SAN JUAN",
+   "label": "SAN JUAN INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "SAN MARCOS DE LA SIERRA",
+   "label": "SAN MARCOS DE LA SIERRA INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "SAN MIGUEL GUANCAPLA",
+   "label": "SAN MIGUEL GUANCAPLA INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "SANTA LUCIA",
+   "label": "SANTA LUCIA INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "YAMARANGUILA",
+   "label": "YAMARANGUILA INTIBUCA"
+ },
+ {
+   "departamento": "INTIBUCA",
+   "municipio": "SAN FRANCISCO OPALACA",
+   "label": "SAN FRANCISCO OPALACA INTIBUCA"
+ },
+ {
+   "departamento": "ISLAS DE LA BAHIA",
+   "municipio": "ROATAN",
+   "label": "ROATAN ISLAS DE LA BAHIA"
+ },
+ {
+   "departamento": "ISLAS DE LA BAHIA",
+   "municipio": "GUANAJA",
+   "label": "GUANAJA ISLAS DE LA BAHIA"
+ },
+ {
+   "departamento": "ISLAS DE LA BAHIA",
+   "municipio": "JOSE SANTOS GUARDIOLA",
+   "label": "JOSE SANTOS GUARDIOLA ISLAS DE LA BAHIA"
+ },
+ {
+   "departamento": "ISLAS DE LA BAHIA",
+   "municipio": "UTILA",
+   "label": "UTILA ISLAS DE LA BAHIA"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "LA PAZ",
+   "label": "LA PAZ LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "AGUANQUETERIQUE",
+   "label": "AGUANQUETERIQUE LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "CABAÑAS",
+   "label": "CABAÑAS LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "CANE",
+   "label": "CANE LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "CHINACLA",
+   "label": "CHINACLA LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "GUAJIQUIRO",
+   "label": "GUAJIQUIRO LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "LAUTERIQUE",
+   "label": "LAUTERIQUE LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "MARCALA",
+   "label": "MARCALA LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "MERCEDES DE ORIENTE",
+   "label": "MERCEDES DE ORIENTE LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "OPATORO",
+   "label": "OPATORO LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "SAN ANTONIO DEL NORTE",
+   "label": "SAN ANTONIO DEL NORTE LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "SAN JOSE",
+   "label": "SAN JOSE LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "SAN JUAN",
+   "label": "SAN JUAN LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "SAN PEDRO TUTULE",
+   "label": "SAN PEDRO TUTULE LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "SANTA ANA",
+   "label": "SANTA ANA LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "SANTA ELENA",
+   "label": "SANTA ELENA LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "SANTA MARIA",
+   "label": "SANTA MARIA LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "SANTIAGO PURINGLA",
+   "label": "SANTIAGO PURINGLA LA PAZ"
+ },
+ {
+   "departamento": "LA PAZ",
+   "municipio": "YARULA",
+   "label": "YARULA LA PAZ"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "GRACIAS",
+   "label": "GRACIAS LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "BELEN",
+   "label": "BELEN LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "CANDELARIA",
+   "label": "CANDELARIA LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "COLOLACA",
+   "label": "COLOLACA LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "ERANDIQUE",
+   "label": "ERANDIQUE LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "GUALCINCE",
+   "label": "GUALCINCE LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "GUARITA",
+   "label": "GUARITA LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "LA CAMPA",
+   "label": "LA CAMPA LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "LA IGUALA",
+   "label": "LA IGUALA LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "LAS FLORES",
+   "label": "LAS FLORES LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "LA UNION",
+   "label": "LA UNION LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "LA VIRTUD",
+   "label": "LA VIRTUD LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "LEPAERA",
+   "label": "LEPAERA LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "MAPULACA",
+   "label": "MAPULACA LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "PIRAERA",
+   "label": "PIRAERA LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "SAN ANDRES",
+   "label": "SAN ANDRES LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "SAN FRANCISCO",
+   "label": "SAN FRANCISCO LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "SAN JUAN GUARITA",
+   "label": "SAN JUAN GUARITA LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "SAN MANUEL COLOHETE",
+   "label": "SAN MANUEL COLOHETE LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "SAN RAFAEL",
+   "label": "SAN RAFAEL LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "SAN SEBASTIAN",
+   "label": "SAN SEBASTIAN LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "SANTA CRUZ",
+   "label": "SANTA CRUZ LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "TALGUA",
+   "label": "TALGUA LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "TAMBLA",
+   "label": "TAMBLA LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "TOMALA",
+   "label": "TOMALA LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "VALLADOLID",
+   "label": "VALLADOLID LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "VIRGINIA",
+   "label": "VIRGINIA LEMPIRA"
+ },
+ {
+   "departamento": "LEMPIRA",
+   "municipio": "SAN MARCOS DE CAIQUIN",
+   "label": "SAN MARCOS DE CAIQUIN LEMPIRA"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "NUEVA OCOTEPEQUE",
+   "label": "NUEVA OCOTEPEQUE OCOTEPEQUE"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "BELEN GUALCHO",
+   "label": "BELEN GUALCHO OCOTEPEQUE"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "CONCEPCION",
+   "label": "CONCEPCION OCOTEPEQUE"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "MERENDON",
+   "label": "MERENDON OCOTEPEQUE"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "FRATERNIDAD",
+   "label": "FRATERNIDAD OCOTEPEQUE"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "LA ENCARNACION",
+   "label": "LA ENCARNACION OCOTEPEQUE"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "LA LABOR",
+   "label": "LA LABOR OCOTEPEQUE"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "LUCERNA",
+   "label": "LUCERNA OCOTEPEQUE"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "MERCEDES",
+   "label": "MERCEDES OCOTEPEQUE"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "SAN FERNANDO",
+   "label": "SAN FERNANDO OCOTEPEQUE"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "SAN FRANCISCO DEL VALLE",
+   "label": "SAN FRANCISCO DEL VALLE OCOTEPEQUE"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "SAN JORGE",
+   "label": "SAN JORGE OCOTEPEQUE"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "SAN MARCOS",
+   "label": "SAN MARCOS OCOTEPEQUE"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "SANTE FE",
+   "label": "SANTE FE OCOTEPEQUE"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "SENSENTI",
+   "label": "SENSENTI OCOTEPEQUE"
+ },
+ {
+   "departamento": "OCOTEPEQUE",
+   "municipio": "SINUAPA",
+   "label": "SINUAPA OCOTEPEQUE"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "JUTICALPA",
+   "label": "JUTICALPA OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "CAMPAMENTO",
+   "label": "CAMPAMENTO OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "CATACAMAS",
+   "label": "CATACAMAS OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "CONCORDIA",
+   "label": "CONCORDIA OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "DULCE NOMBRE DE CULMI",
+   "label": "DULCE NOMBRE DE CULMI OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "EL ROSARIO",
+   "label": "EL ROSARIO OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "ESQUIPULAS DEL NORTE",
+   "label": "ESQUIPULAS DEL NORTE OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "GUALACO",
+   "label": "GUALACO OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "GUARIZAMA",
+   "label": "GUARIZAMA OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "GUATA",
+   "label": "GUATA OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "GUAYAPE",
+   "label": "GUAYAPE OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "JANO",
+   "label": "JANO OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "LA UNION",
+   "label": "LA UNION OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "MANGULILE",
+   "label": "MANGULILE OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "MANTO",
+   "label": "MANTO OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "SALAMA",
+   "label": "SALAMA OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "SAN ESTEBAN",
+   "label": "SAN ESTEBAN OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "SAN FRCO DE BECERRA",
+   "label": "SAN FRCO DE BECERRA OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "SAN FRCO DE LA PAZ",
+   "label": "SAN FRCO DE LA PAZ OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "STA MARIA DEL REAL",
+   "label": "STA MARIA DEL REAL OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "SILCA",
+   "label": "SILCA OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "YOCON",
+   "label": "YOCON OLANCHO"
+ },
+ {
+   "departamento": "OLANCHO",
+   "municipio": "PATUCA",
+   "label": "PATUCA OLANCHO"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "SANTA BARBARA",
+   "label": "SANTA BARBARA SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "ARADA",
+   "label": "ARADA SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "ATIMA",
+   "label": "ATIMA SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "AZACUALPA",
+   "label": "AZACUALPA SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "CEGUACA",
+   "label": "CEGUACA SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "COLINAS",
+   "label": "COLINAS SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "CONCEPCION DEL NORTE",
+   "label": "CONCEPCION DEL NORTE SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "CONCEPCION DEL SUR",
+   "label": "CONCEPCION DEL SUR SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "CHINDA",
+   "label": "CHINDA SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "EL NISPERO",
+   "label": "EL NISPERO SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "GUALALA",
+   "label": "GUALALA SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "ILAMA",
+   "label": "ILAMA SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "MACUELIZO",
+   "label": "MACUELIZO SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "NARANJITO",
+   "label": "NARANJITO SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "NUEVA CELILAC",
+   "label": "NUEVA CELILAC SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "PETOA",
+   "label": "PETOA SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "PROTECCION",
+   "label": "PROTECCION SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "QUIMISTAN",
+   "label": "QUIMISTAN SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "SAN FCO DE OJUERA",
+   "label": "SAN FCO DE OJUERA SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "SAN LUIS",
+   "label": "SAN LUIS SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "SAN MARCOS",
+   "label": "SAN MARCOS SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "SAN NICOLAS",
+   "label": "SAN NICOLAS SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "SAN PEDRO ZACAPA",
+   "label": "SAN PEDRO ZACAPA SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "SANTA RITA",
+   "label": "SANTA RITA SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "SAN VICENTE CENTENARIO",
+   "label": "SAN VICENTE CENTENARIO SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "TRINIDAD",
+   "label": "TRINIDAD SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "LAS VEGAS",
+   "label": "LAS VEGAS SANTA BARBARA"
+ },
+ {
+   "departamento": "SANTA BARBARA",
+   "municipio": "TRAS CERROS",
+   "label": "TRAS CERROS SANTA BARBARA"
+ },
+ {
+   "departamento": "VALLE",
+   "municipio": "NACAOME",
+   "label": "NACAOME VALLE"
+ },
+ {
+   "departamento": "VALLE",
+   "municipio": "ALIANZA",
+   "label": "ALIANZA VALLE"
+ },
+ {
+   "departamento": "VALLE",
+   "municipio": "AMAPALA",
+   "label": "AMAPALA VALLE"
+ },
+ {
+   "departamento": "VALLE",
+   "municipio": "ARAMECINA",
+   "label": "ARAMECINA VALLE"
+ },
+ {
+   "departamento": "VALLE",
+   "municipio": "CARIDAD",
+   "label": "CARIDAD VALLE"
+ },
+ {
+   "departamento": "VALLE",
+   "municipio": "GOASCORAN",
+   "label": "GOASCORAN VALLE"
+ },
+ {
+   "departamento": "VALLE",
+   "municipio": "LANGUE",
+   "label": "LANGUE VALLE"
+ },
+ {
+   "departamento": "VALLE",
+   "municipio": "SAN FCO DE CORAY",
+   "label": "SAN FCO DE CORAY VALLE"
+ },
+ {
+   "departamento": "VALLE",
+   "municipio": "SAN LORENZO",
+   "label": "SAN LORENZO VALLE"
+ },
+ {
+   "departamento": "YORO",
+   "municipio": "YORO",
+   "label": "YORO YORO"
+ },
+ {
+   "departamento": "YORO",
+   "municipio": "ARENAL",
+   "label": "ARENAL YORO"
+ },
+ {
+   "departamento": "YORO",
+   "municipio": "EL NEGRITO",
+   "label": "EL NEGRITO YORO"
+ },
+ {
+   "departamento": "YORO",
+   "municipio": "EL PROGRESO",
+   "label": "EL PROGRESO YORO"
+ },
+ {
+   "departamento": "YORO",
+   "municipio": "JOCON",
+   "label": "JOCON YORO"
+ },
+ {
+   "departamento": "YORO",
+   "municipio": "MORAZAN",
+   "label": "MORAZAN YORO"
+ },
+ {
+   "departamento": "YORO",
+   "municipio": "OLANCHITO",
+   "label": "OLANCHITO YORO"
+ },
+ {
+   "departamento": "YORO",
+   "municipio": "SANTA RITA",
+   "label": "SANTA RITA YORO"
+ },
+ {
+   "departamento": "YORO",
+   "municipio": "SULACO",
+   "label": "SULACO YORO"
+ },
+ {
+   "departamento": "YORO",
+   "municipio": "VICTORIA",
+   "label": "VICTORIA YORO"
+ },
+ {
+   "departamento": "YORO",
+   "municipio": "YORITO",
+   "label": "YORITO YORO"
+ }
+]

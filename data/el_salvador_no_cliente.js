@@ -1,7 +1,7 @@
 module.exports = {
     token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1NjU5MDYwMTEsImV4cCI6MTU5NzQ0MjAxMSwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImNsaWVuZHRJRCI6IjAxMjM0NTY3ODkiLCJwYXJ0bmVyIjoiTUwiLCJwcm9kdWN0IjoiQ0FNIiwibGVuZ3VhamUiOiJlcy1DUiIsImNhbmFsIjoid2ViIiwicGFpcyI6IlNWIiwibW9kdWxvIjoicXVlPz8_In0.vnSzawixVVFLN-2X372wrld0k71fjc6nsjyYc0tOShU',
     workflow: {
-        INITIAL: 'ING001',
+        APPBOOT: 'ING001',
         ING001: 'ING002',
         ING002: 'BEN001',
         BEN001: 'TPC001',

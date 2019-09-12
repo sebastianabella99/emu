@@ -24,6 +24,18 @@ const respuesta = (req, res) => {
   // }
   file = `${file}.json`
   console.log('Archivo enviado',file);
+  if ( query.pais === 'CR') {
+    res.sendFile(file, { root: path.join(__dirname, '../dataService/CR') });
+    return;
+  }
+  if ( query.pais === 'HN') {
+    res.sendFile(file, { root: path.join(__dirname, '../dataService/HN') });
+    return;
+  }
+  if ( query.pais === 'SV') {
+    res.sendFile(file, { root: path.join(__dirname, '../dataService/SV') });
+    return;
+  }
   res.sendFile(file, { root: path.join(__dirname, '../dataService') });
 };
 
