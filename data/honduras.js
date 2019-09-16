@@ -1,16 +1,17 @@
 module.exports = {
     token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1NjU5MDYwMTEsImV4cCI6MTU5NzQ0MjAxMSwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImNsaWVuZHRJRCI6IjAxMjM0NTY3ODkiLCJwYXJ0bmVyIjoiTUwiLCJwcm9kdWN0IjoiQ0FNIiwibGVuZ3VhamUiOiJlcy1DUiIsImNhbmFsIjoid2ViIiwicGFpcyI6IkhOIiwibW9kdWxvIjoicXVlPz8_In0.RACacOzgx-qr0yKGUTMYqlU_Uod9L0ijZudl95iAzsY',
     workflow: {
-        APPBOOT: 'ING001',
-        ING001: 'ING002',
-        ING002: 'TPC001',
-        TPC001: 'BEN001',
-        BEN001: 'VIN001',
-        VIN001: 'VIN002',
-        VIN002: 'VIN003',
-        VIN003: 'VIN004',
-        VIN004: 'VIN005',
-        VIN005: 'VIN006'
+          APPBOOT: 'ING001',
+          ING001: 'ING002',
+          ING002: 'TPC001',
+          TPC001: 'BEN001',
+          BEN001: 'VIN001',
+          VIN001: 'VIN002',
+          VIN002: 'VIN003',
+          VIN003: 'VIN004',
+          VIN004: 'VIN005',
+          VIN005: 'OTP001',
+          OTP001: 'OTP001'
     },
     ING001: {
         status: 1,
