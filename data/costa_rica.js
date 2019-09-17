@@ -10,7 +10,8 @@ module.exports = {
         VIN002: 'VIN003',
         VIN003: 'VIN004',
         VIN004: 'VIN005',
-        VIN005: 'VIN006'
+        VIN005: 'OTP001',
+        OTP001: 'OTP001'
     },
     ING001: {
         status: 1,
@@ -33,6 +34,10 @@ module.exports = {
         }
     },
     TPC001: {
+        status: 1,
+        payload: {}
+    },
+    OTP001: {
         status: 1,
         payload: {}
     },
@@ -127,10 +132,6 @@ module.exports = {
         payload: {}
     },
     ACU002: {
-        status: 1,
-        payload: {}
-    },
-    OTP001: {
         status: 1,
         payload: {}
     },

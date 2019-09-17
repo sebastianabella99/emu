@@ -3,14 +3,15 @@ module.exports = {
     workflow: {
         APPBOOT: 'ING001',
         ING001: 'ING002',
-        ING002: 'BEN001',
-        BEN001: 'TPC001',
-        TPC001: 'VIN001',
+        ING002: 'TPC001',
+        TPC001: 'BEN001',
+        BEN001: 'VIN001',
         VIN001: 'VIN002',
         VIN002: 'VIN003',
         VIN003: 'VIN004',
         VIN004: 'VIN005',
-        VIN005: 'VIN006'
+        VIN005: 'OTP001',
+        OTP001: 'OTP001'
    },
     ING001: {
         status: 1,
