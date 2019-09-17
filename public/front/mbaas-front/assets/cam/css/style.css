@@ -432,19 +432,19 @@ body {
   font-family: "MyriadPro";
   font-style: italic;
   font-weight: 100;
-  src: url("../fonts/MyriadPro-It.eot?") format("eot"), url("../fonts/MyriadPro-It.woff") format("woff"), url("../fonts/MyriadPro-It.ttf") format("truetype"), url("../fonts/MyriadPro-It.svg#MyriadPro") format("svg");
+  src: url("./assets/cam/fonts/MyriadPro-It.eot?") format("eot"), url("./assets/cam/fonts/MyriadPro-It.woff") format("woff"), url("./assets/cam/fonts/MyriadPro-It.ttf") format("truetype"), url("./assets/cam/fonts/MyriadPro-It.svg#MyriadPro") format("svg");
 }
 @font-face {
   font-family: "MyriadPro";
   font-style: normal;
   font-weight: 100;
-  src: url("../fonts/MyriadPro-Regular.eot?") format("eot"), url("../fonts/MyriadPro-Regular.woff") format("woff"), url("../fonts/MyriadPro-Regular.ttf") format("truetype"), url("../fonts/MyriadPro-Regular.svg#MyriadPro") format("svg");
+  src: url("./assets/cam/fonts/MyriadPro-Regular.eot?") format("eot"), url("./assets/cam/fonts/MyriadPro-Regular.woff") format("woff"), url("./assets/cam/fonts/MyriadPro-Regular.ttf") format("truetype"), url("./assets/cam/fonts/MyriadPro-Regular.svg#MyriadPro") format("svg");
 }
 @font-face {
   font-family: "MyriadPro";
   font-style: normal;
   font-weight: bold;
-  src: url("../fonts/MyriadPro-Bold.eot?") format("eot"), url("../fonts/MyriadPro-Bold.woff") format("woff"), url("../fonts/MyriadPro-Bold.ttf") format("truetype"), url("../fonts/MyriadPro-Bold.svg#MyriadPro") format("svg");
+  src: url("./assets/cam/fonts/MyriadPro-Bold.eot?") format("eot"), url("./assets/cam/fonts/MyriadPro-Bold.woff") format("woff"), url("./assets/cam/fonts/MyriadPro-Bold.ttf") format("truetype"), url("./assets/cam/fonts/MyriadPro-Bold.svg#MyriadPro") format("svg");
 }
 /**
  * Text elements - styles.

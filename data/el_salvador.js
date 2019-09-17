@@ -80,7 +80,7 @@ module.exports = {
             cliente:{
                 nombre: 'Sergio Rafael',
                 documento: {
-                     tipo: '01',
+                     tipo: '0001',
                      numero: '1234567890'
                 },
                 sexo: 'M',
