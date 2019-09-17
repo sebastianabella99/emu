@@ -17,11 +17,12 @@ router.post('/workflow', (req, res) => {
   var paso = req.body.stepId;
   var response = {
     data: {
-      stepStatus: datos[datos.workflow[paso]].status,
+      status: datos[datos.workflow[paso]].status,
       clientId: '1234-4567-8901-2345-6789-0123',
       payload: datos[datos.workflow[paso]].payload,
       stepId: datos.workflow[paso]
-    }
+    },
+    errors: []
   };
   console.log('==============================================================================');
   console.warn(response);

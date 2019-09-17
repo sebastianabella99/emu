@@ -1,0 +1,232 @@
+[
+ {
+   "value": "0001",
+   "label": "BOCAS DEL TORO",
+   "pais": "PA"
+ },
+ {
+   "value": "0002",
+   "label": "COCLÉ",
+   "pais": "PA"
+ },
+ {
+   "value": "0003",
+   "label": "COLÓN",
+   "pais": "PA"
+ },
+ {
+   "value": "0004",
+   "label": "CHIRIQUÍ",
+   "pais": "PA"
+ },
+ {
+   "value": "0005",
+   "label": "DARIEN",
+   "pais": "PA"
+ },
+ {
+   "value": "0006",
+   "label": "HERRERA",
+   "pais": "PA"
+ },
+ {
+   "value": "0007",
+   "label": "LOS SANTOS",
+   "pais": "PA"
+ },
+ {
+   "value": "0008",
+   "label": "PANAMÁ",
+   "pais": "PA"
+ },
+ {
+   "value": "0009",
+   "label": "VERAGUAS",
+   "pais": "PA"
+ },
+ {
+   "value": "0010",
+   "label": "GUNA YALA",
+   "pais": "PA"
+ },
+ {
+   "value": "0011",
+   "label": "EMBERÁ-WOUNAAN",
+   "pais": "PA"
+ },
+ {
+   "value": "0012",
+   "label": "NGABE-BUGLE",
+   "pais": "PA"
+ },
+ {
+   "value": "0013",
+   "label": "PANAMÁ OESTE",
+   "pais": "PA"
+ },
+ {
+   "value": "0020",
+   "label": "AMAZONAS",
+   "pais": "CO"
+ },
+ {
+   "value": "0021",
+   "label": "ANTIOQUIA",
+   "pais": "CO"
+ },
+ {
+   "value": "0022",
+   "label": "ARAUCA",
+   "pais": "CO"
+ },
+ {
+   "value": "0023",
+   "label": "ATLANTICO",
+   "pais": "CO"
+ },
+ {
+   "value": "0024",
+   "label": "BOGOTA",
+   "pais": "CO"
+ },
+ {
+   "value": "0025",
+   "label": "BOLIVAR",
+   "pais": "CO"
+ },
+ {
+   "value": "0026",
+   "label": "BOYACA",
+   "pais": "CO"
+ },
+ {
+   "value": "0027",
+   "label": "CALDAS",
+   "pais": "CO"
+ },
+ {
+   "value": "0028",
+   "label": "CAQUETA",
+   "pais": "CO"
+ },
+ {
+   "value": "0029",
+   "label": "CASANARE",
+   "pais": "CO"
+ },
+ {
+   "value": "0030",
+   "label": "CAUCA",
+   "pais": "CO"
+ },
+ {
+   "value": "0031",
+   "label": "CESAR",
+   "pais": "CO"
+ },
+ {
+   "value": "0032",
+   "label": "CHOCO",
+   "pais": "CO"
+ },
+ {
+   "value": "0033",
+   "label": "CORDOBA",
+   "pais": "CO"
+ },
+ {
+   "value": "0034",
+   "label": "CUNDINAMARCA",
+   "pais": "CO"
+ },
+ {
+   "value": "0035",
+   "label": "GUAINIA",
+   "pais": "CO"
+ },
+ {
+   "value": "0036",
+   "label": "GUAVIARE",
+   "pais": "CO"
+ },
+ {
+   "value": "0037",
+   "label": "HUILA",
+   "pais": "CO"
+ },
+ {
+   "value": "0038",
+   "label": "LA GUAJIRA",
+   "pais": "CO"
+ },
+ {
+   "value": "0039",
+   "label": "MAGDALENA",
+   "pais": "CO"
+ },
+ {
+   "value": "0040",
+   "label": "META",
+   "pais": "CO"
+ },
+ {
+   "value": "0041",
+   "label": "NARIÑO",
+   "pais": "CO"
+ },
+ {
+   "value": "0042",
+   "label": "NORTE DE SANTANDER",
+   "pais": "CO"
+ },
+ {
+   "value": "0043",
+   "label": "PUTUMAYO",
+   "pais": "CO"
+ },
+ {
+   "value": "0044",
+   "label": "QUINDIO",
+   "pais": "CO"
+ },
+ {
+   "value": "0045",
+   "label": "RISARALDA",
+   "pais": "CO"
+ },
+ {
+   "value": "0046",
+   "label": "SAN ANDRES Y PROVIDENCIA",
+   "pais": "CO"
+ },
+ {
+   "value": "0047",
+   "label": "SANTANDER",
+   "pais": "CO"
+ },
+ {
+   "value": "0048",
+   "label": "SUCRE",
+   "pais": "CO"
+ },
+ {
+   "value": "0049",
+   "label": "TOLIMA",
+   "pais": "CO"
+ },
+ {
+   "value": "0050",
+   "label": "VALLE DEL CAUCA",
+   "pais": "CO"
+ },
+ {
+   "value": "0051",
+   "label": "VAUPES",
+   "pais": "CO"
+ },
+ {
+   "value": "0052",
+   "label": "VICHADA",
+   "pais": "CO"
+ }
+]

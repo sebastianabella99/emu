@@ -1,0 +1,30 @@
+[
+ {
+   "value": "01",
+   "label": "Asalariado"
+ },
+ {
+   "value": "02",
+   "label": "ESTUDIANTE-AMA DE CASA"
+ },
+ {
+   "value": "03",
+   "label": "Pensionado/Jubilado"
+ },
+ {
+   "value": "04",
+   "label": "Persona Natural con Negocio Propio"
+ },
+ {
+   "value": "05",
+   "label": "Profesional Independiente"
+ },
+ {
+   "value": "06",
+   "label": "Banca Patrimonial"
+ },
+ {
+   "value": "07",
+   "label": "SCC"
+ }
+]

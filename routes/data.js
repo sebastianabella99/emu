@@ -23,17 +23,9 @@ const respuesta = (req, res) => {
   //   file = `${file}-L${query.lenguaje}`
   // }
   file = `${file}.json`
-  console.log('Archivo enviado',file);
-  if ( query.pais === 'CR') {
-    res.sendFile(file, { root: path.join(__dirname, '../dataService/CR') });
-    return;
-  }
-  if ( query.pais === 'HN') {
-    res.sendFile(file, { root: path.join(__dirname, '../dataService/HN') });
-    return;
-  }
-  if ( query.pais === 'SV') {
-    res.sendFile(file, { root: path.join(__dirname, '../dataService/SV') });
+  console.log('Archivo enviado:', file);
+  if ( query.pais ) {
+    res.sendFile(file, { root: path.join(__dirname, `../dataService/${query.pais}`) });
     return;
   }
   res.sendFile(file, { root: path.join(__dirname, '../dataService') });

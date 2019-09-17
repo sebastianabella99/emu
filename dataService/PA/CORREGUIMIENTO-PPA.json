@@ -1,0 +1,3252 @@
+[
+ {
+   "value": "0001",
+   "label": "BASTIMENTOS1",
+   "coreguimiento": "1"
+ },
+ {
+   "value": "0002",
+   "label": "BOCAS DEL TORO2",
+   "coreguimiento": "1"
+ },
+ {
+   "value": "0003",
+   "label": "CAUCHERO3",
+   "coreguimiento": "1"
+ },
+ {
+   "value": "0004",
+   "label": "PUNTA LAUREL",
+   "coreguimiento": "1"
+ },
+ {
+   "value": "0005",
+   "label": "TIERRA OSCURA",
+   "coreguimiento": "1"
+ },
+ {
+   "value": "0006",
+   "label": "ALMIRANTE",
+   "coreguimiento": "2"
+ },
+ {
+   "value": "0007",
+   "label": "CHANGUINOLA",
+   "coreguimiento": "2"
+ },
+ {
+   "value": "0008",
+   "label": "COCHIGRO",
+   "coreguimiento": "2"
+ },
+ {
+   "value": "0009",
+   "label": "EL EMPALME",
+   "coreguimiento": "2"
+ },
+ {
+   "value": "0010",
+   "label": "GUABITO",
+   "coreguimiento": "2"
+ },
+ {
+   "value": "0011",
+   "label": "LA GLORIA",
+   "coreguimiento": "2"
+ },
+ {
+   "value": "0012",
+   "label": "LAS DELICIAS",
+   "coreguimiento": "2"
+ },
+ {
+   "value": "0013",
+   "label": "LAS TABLAS",
+   "coreguimiento": "2"
+ },
+ {
+   "value": "0014",
+   "label": "NANCE DEL RISCO",
+   "coreguimiento": "2"
+ },
+ {
+   "value": "0015",
+   "label": "EL TERIBE",
+   "coreguimiento": "2"
+ },
+ {
+   "value": "0016",
+   "label": "VALLE DEL RISCO",
+   "coreguimiento": "2"
+ },
+ {
+   "value": "0017",
+   "label": "VALLE DE AGUA",
+   "coreguimiento": "2"
+ },
+ {
+   "value": "0018",
+   "label": "BAJO CEDRO",
+   "coreguimiento": "3"
+ },
+ {
+   "value": "0019",
+   "label": "CHIRIQUÍ GRANDE",
+   "coreguimiento": "3"
+ },
+ {
+   "value": "0020",
+   "label": "MIRAMAR",
+   "coreguimiento": "3"
+ },
+ {
+   "value": "0021",
+   "label": "PUNTA PEÑA",
+   "coreguimiento": "3"
+ },
+ {
+   "value": "0022",
+   "label": "PUNTA ROBALO",
+   "coreguimiento": "3"
+ },
+ {
+   "value": "0023",
+   "label": "RAMBALA",
+   "coreguimiento": "3"
+ },
+ {
+   "value": "0024",
+   "label": "ALANJE",
+   "coreguimiento": "4"
+ },
+ {
+   "value": "0025",
+   "label": "DIVALÁ",
+   "coreguimiento": "4"
+ },
+ {
+   "value": "0026",
+   "label": "CANTA GALLO",
+   "coreguimiento": "4"
+ },
+ {
+   "value": "0027",
+   "label": "EL TEJAR",
+   "coreguimiento": "4"
+ },
+ {
+   "value": "0028",
+   "label": "GUARUMAL",
+   "coreguimiento": "4"
+ },
+ {
+   "value": "0029",
+   "label": "NUEVO MÉXICO",
+   "coreguimiento": "4"
+ },
+ {
+   "value": "0030",
+   "label": "QUERÉVALO",
+   "coreguimiento": "4"
+ },
+ {
+   "value": "0031",
+   "label": "PALO GRANDE",
+   "coreguimiento": "4"
+ },
+ {
+   "value": "0032",
+   "label": "SANTO TOMÁS",
+   "coreguimiento": "4"
+ },
+ {
+   "value": "0033",
+   "label": "BACO",
+   "coreguimiento": "5"
+ },
+ {
+   "value": "0034",
+   "label": "LIMONES",
+   "coreguimiento": "5"
+ },
+ {
+   "value": "0035",
+   "label": "PROGRESO",
+   "coreguimiento": "5"
+ },
+ {
+   "value": "0036",
+   "label": "PUERTO ARMUELLES",
+   "coreguimiento": "5"
+ },
+ {
+   "value": "0037",
+   "label": "RODOLFO AGUILAR DELGADO",
+   "coreguimiento": "5"
+ },
+ {
+   "value": "0038",
+   "label": "BÁGALA",
+   "coreguimiento": "6"
+ },
+ {
+   "value": "0039",
+   "label": "BOQUERÓN",
+   "coreguimiento": "6"
+ },
+ {
+   "value": "0040",
+   "label": "CORDILLERA",
+   "coreguimiento": "6"
+ },
+ {
+   "value": "0041",
+   "label": "GUABAL",
+   "coreguimiento": "6"
+ },
+ {
+   "value": "0042",
+   "label": "GUAYABAL",
+   "coreguimiento": "6"
+ },
+ {
+   "value": "0043",
+   "label": "PARAÍSO",
+   "coreguimiento": "6"
+ },
+ {
+   "value": "0044",
+   "label": "PEDREGAL",
+   "coreguimiento": "6"
+ },
+ {
+   "value": "0045",
+   "label": "TIJERAS",
+   "coreguimiento": "6"
+ },
+ {
+   "value": "0046",
+   "label": "ALTO BOQUETE",
+   "coreguimiento": "7"
+ },
+ {
+   "value": "0047",
+   "label": "BAJO BOQUETE",
+   "coreguimiento": "7"
+ },
+ {
+   "value": "0048",
+   "label": "CALDERA",
+   "coreguimiento": "7"
+ },
+ {
+   "value": "0049",
+   "label": "JARAMILLO",
+   "coreguimiento": "7"
+ },
+ {
+   "value": "0050",
+   "label": "LOS NARANJOS",
+   "coreguimiento": "7"
+ },
+ {
+   "value": "0051",
+   "label": "PALMIRA",
+   "coreguimiento": "7"
+ },
+ {
+   "value": "0052",
+   "label": "ASERRÍO DE GARICHÉ",
+   "coreguimiento": "8"
+ },
+ {
+   "value": "0053",
+   "label": "BUGABA",
+   "coreguimiento": "8"
+ },
+ {
+   "value": "0054",
+   "label": "CERRO PUNTA",
+   "coreguimiento": "8"
+ },
+ {
+   "value": "0055",
+   "label": "EL BONGO",
+   "coreguimiento": "8"
+ },
+ {
+   "value": "0056",
+   "label": "GÓMEZ",
+   "coreguimiento": "8"
+ },
+ {
+   "value": "0057",
+   "label": "LA CONCEPCIÓN",
+   "coreguimiento": "8"
+ },
+ {
+   "value": "0058",
+   "label": "LA ESTRELLA",
+   "coreguimiento": "8"
+ },
+ {
+   "value": "0059",
+   "label": "SAN ANDRÉS",
+   "coreguimiento": "8"
+ },
+ {
+   "value": "0060",
+   "label": "SANTA MARTA",
+   "coreguimiento": "8"
+ },
+ {
+   "value": "0061",
+   "label": "SANTA ROSA",
+   "coreguimiento": "8"
+ },
+ {
+   "value": "0062",
+   "label": "SANTO DOMINGO",
+   "coreguimiento": "8"
+ },
+ {
+   "value": "0063",
+   "label": "SOLANO",
+   "coreguimiento": "8"
+ },
+ {
+   "value": "0064",
+   "label": "SORTOVÁ",
+   "coreguimiento": "8"
+ },
+ {
+   "value": "0065",
+   "label": "VOLCÁN",
+   "coreguimiento": "8"
+ },
+ {
+   "value": "0066",
+   "label": "BIJAGUAL",
+   "coreguimiento": "9"
+ },
+ {
+   "value": "0067",
+   "label": "COCHEA",
+   "coreguimiento": "9"
+ },
+ {
+   "value": "0068",
+   "label": "CHIRIQUÍ",
+   "coreguimiento": "9"
+ },
+ {
+   "value": "0069",
+   "label": "DAVID",
+   "coreguimiento": "9"
+ },
+ {
+   "value": "0070",
+   "label": "GUACÁ",
+   "coreguimiento": "9"
+ },
+ {
+   "value": "0071",
+   "label": "LAS LOMAS",
+   "coreguimiento": "9"
+ },
+ {
+   "value": "0072",
+   "label": "PEDREGAL",
+   "coreguimiento": "9"
+ },
+ {
+   "value": "0073",
+   "label": "SAN CARLOS",
+   "coreguimiento": "9"
+ },
+ {
+   "value": "0074",
+   "label": "SAN PABLO NUEVO",
+   "coreguimiento": "9"
+ },
+ {
+   "value": "0075",
+   "label": "SAN PABLO VIEJO",
+   "coreguimiento": "9"
+ },
+ {
+   "value": "0076",
+   "label": "DOLEGA",
+   "coreguimiento": "10"
+ },
+ {
+   "value": "0077",
+   "label": "DOS RÍOS",
+   "coreguimiento": "10"
+ },
+ {
+   "value": "0078",
+   "label": "LOS ALGARROBOS",
+   "coreguimiento": "10"
+ },
+ {
+   "value": "0079",
+   "label": "LOS ANASTACIOS",
+   "coreguimiento": "10"
+ },
+ {
+   "value": "0080",
+   "label": "POTRERILLOS",
+   "coreguimiento": "10"
+ },
+ {
+   "value": "0081",
+   "label": "POTRERILLOS ABAJO",
+   "coreguimiento": "10"
+ },
+ {
+   "value": "0082",
+   "label": "ROVIRA",
+   "coreguimiento": "10"
+ },
+ {
+   "value": "0083",
+   "label": "TINAJAS",
+   "coreguimiento": "10"
+ },
+ {
+   "value": "0084",
+   "label": "GUALACA",
+   "coreguimiento": "11"
+ },
+ {
+   "value": "0085",
+   "label": "HORNITO",
+   "coreguimiento": "11"
+ },
+ {
+   "value": "0086",
+   "label": "LOS ANGELES",
+   "coreguimiento": "11"
+ },
+ {
+   "value": "0087",
+   "label": "PAJA DE SOMBRERO",
+   "coreguimiento": "11"
+ },
+ {
+   "value": "0088",
+   "label": "RINCÓN",
+   "coreguimiento": "11"
+ },
+ {
+   "value": "0089",
+   "label": "EL NANCITO",
+   "coreguimiento": "12"
+ },
+ {
+   "value": "0090",
+   "label": "EL PORVENIR",
+   "coreguimiento": "12"
+ },
+ {
+   "value": "0091",
+   "label": "EL PUERTO",
+   "coreguimiento": "12"
+ },
+ {
+   "value": "0092",
+   "label": "REMEDIOS",
+   "coreguimiento": "12"
+ },
+ {
+   "value": "0093",
+   "label": "SANTA LUCÍA",
+   "coreguimiento": "12"
+ },
+ {
+   "value": "0094",
+   "label": "BREÑÓN",
+   "coreguimiento": "13"
+ },
+ {
+   "value": "0095",
+   "label": "CAÑAS GORDAS",
+   "coreguimiento": "13"
+ },
+ {
+   "value": "0096",
+   "label": "DOMINICAL",
+   "coreguimiento": "13"
+ },
+ {
+   "value": "0097",
+   "label": "MONTE LIRIO",
+   "coreguimiento": "13"
+ },
+ {
+   "value": "0098",
+   "label": "PLAZA DE CAISÁN",
+   "coreguimiento": "13"
+ },
+ {
+   "value": "0099",
+   "label": "RÍO SERENO",
+   "coreguimiento": "13"
+ },
+ {
+   "value": "0100",
+   "label": "SANTA CRUZ",
+   "coreguimiento": "13"
+ },
+ {
+   "value": "0101",
+   "label": "SANTA CLARA",
+   "coreguimiento": "13"
+ },
+ {
+   "value": "0102",
+   "label": "LAS LAJAS",
+   "coreguimiento": "14"
+ },
+ {
+   "value": "0103",
+   "label": "LAJAS ADENTRO",
+   "coreguimiento": "14"
+ },
+ {
+   "value": "0104",
+   "label": "JUAY",
+   "coreguimiento": "14"
+ },
+ {
+   "value": "0105",
+   "label": "SAN FÉLIX",
+   "coreguimiento": "14"
+ },
+ {
+   "value": "0106",
+   "label": "SANTA CRUZ",
+   "coreguimiento": "14"
+ },
+ {
+   "value": "0107",
+   "label": "BOCA CHICA",
+   "coreguimiento": "15"
+ },
+ {
+   "value": "0108",
+   "label": "BOCA DEL MONTE",
+   "coreguimiento": "15"
+ },
+ {
+   "value": "0109",
+   "label": "HORCONCITOS",
+   "coreguimiento": "15"
+ },
+ {
+   "value": "0110",
+   "label": "SAN JUAN",
+   "coreguimiento": "15"
+ },
+ {
+   "value": "0111",
+   "label": "SAN LORENZO",
+   "coreguimiento": "15"
+ },
+ {
+   "value": "0112",
+   "label": "BELLA VISTA",
+   "coreguimiento": "16"
+ },
+ {
+   "value": "0113",
+   "label": "CERRO VIEJO",
+   "coreguimiento": "16"
+ },
+ {
+   "value": "0114",
+   "label": "EL CRISTO",
+   "coreguimiento": "16"
+ },
+ {
+   "value": "0115",
+   "label": "JUSTO FIDEL PALACIOS",
+   "coreguimiento": "16"
+ },
+ {
+   "value": "0116",
+   "label": "LAJAS DE TOLÉ",
+   "coreguimiento": "16"
+ },
+ {
+   "value": "0117",
+   "label": "POTRERO DE CAÑA",
+   "coreguimiento": "16"
+ },
+ {
+   "value": "0118",
+   "label": "QUEBRADA DE PIEDRA",
+   "coreguimiento": "16"
+ },
+ {
+   "value": "0119",
+   "label": "TOLÉ",
+   "coreguimiento": "16"
+ },
+ {
+   "value": "0120",
+   "label": "VELADERO",
+   "coreguimiento": "16"
+ },
+ {
+   "value": "0121",
+   "label": "AGUADULCE",
+   "coreguimiento": "17"
+ },
+ {
+   "value": "0122",
+   "label": "BARRIOS UNIDOS",
+   "coreguimiento": "17"
+ },
+ {
+   "value": "0123",
+   "label": "EL CRISTO",
+   "coreguimiento": "17"
+ },
+ {
+   "value": "0124",
+   "label": "EL ROBLE",
+   "coreguimiento": "17"
+ },
+ {
+   "value": "0125",
+   "label": "POCRÍ",
+   "coreguimiento": "17"
+ },
+ {
+   "value": "0126",
+   "label": "ANTÓN",
+   "coreguimiento": "18"
+ },
+ {
+   "value": "0127",
+   "label": "CABALLERO",
+   "coreguimiento": "18"
+ },
+ {
+   "value": "0128",
+   "label": "CABUYA",
+   "coreguimiento": "18"
+ },
+ {
+   "value": "0129",
+   "label": "EL CHIRÚ",
+   "coreguimiento": "18"
+ },
+ {
+   "value": "0130",
+   "label": "EL RETIRO",
+   "coreguimiento": "18"
+ },
+ {
+   "value": "0131",
+   "label": "EL VALLE",
+   "coreguimiento": "18"
+ },
+ {
+   "value": "0132",
+   "label": "JUAN DÍAZ",
+   "coreguimiento": "18"
+ },
+ {
+   "value": "0133",
+   "label": "RÍO HATO",
+   "coreguimiento": "18"
+ },
+ {
+   "value": "0134",
+   "label": "SAN JUAN DE DIOS",
+   "coreguimiento": "18"
+ },
+ {
+   "value": "0135",
+   "label": "SANTA RITA",
+   "coreguimiento": "18"
+ },
+ {
+   "value": "0136",
+   "label": "EL HARINO",
+   "coreguimiento": "19"
+ },
+ {
+   "value": "0137",
+   "label": "EL POTRERO",
+   "coreguimiento": "19"
+ },
+ {
+   "value": "0138",
+   "label": "LA PINTADA",
+   "coreguimiento": "19"
+ },
+ {
+   "value": "0139",
+   "label": "LAS LOMAS",
+   "coreguimiento": "19"
+ },
+ {
+   "value": "0140",
+   "label": "LLANO GRANDE",
+   "coreguimiento": "19"
+ },
+ {
+   "value": "0141",
+   "label": "PIEDRAS GORDAS",
+   "coreguimiento": "19"
+ },
+ {
+   "value": "0142",
+   "label": "CAPELLANÍA",
+   "coreguimiento": "20"
+ },
+ {
+   "value": "0143",
+   "label": "EL CAÑO",
+   "coreguimiento": "20"
+ },
+ {
+   "value": "0144",
+   "label": "GUZMÁN",
+   "coreguimiento": "20"
+ },
+ {
+   "value": "0145",
+   "label": "LAS HUACAS",
+   "coreguimiento": "20"
+ },
+ {
+   "value": "0146",
+   "label": "NATÁ",
+   "coreguimiento": "20"
+ },
+ {
+   "value": "0147",
+   "label": "TOZA",
+   "coreguimiento": "20"
+ },
+ {
+   "value": "0148",
+   "label": "EL COPÉ",
+   "coreguimiento": "21"
+ },
+ {
+   "value": "0149",
+   "label": "EL PALMAR",
+   "coreguimiento": "21"
+ },
+ {
+   "value": "0150",
+   "label": "EL PICACHO",
+   "coreguimiento": "21"
+ },
+ {
+   "value": "0151",
+   "label": "LA PAVA",
+   "coreguimiento": "21"
+ },
+ {
+   "value": "0152",
+   "label": "OLÁ",
+   "coreguimiento": "21"
+ },
+ {
+   "value": "0153",
+   "label": "CAÑAVERAL",
+   "coreguimiento": "22"
+ },
+ {
+   "value": "0154",
+   "label": "COCLÉ",
+   "coreguimiento": "22"
+ },
+ {
+   "value": "0155",
+   "label": "CHIGUIRÍ ARRIBA",
+   "coreguimiento": "22"
+ },
+ {
+   "value": "0156",
+   "label": "EL COCO",
+   "coreguimiento": "22"
+ },
+ {
+   "value": "0157",
+   "label": "EL VALLE DE SAN MIGUEL",
+   "coreguimiento": "22"
+ },
+ {
+   "value": "0158",
+   "label": "PAJONAL",
+   "coreguimiento": "22"
+ },
+ {
+   "value": "0159",
+   "label": "PENONOMÉ",
+   "coreguimiento": "22"
+ },
+ {
+   "value": "0160",
+   "label": "RÍO GRANDE",
+   "coreguimiento": "22"
+ },
+ {
+   "value": "0161",
+   "label": "RÍO INDIO",
+   "coreguimiento": "22"
+ },
+ {
+   "value": "0162",
+   "label": "TOABRÉ",
+   "coreguimiento": "22"
+ },
+ {
+   "value": "0163",
+   "label": "TULÚ",
+   "coreguimiento": "22"
+ },
+ {
+   "value": "0164",
+   "label": "ACHIOTE",
+   "coreguimiento": "23"
+ },
+ {
+   "value": "0165",
+   "label": "EL GUABO",
+   "coreguimiento": "23"
+ },
+ {
+   "value": "0166",
+   "label": "LA ENCANTADA",
+   "coreguimiento": "23"
+ },
+ {
+   "value": "0167",
+   "label": "NUEVO CHAGRES",
+   "coreguimiento": "23"
+ },
+ {
+   "value": "0168",
+   "label": "PALMAS BELLAS",
+   "coreguimiento": "23"
+ },
+ {
+   "value": "0169",
+   "label": "PIÑA",
+   "coreguimiento": "23"
+ },
+ {
+   "value": "0170",
+   "label": "SALUD",
+   "coreguimiento": "23"
+ },
+ {
+   "value": "0171",
+   "label": "BARRIO NORTE",
+   "coreguimiento": "24"
+ },
+ {
+   "value": "0172",
+   "label": "BARRIO SUR",
+   "coreguimiento": "24"
+ },
+ {
+   "value": "0173",
+   "label": "BUENA VISTA",
+   "coreguimiento": "24"
+ },
+ {
+   "value": "0174",
+   "label": "CATIVÁ",
+   "coreguimiento": "24"
+ },
+ {
+   "value": "0175",
+   "label": "CIRICITO",
+   "coreguimiento": "24"
+ },
+ {
+   "value": "0176",
+   "label": "CRISTÓBAL",
+   "coreguimiento": "24"
+ },
+ {
+   "value": "0177",
+   "label": "ESCOBAL",
+   "coreguimiento": "24"
+ },
+ {
+   "value": "0178",
+   "label": "LIMÓN",
+   "coreguimiento": "24"
+ },
+ {
+   "value": "0179",
+   "label": "NUEVA PROVIDENCIA",
+   "coreguimiento": "24"
+ },
+ {
+   "value": "0180",
+   "label": "PUERTO PILÓN",
+   "coreguimiento": "24"
+ },
+ {
+   "value": "0181",
+   "label": "SABANITAS",
+   "coreguimiento": "24"
+ },
+ {
+   "value": "0182",
+   "label": "SALAMANCA",
+   "coreguimiento": "24"
+ },
+ {
+   "value": "0183",
+   "label": "SAN JUAN",
+   "coreguimiento": "24"
+ },
+ {
+   "value": "0184",
+   "label": "SANTA ROSA",
+   "coreguimiento": "24"
+ },
+ {
+   "value": "0185",
+   "label": "COCLÉ DEL NORTE",
+   "coreguimiento": "25"
+ },
+ {
+   "value": "0186",
+   "label": "EL GUÁSIMO",
+   "coreguimiento": "25"
+ },
+ {
+   "value": "0187",
+   "label": "GOBEA",
+   "coreguimiento": "25"
+ },
+ {
+   "value": "0188",
+   "label": "MIGUEL DE LA BORDA",
+   "coreguimiento": "25"
+ },
+ {
+   "value": "0189",
+   "label": "RÍO INDIO",
+   "coreguimiento": "25"
+ },
+ {
+   "value": "0190",
+   "label": "SAN JOSÉ DEL GENERAL",
+   "coreguimiento": "25"
+ },
+ {
+   "value": "0191",
+   "label": "CACIQUE",
+   "coreguimiento": "26"
+ },
+ {
+   "value": "0192",
+   "label": "GARROTE",
+   "coreguimiento": "26"
+ },
+ {
+   "value": "0193",
+   "label": "ISLA GRANDE",
+   "coreguimiento": "26"
+ },
+ {
+   "value": "0194",
+   "label": "MARÍA CHIQUITA",
+   "coreguimiento": "26"
+ },
+ {
+   "value": "0195",
+   "label": "PORTOBELO",
+   "coreguimiento": "26"
+ },
+ {
+   "value": "0196",
+   "label": "CUANGO",
+   "coreguimiento": "27"
+ },
+ {
+   "value": "0197",
+   "label": "MIRAMAR",
+   "coreguimiento": "27"
+ },
+ {
+   "value": "0198",
+   "label": "NOMBRE DE DIOS",
+   "coreguimiento": "27"
+ },
+ {
+   "value": "0199",
+   "label": "PALENQUE",
+   "coreguimiento": "27"
+ },
+ {
+   "value": "0200",
+   "label": "PALMIRA",
+   "coreguimiento": "27"
+ },
+ {
+   "value": "0201",
+   "label": "PLAYA CHIQUITA",
+   "coreguimiento": "27"
+ },
+ {
+   "value": "0202",
+   "label": "SANTA ISABEL",
+   "coreguimiento": "27"
+ },
+ {
+   "value": "0203",
+   "label": "VIENTO FRÍO",
+   "coreguimiento": "27"
+ },
+ {
+   "value": "0204",
+   "label": "AGUA FRÍA",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0205",
+   "label": "CAMOGANTÍ",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0206",
+   "label": "CHEPIGANA",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0207",
+   "label": "CUCUNATÍ",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0208",
+   "label": "GARACHINÉ",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0209",
+   "label": "JAQUÉ",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0210",
+   "label": "LA PALMA",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0211",
+   "label": "PUERTO PIÑA",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0212",
+   "label": "RÍO CONGO",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0213",
+   "label": "RÍO CONGO ARRIBA",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0214",
+   "label": "RÍO IGLESIAS",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0215",
+   "label": "SAMBÚ",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0216",
+   "label": "SETEGANTÍ",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0217",
+   "label": "SANTA FE",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0218",
+   "label": "TAIMATÍ",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0219",
+   "label": "TUCUTÍ",
+   "coreguimiento": "28"
+ },
+ {
+   "value": "0220",
+   "label": "BOCA DE CUPE",
+   "coreguimiento": "29"
+ },
+ {
+   "value": "0221",
+   "label": "EL REAL DE SANTA MARÍA",
+   "coreguimiento": "29"
+ },
+ {
+   "value": "0222",
+   "label": "METETÍ",
+   "coreguimiento": "29"
+ },
+ {
+   "value": "0223",
+   "label": "PAYA",
+   "coreguimiento": "29"
+ },
+ {
+   "value": "0224",
+   "label": "PINOGANA",
+   "coreguimiento": "29"
+ },
+ {
+   "value": "0225",
+   "label": "PÚCURO",
+   "coreguimiento": "29"
+ },
+ {
+   "value": "0226",
+   "label": "YAPE",
+   "coreguimiento": "29"
+ },
+ {
+   "value": "0227",
+   "label": "YAVIZA",
+   "coreguimiento": "29"
+ },
+ {
+   "value": "0228",
+   "label": "WARGANDÍ",
+   "coreguimiento": "29"
+ },
+ {
+   "value": "0229",
+   "label": "CHITRÉ",
+   "coreguimiento": "30"
+ },
+ {
+   "value": "0230",
+   "label": "LA ARENA",
+   "coreguimiento": "30"
+ },
+ {
+   "value": "0231",
+   "label": "LLANO BONITO",
+   "coreguimiento": "30"
+ },
+ {
+   "value": "0232",
+   "label": "MONAGRILLO",
+   "coreguimiento": "30"
+ },
+ {
+   "value": "0233",
+   "label": "SAN JUAN BAUTISTA",
+   "coreguimiento": "30"
+ },
+ {
+   "value": "0234",
+   "label": "CHEPO",
+   "coreguimiento": "31"
+ },
+ {
+   "value": "0235",
+   "label": "CHUMICAL",
+   "coreguimiento": "31"
+ },
+ {
+   "value": "0236",
+   "label": "EL TORO",
+   "coreguimiento": "31"
+ },
+ {
+   "value": "0237",
+   "label": "LAS MINAS",
+   "coreguimiento": "31"
+ },
+ {
+   "value": "0238",
+   "label": "LEONES",
+   "coreguimiento": "31"
+ },
+ {
+   "value": "0239",
+   "label": "QUEBRADA DEL ROSARIO",
+   "coreguimiento": "31"
+ },
+ {
+   "value": "0240",
+   "label": "QUEBRADA EL CIPRIÁN",
+   "coreguimiento": "31"
+ },
+ {
+   "value": "0241",
+   "label": "EL CAPURÍ",
+   "coreguimiento": "32"
+ },
+ {
+   "value": "0242",
+   "label": "EL CALABACITO",
+   "coreguimiento": "32"
+ },
+ {
+   "value": "0243",
+   "label": "EL CEDRO",
+   "coreguimiento": "32"
+ },
+ {
+   "value": "0244",
+   "label": "LA ARENA",
+   "coreguimiento": "32"
+ },
+ {
+   "value": "0245",
+   "label": "LA PITALOZA",
+   "coreguimiento": "32"
+ },
+ {
+   "value": "0246",
+   "label": "LAS LLANAS",
+   "coreguimiento": "32"
+ },
+ {
+   "value": "0247",
+   "label": "LOS CERRITOS",
+   "coreguimiento": "32"
+ },
+ {
+   "value": "0248",
+   "label": "LOS CERROS DE PAJA",
+   "coreguimiento": "32"
+ },
+ {
+   "value": "0249",
+   "label": "LOS POZOS",
+   "coreguimiento": "32"
+ },
+ {
+   "value": "0250",
+   "label": "CERRO LARGO",
+   "coreguimiento": "33"
+ },
+ {
+   "value": "0251",
+   "label": "EL TIJERA",
+   "coreguimiento": "33"
+ },
+ {
+   "value": "0252",
+   "label": "ENTRADERO DEL CASTILLO",
+   "coreguimiento": "33"
+ },
+ {
+   "value": "0253",
+   "label": "LOS LLANOS",
+   "coreguimiento": "33"
+ },
+ {
+   "value": "0254",
+   "label": "LLANO GRANDE",
+   "coreguimiento": "33"
+ },
+ {
+   "value": "0255",
+   "label": "MENCHACA",
+   "coreguimiento": "33"
+ },
+ {
+   "value": "0256",
+   "label": "OCÚ",
+   "coreguimiento": "33"
+ },
+ {
+   "value": "0257",
+   "label": "PEÑAS CHATAS",
+   "coreguimiento": "33"
+ },
+ {
+   "value": "0258",
+   "label": "CABUYA",
+   "coreguimiento": "34"
+ },
+ {
+   "value": "0259",
+   "label": "LOS CASTILLOS",
+   "coreguimiento": "34"
+ },
+ {
+   "value": "0260",
+   "label": "LLANO DE LA CRUZ",
+   "coreguimiento": "34"
+ },
+ {
+   "value": "0261",
+   "label": "PARÍS",
+   "coreguimiento": "34"
+ },
+ {
+   "value": "0262",
+   "label": "PARITA",
+   "coreguimiento": "34"
+ },
+ {
+   "value": "0263",
+   "label": "PORTOBELILLO",
+   "coreguimiento": "34"
+ },
+ {
+   "value": "0264",
+   "label": "POTUGA",
+   "coreguimiento": "34"
+ },
+ {
+   "value": "0265",
+   "label": "EL BARRERO",
+   "coreguimiento": "35"
+ },
+ {
+   "value": "0266",
+   "label": "EL PEDREGOSO",
+   "coreguimiento": "35"
+ },
+ {
+   "value": "0267",
+   "label": "EL CIRUELO",
+   "coreguimiento": "35"
+ },
+ {
+   "value": "0268",
+   "label": "EL PÁJARO",
+   "coreguimiento": "35"
+ },
+ {
+   "value": "0269",
+   "label": "LAS CABRAS",
+   "coreguimiento": "35"
+ },
+ {
+   "value": "0270",
+   "label": "PESÉ",
+   "coreguimiento": "35"
+ },
+ {
+   "value": "0271",
+   "label": "RINCÓN HONDO",
+   "coreguimiento": "35"
+ },
+ {
+   "value": "0272",
+   "label": "SABANAGRANDE",
+   "coreguimiento": "35"
+ },
+ {
+   "value": "0273",
+   "label": "CHUPAMPA",
+   "coreguimiento": "36"
+ },
+ {
+   "value": "0274",
+   "label": "EL RINCÓN",
+   "coreguimiento": "36"
+ },
+ {
+   "value": "0275",
+   "label": "EL LIMÓN",
+   "coreguimiento": "36"
+ },
+ {
+   "value": "0276",
+   "label": "LOS CANELOS",
+   "coreguimiento": "36"
+ },
+ {
+   "value": "0277",
+   "label": "SANTA MARÍA",
+   "coreguimiento": "36"
+ },
+ {
+   "value": "0278",
+   "label": "EL ESPINAL",
+   "coreguimiento": "37"
+ },
+ {
+   "value": "0279",
+   "label": "EL HATO",
+   "coreguimiento": "37"
+ },
+ {
+   "value": "0280",
+   "label": "EL MACANO",
+   "coreguimiento": "37"
+ },
+ {
+   "value": "0281",
+   "label": "GUARARÉ",
+   "coreguimiento": "37"
+ },
+ {
+   "value": "0282",
+   "label": "GUARARÉ ARRIBA",
+   "coreguimiento": "37"
+ },
+ {
+   "value": "0283",
+   "label": "LA ENEA",
+   "coreguimiento": "37"
+ },
+ {
+   "value": "0284",
+   "label": "LA PASERA",
+   "coreguimiento": "37"
+ },
+ {
+   "value": "0285",
+   "label": "LAS TRANCAS",
+   "coreguimiento": "37"
+ },
+ {
+   "value": "0286",
+   "label": "LLANO ABAJO",
+   "coreguimiento": "37"
+ },
+ {
+   "value": "0287",
+   "label": "PERALES",
+   "coreguimiento": "37"
+ },
+ {
+   "value": "0288",
+   "label": "BAJO CORRAL",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0289",
+   "label": "BAYANO",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0290",
+   "label": "EL CARATE",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0291",
+   "label": "EL COCAL",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0292",
+   "label": "EL MANANTIAL",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0293",
+   "label": "EL MUÑOZ",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0294",
+   "label": "EL PEDREGOSO",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0295",
+   "label": "EL SESTEADERO",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0296",
+   "label": "LA LAJA",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0297",
+   "label": "LA MIEL",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0298",
+   "label": "LA PALMA",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0299",
+   "label": "LA TIZA",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0300",
+   "label": "LAS PALMITAS",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0301",
+   "label": "LAS TABLAS",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0302",
+   "label": "LAS TABLAS ABAJO",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0303",
+   "label": "NUARIO",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0304",
+   "label": "PALMIRA",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0305",
+   "label": "PEÑA BLANCA",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0306",
+   "label": "RÍO HONDO",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0307",
+   "label": "SAN JOSÉ",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0308",
+   "label": "SAN MIGUEL",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0309",
+   "label": "SANTO DOMINGO",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0310",
+   "label": "VALLE RICO",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0311",
+   "label": "VALLERRIQUITO",
+   "coreguimiento": "38"
+ },
+ {
+   "value": "0312",
+   "label": "EL EJIDO",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0313",
+   "label": "EL GUÁSIMO",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0314",
+   "label": "LA COLORADA",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0315",
+   "label": "LA ESPIGADILLA",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0316",
+   "label": "LA VILLA DE LOS SANTOS",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0317",
+   "label": "LAS CRUCES",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0318",
+   "label": "LAS GUABAS",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0319",
+   "label": "LOS ÁNGELES",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0320",
+   "label": "LOS OLIVOS",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0321",
+   "label": "LLANO LARGO",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0322",
+   "label": "SABANAGRANDE",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0323",
+   "label": "SAN AGUSTÍN",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0324",
+   "label": "SANTA ANA",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0325",
+   "label": "TRES QUEBRADAS",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0326",
+   "label": "VILLA LOURDES",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0327",
+   "label": "AGUA BUENA",
+   "coreguimiento": "39"
+ },
+ {
+   "value": "0328",
+   "label": "BAHÍA HONDA",
+   "coreguimiento": "40"
+ },
+ {
+   "value": "0329",
+   "label": "BAJOS DE GÜERA",
+   "coreguimiento": "40"
+ },
+ {
+   "value": "0330",
+   "label": "COROZAL",
+   "coreguimiento": "40"
+ },
+ {
+   "value": "0331",
+   "label": "CHUPÁ",
+   "coreguimiento": "40"
+ },
+ {
+   "value": "0332",
+   "label": "EL CEDRO",
+   "coreguimiento": "40"
+ },
+ {
+   "value": "0333",
+   "label": "ESPINO AMARILLO",
+   "coreguimiento": "40"
+ },
+ {
+   "value": "0334",
+   "label": "LA MESA",
+   "coreguimiento": "40"
+ },
+ {
+   "value": "0335",
+   "label": "LAS PALMAS",
+   "coreguimiento": "40"
+ },
+ {
+   "value": "0336",
+   "label": "LLANO DE PIEDRAS",
+   "coreguimiento": "40"
+ },
+ {
+   "value": "0337",
+   "label": "MACARACAS",
+   "coreguimiento": "40"
+ },
+ {
+   "value": "0338",
+   "label": "MOGOLLÓN",
+   "coreguimiento": "40"
+ },
+ {
+   "value": "0339",
+   "label": "LOS ASIENTOS",
+   "coreguimiento": "41"
+ },
+ {
+   "value": "0340",
+   "label": "MARIABÉ",
+   "coreguimiento": "41"
+ },
+ {
+   "value": "0341",
+   "label": "ORIA ARRIBA",
+   "coreguimiento": "41"
+ },
+ {
+   "value": "0342",
+   "label": "PEDASÍ",
+   "coreguimiento": "41"
+ },
+ {
+   "value": "0343",
+   "label": "PURIO",
+   "coreguimiento": "41"
+ },
+ {
+   "value": "0344",
+   "label": "EL CAÑAFÍSTULO",
+   "coreguimiento": "42"
+ },
+ {
+   "value": "0345",
+   "label": "LAJAMINA",
+   "coreguimiento": "42"
+ },
+ {
+   "value": "0346",
+   "label": "PARAÍSO",
+   "coreguimiento": "42"
+ },
+ {
+   "value": "0347",
+   "label": "PARITILLA",
+   "coreguimiento": "42"
+ },
+ {
+   "value": "0348",
+   "label": "POCRÍ",
+   "coreguimiento": "42"
+ },
+ {
+   "value": "0349",
+   "label": "ALTOS DE GÜERA",
+   "coreguimiento": "43"
+ },
+ {
+   "value": "0350",
+   "label": "CAMBUTAL",
+   "coreguimiento": "43"
+ },
+ {
+   "value": "0351",
+   "label": "CAÑAS",
+   "coreguimiento": "43"
+ },
+ {
+   "value": "0352",
+   "label": "EL BEBEDERO",
+   "coreguimiento": "43"
+ },
+ {
+   "value": "0353",
+   "label": "EL CACAO",
+   "coreguimiento": "43"
+ },
+ {
+   "value": "0354",
+   "label": "EL CORTEZO",
+   "coreguimiento": "43"
+ },
+ {
+   "value": "0355",
+   "label": "FLORES",
+   "coreguimiento": "43"
+ },
+ {
+   "value": "0356",
+   "label": "GUÁNICO",
+   "coreguimiento": "43"
+ },
+ {
+   "value": "0357",
+   "label": "ISLA DE CAÑAS",
+   "coreguimiento": "43"
+ },
+ {
+   "value": "0358",
+   "label": "LA TRONOSA",
+   "coreguimiento": "43"
+ },
+ {
+   "value": "0359",
+   "label": "TONOSÍ",
+   "coreguimiento": "43"
+ },
+ {
+   "value": "0360",
+   "label": "LA ENSENADA",
+   "coreguimiento": "44"
+ },
+ {
+   "value": "0361",
+   "label": "LA ESMERALDA",
+   "coreguimiento": "44"
+ },
+ {
+   "value": "0362",
+   "label": "LA GUINEA",
+   "coreguimiento": "44"
+ },
+ {
+   "value": "0363",
+   "label": "PEDRO GONZÁLEZ",
+   "coreguimiento": "44"
+ },
+ {
+   "value": "0364",
+   "label": "SABOGA",
+   "coreguimiento": "44"
+ },
+ {
+   "value": "0365",
+   "label": "SAN MIGUEL",
+   "coreguimiento": "44"
+ },
+ {
+   "value": "0366",
+   "label": "CAÑITA",
+   "coreguimiento": "45"
+ },
+ {
+   "value": "0367",
+   "label": "CHEPO",
+   "coreguimiento": "45"
+ },
+ {
+   "value": "0368",
+   "label": "CHEPILLO",
+   "coreguimiento": "45"
+ },
+ {
+   "value": "0369",
+   "label": "EL LLANO",
+   "coreguimiento": "45"
+ },
+ {
+   "value": "0370",
+   "label": "LAS MARGARITAS",
+   "coreguimiento": "45"
+ },
+ {
+   "value": "0371",
+   "label": "MADUGANDÍ",
+   "coreguimiento": "45"
+ },
+ {
+   "value": "0372",
+   "label": "SANTA CRUZ DE CHININA",
+   "coreguimiento": "45"
+ },
+ {
+   "value": "0373",
+   "label": "TORTÍ",
+   "coreguimiento": "45"
+ },
+ {
+   "value": "0374",
+   "label": "BRUJAS",
+   "coreguimiento": "46"
+ },
+ {
+   "value": "0375",
+   "label": "CHIMÁN",
+   "coreguimiento": "46"
+ },
+ {
+   "value": "0376",
+   "label": "GONZALO VÁSQUEZ",
+   "coreguimiento": "46"
+ },
+ {
+   "value": "0377",
+   "label": "PÁSIGA",
+   "coreguimiento": "46"
+ },
+ {
+   "value": "0378",
+   "label": "UNIÓN SANTEÑA",
+   "coreguimiento": "46"
+ },
+ {
+   "value": "0379",
+   "label": "24 DE DICIEMBRE",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0380",
+   "label": "ALCALDE DÍAZ",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0381",
+   "label": "ANCÓN",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0382",
+   "label": "BETANIA",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0383",
+   "label": "BELLA VISTA",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0384",
+   "label": "CALIDONIA",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0385",
+   "label": "CAIMITILLO",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0386",
+   "label": "CHILIBRE",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0387",
+   "label": "CURUNDÚ",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0388",
+   "label": "EL CHORRILLO",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0389",
+   "label": "ERNESTO CÓRDOBA CAMPOS",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0390",
+   "label": "JUAN DÍAZ",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0391",
+   "label": "LAS CUMBRES",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0392",
+   "label": "LAS MAÑANITAS",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0393",
+   "label": "PACORA",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0394",
+   "label": "PARQUE LEFEVRE",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0395",
+   "label": "PEDREGAL",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0396",
+   "label": "PUEBLO NUEVO",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0397",
+   "label": "RÍO ABAJO",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0398",
+   "label": "SAN FELIPE",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0399",
+   "label": "SAN FRANCISCO",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0400",
+   "label": "SAN MARTÍN",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0401",
+   "label": "SANTA ANA",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0402",
+   "label": "TOCUMEN",
+   "coreguimiento": "47"
+ },
+ {
+   "value": "0403",
+   "label": "AMELIA DENIS DE ICAZA",
+   "coreguimiento": "48"
+ },
+ {
+   "value": "0404",
+   "label": "ARNULFO ARIAS",
+   "coreguimiento": "48"
+ },
+ {
+   "value": "0405",
+   "label": "BELISARIO FRÍAS",
+   "coreguimiento": "48"
+ },
+ {
+   "value": "0406",
+   "label": "BELISARIO PORRAS",
+   "coreguimiento": "48"
+ },
+ {
+   "value": "0407",
+   "label": "JOSÉ DOMINGO ESPINAR",
+   "coreguimiento": "48"
+ },
+ {
+   "value": "0408",
+   "label": "MATEO ITURRALDE",
+   "coreguimiento": "48"
+ },
+ {
+   "value": "0409",
+   "label": "OMAR TORRIJOS",
+   "coreguimiento": "48"
+ },
+ {
+   "value": "0410",
+   "label": "RUFINA ALFARO",
+   "coreguimiento": "48"
+ },
+ {
+   "value": "0411",
+   "label": "VICTORIANO LORENZO",
+   "coreguimiento": "48"
+ },
+ {
+   "value": "0412",
+   "label": "OTOQUE OCCIDENTE",
+   "coreguimiento": "49"
+ },
+ {
+   "value": "0413",
+   "label": "OTOQUE ORIENTE",
+   "coreguimiento": "49"
+ },
+ {
+   "value": "0414",
+   "label": "TABOGA",
+   "coreguimiento": "49"
+ },
+ {
+   "value": "0415",
+   "label": "ARRAIJÁN",
+   "coreguimiento": "50"
+ },
+ {
+   "value": "0416",
+   "label": "BURUNGA",
+   "coreguimiento": "50"
+ },
+ {
+   "value": "0417",
+   "label": "CERRO SILVESTRE",
+   "coreguimiento": "50"
+ },
+ {
+   "value": "0418",
+   "label": "JUAN DEMÓSTENES AROSEMENA",
+   "coreguimiento": "50"
+ },
+ {
+   "value": "0419",
+   "label": "NUEVO EMPERADOR",
+   "coreguimiento": "50"
+ },
+ {
+   "value": "0420",
+   "label": "SANTA CLARA",
+   "coreguimiento": "50"
+ },
+ {
+   "value": "0421",
+   "label": "VERACRUZ",
+   "coreguimiento": "50"
+ },
+ {
+   "value": "0422",
+   "label": "VISTA ALEGRE",
+   "coreguimiento": "50"
+ },
+ {
+   "value": "0423",
+   "label": "CAIMITO",
+   "coreguimiento": "51"
+ },
+ {
+   "value": "0424",
+   "label": "CAMPANA",
+   "coreguimiento": "51"
+ },
+ {
+   "value": "0425",
+   "label": "CAPIRA",
+   "coreguimiento": "51"
+ },
+ {
+   "value": "0426",
+   "label": "CERMEÑO",
+   "coreguimiento": "51"
+ },
+ {
+   "value": "0427",
+   "label": "CIRÍ DE LOS SOTOS",
+   "coreguimiento": "51"
+ },
+ {
+   "value": "0428",
+   "label": "CIRÍ GRANDE",
+   "coreguimiento": "51"
+ },
+ {
+   "value": "0429",
+   "label": "EL CACAO",
+   "coreguimiento": "51"
+ },
+ {
+   "value": "0430",
+   "label": "LA TRINIDAD",
+   "coreguimiento": "51"
+ },
+ {
+   "value": "0431",
+   "label": "LAS OLLAS ARRIBA",
+   "coreguimiento": "51"
+ },
+ {
+   "value": "0432",
+   "label": "LÍDICE",
+   "coreguimiento": "51"
+ },
+ {
+   "value": "0433",
+   "label": "VILLA CARMEN",
+   "coreguimiento": "51"
+ },
+ {
+   "value": "0434",
+   "label": "VILLA ROSARIO",
+   "coreguimiento": "51"
+ },
+ {
+   "value": "0435",
+   "label": "SANTA ROSA",
+   "coreguimiento": "51"
+ },
+ {
+   "value": "0436",
+   "label": "BEJUCO",
+   "coreguimiento": "52"
+ },
+ {
+   "value": "0437",
+   "label": "BUENOS AIRES",
+   "coreguimiento": "52"
+ },
+ {
+   "value": "0438",
+   "label": "CABUYA",
+   "coreguimiento": "52"
+ },
+ {
+   "value": "0439",
+   "label": "CHAME",
+   "coreguimiento": "52"
+ },
+ {
+   "value": "0440",
+   "label": "CHICÁ",
+   "coreguimiento": "52"
+ },
+ {
+   "value": "0441",
+   "label": "EL LÍBANO",
+   "coreguimiento": "52"
+ },
+ {
+   "value": "0442",
+   "label": "LAS LAJAS",
+   "coreguimiento": "52"
+ },
+ {
+   "value": "0443",
+   "label": "NUEVA GORGONA",
+   "coreguimiento": "52"
+ },
+ {
+   "value": "0444",
+   "label": "PUNTA CHAME",
+   "coreguimiento": "52"
+ },
+ {
+   "value": "0445",
+   "label": "SAJALICES",
+   "coreguimiento": "52"
+ },
+ {
+   "value": "0446",
+   "label": "SORÁ",
+   "coreguimiento": "52"
+ },
+ {
+   "value": "0447",
+   "label": "AMADOR",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0448",
+   "label": "AROSEMENA",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0449",
+   "label": "BARRIO BALBOA",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0450",
+   "label": "BARRIO COLÓN",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0451",
+   "label": "EL ARADO",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0452",
+   "label": "EL COCO",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0453",
+   "label": "FEUILLET",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0454",
+   "label": "GUADALUPE",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0455",
+   "label": "HERRERA",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0456",
+   "label": "HURTADO",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0457",
+   "label": "ITURRALDE",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0458",
+   "label": "LA CHORRERA",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0459",
+   "label": "LA REPRESA",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0460",
+   "label": "LOS DÍAZ",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0461",
+   "label": "MENDOZA",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0462",
+   "label": "OBALDÍA",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0463",
+   "label": "PLAYA LEONA",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0464",
+   "label": "PUERTO CAIMITO",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0465",
+   "label": "SANTA RITA",
+   "coreguimiento": "53"
+ },
+ {
+   "value": "0466",
+   "label": "EL ESPINO",
+   "coreguimiento": "54"
+ },
+ {
+   "value": "0467",
+   "label": "EL HIGO",
+   "coreguimiento": "54"
+ },
+ {
+   "value": "0468",
+   "label": "GUAYABITO",
+   "coreguimiento": "54"
+ },
+ {
+   "value": "0469",
+   "label": "LA ERMITA",
+   "coreguimiento": "54"
+ },
+ {
+   "value": "0470",
+   "label": "LA LAGUNA",
+   "coreguimiento": "54"
+ },
+ {
+   "value": "0471",
+   "label": "LAS UVAS",
+   "coreguimiento": "54"
+ },
+ {
+   "value": "0472",
+   "label": "LOS LLANITOS",
+   "coreguimiento": "54"
+ },
+ {
+   "value": "0473",
+   "label": "SAN CARLOS",
+   "coreguimiento": "54"
+ },
+ {
+   "value": "0474",
+   "label": "SAN JOSÉ",
+   "coreguimiento": "54"
+ },
+ {
+   "value": "0475",
+   "label": "ATALAYA",
+   "coreguimiento": "55"
+ },
+ {
+   "value": "0476",
+   "label": "EL BARRITO",
+   "coreguimiento": "55"
+ },
+ {
+   "value": "0477",
+   "label": "LA CARRILLO",
+   "coreguimiento": "55"
+ },
+ {
+   "value": "0478",
+   "label": "LA MONTAÑUELA",
+   "coreguimiento": "55"
+ },
+ {
+   "value": "0479",
+   "label": "SAN ANTONIO",
+   "coreguimiento": "55"
+ },
+ {
+   "value": "0480",
+   "label": "BARNIZAL",
+   "coreguimiento": "56"
+ },
+ {
+   "value": "0481",
+   "label": "CALOBRE",
+   "coreguimiento": "56"
+ },
+ {
+   "value": "0482",
+   "label": "CHITRA",
+   "coreguimiento": "56"
+ },
+ {
+   "value": "0483",
+   "label": "EL COCLA",
+   "coreguimiento": "56"
+ },
+ {
+   "value": "0484",
+   "label": "EL POTRERO",
+   "coreguimiento": "56"
+ },
+ {
+   "value": "0485",
+   "label": "LA LAGUNA",
+   "coreguimiento": "56"
+ },
+ {
+   "value": "0486",
+   "label": "LA RAYA DE CALOBRE",
+   "coreguimiento": "56"
+ },
+ {
+   "value": "0487",
+   "label": "LA TETILLA",
+   "coreguimiento": "56"
+ },
+ {
+   "value": "0488",
+   "label": "LA YEGUADA",
+   "coreguimiento": "56"
+ },
+ {
+   "value": "0489",
+   "label": "LAS GUÍAS",
+   "coreguimiento": "56"
+ },
+ {
+   "value": "0490",
+   "label": "MONJARÁS",
+   "coreguimiento": "56"
+ },
+ {
+   "value": "0491",
+   "label": "SAN JOSÉ",
+   "coreguimiento": "56"
+ },
+ {
+   "value": "0492",
+   "label": "CAÑAZAS",
+   "coreguimiento": "57"
+ },
+ {
+   "value": "0493",
+   "label": "CERRO DE PLATA",
+   "coreguimiento": "57"
+ },
+ {
+   "value": "0494",
+   "label": "EL AROMILLO",
+   "coreguimiento": "57"
+ },
+ {
+   "value": "0495",
+   "label": "EL PICADOR",
+   "coreguimiento": "57"
+ },
+ {
+   "value": "0496",
+   "label": "LAS CRUCES",
+   "coreguimiento": "57"
+ },
+ {
+   "value": "0497",
+   "label": "LOS VALLES",
+   "coreguimiento": "57"
+ },
+ {
+   "value": "0498",
+   "label": "SAN JOSÉ",
+   "coreguimiento": "57"
+ },
+ {
+   "value": "0499",
+   "label": "SAN MARCELO",
+   "coreguimiento": "57"
+ },
+ {
+   "value": "0500",
+   "label": "BISVALLES",
+   "coreguimiento": "58"
+ },
+ {
+   "value": "0501",
+   "label": "BORÓ",
+   "coreguimiento": "58"
+ },
+ {
+   "value": "0502",
+   "label": "EL HIGO",
+   "coreguimiento": "58"
+ },
+ {
+   "value": "0503",
+   "label": "LA MESA",
+   "coreguimiento": "58"
+ },
+ {
+   "value": "0504",
+   "label": "LOS MILAGROS",
+   "coreguimiento": "58"
+ },
+ {
+   "value": "0505",
+   "label": "LLANO GRANDE",
+   "coreguimiento": "58"
+ },
+ {
+   "value": "0506",
+   "label": "SAN BARTOLO",
+   "coreguimiento": "58"
+ },
+ {
+   "value": "0507",
+   "label": "CERRO DE CASA",
+   "coreguimiento": "59"
+ },
+ {
+   "value": "0508",
+   "label": "COROZAL",
+   "coreguimiento": "59"
+ },
+ {
+   "value": "0509",
+   "label": "EL MARÍA",
+   "coreguimiento": "59"
+ },
+ {
+   "value": "0510",
+   "label": "EL PRADO",
+   "coreguimiento": "59"
+ },
+ {
+   "value": "0511",
+   "label": "EL RINCÓN",
+   "coreguimiento": "59"
+ },
+ {
+   "value": "0512",
+   "label": "LAS PALMAS",
+   "coreguimiento": "59"
+ },
+ {
+   "value": "0513",
+   "label": "LOLÁ",
+   "coreguimiento": "59"
+ },
+ {
+   "value": "0514",
+   "label": "MANUEL AMADOR GUERRERO",
+   "coreguimiento": "59"
+ },
+ {
+   "value": "0515",
+   "label": "PIXVAE",
+   "coreguimiento": "59"
+ },
+ {
+   "value": "0516",
+   "label": "PUERTO VIDAL",
+   "coreguimiento": "59"
+ },
+ {
+   "value": "0517",
+   "label": "SAN MARTÍN DE PORRES",
+   "coreguimiento": "59"
+ },
+ {
+   "value": "0518",
+   "label": "VIGUÍ",
+   "coreguimiento": "59"
+ },
+ {
+   "value": "0519",
+   "label": "ZAPOTILLO",
+   "coreguimiento": "59"
+ },
+ {
+   "value": "0520",
+   "label": "ARENAS",
+   "coreguimiento": "60"
+ },
+ {
+   "value": "0521",
+   "label": "EL CACAO",
+   "coreguimiento": "60"
+ },
+ {
+   "value": "0522",
+   "label": "MARIATO",
+   "coreguimiento": "60"
+ },
+ {
+   "value": "0523",
+   "label": "QUEBRO",
+   "coreguimiento": "60"
+ },
+ {
+   "value": "0524",
+   "label": "TEBARIO",
+   "coreguimiento": "60"
+ },
+ {
+   "value": "0525",
+   "label": "CÉBACO",
+   "coreguimiento": "61"
+ },
+ {
+   "value": "0526",
+   "label": "COSTA HERMOSA",
+   "coreguimiento": "61"
+ },
+ {
+   "value": "0527",
+   "label": "GOBERNADORA",
+   "coreguimiento": "61"
+ },
+ {
+   "value": "0528",
+   "label": "LA GARCEANA",
+   "coreguimiento": "61"
+ },
+ {
+   "value": "0529",
+   "label": "LEONES",
+   "coreguimiento": "61"
+ },
+ {
+   "value": "0530",
+   "label": "MONTIJO",
+   "coreguimiento": "61"
+ },
+ {
+   "value": "0531",
+   "label": "PILÓN",
+   "coreguimiento": "61"
+ },
+ {
+   "value": "0532",
+   "label": "UNIÓN DEL NORTE",
+   "coreguimiento": "61"
+ },
+ {
+   "value": "0533",
+   "label": "CATORCE DE NOVIEMBRE",
+   "coreguimiento": "62"
+ },
+ {
+   "value": "0534",
+   "label": "LAS HUACAS",
+   "coreguimiento": "62"
+ },
+ {
+   "value": "0535",
+   "label": "LOS CASTILLOS",
+   "coreguimiento": "62"
+ },
+ {
+   "value": "0536",
+   "label": "RÍO DE JESÚS",
+   "coreguimiento": "62"
+ },
+ {
+   "value": "0537",
+   "label": "UTIRA",
+   "coreguimiento": "62"
+ },
+ {
+   "value": "0538",
+   "label": "CORRAL FALSO",
+   "coreguimiento": "63"
+ },
+ {
+   "value": "0539",
+   "label": "LOS HATILLOS",
+   "coreguimiento": "63"
+ },
+ {
+   "value": "0540",
+   "label": "REMANCE",
+   "coreguimiento": "63"
+ },
+ {
+   "value": "0541",
+   "label": "SAN FRANCISCO",
+   "coreguimiento": "63"
+ },
+ {
+   "value": "0542",
+   "label": "SAN JUAN",
+   "coreguimiento": "63"
+ },
+ {
+   "value": "0543",
+   "label": "SAN JOSÉ",
+   "coreguimiento": "63"
+ },
+ {
+   "value": "0544",
+   "label": "CALOVÉBORA",
+   "coreguimiento": "64"
+ },
+ {
+   "value": "0545",
+   "label": "EL ALTO",
+   "coreguimiento": "64"
+ },
+ {
+   "value": "0546",
+   "label": "EL CUAY",
+   "coreguimiento": "64"
+ },
+ {
+   "value": "0547",
+   "label": "EL PANTANO",
+   "coreguimiento": "64"
+ },
+ {
+   "value": "0548",
+   "label": "GATUNCITO",
+   "coreguimiento": "64"
+ },
+ {
+   "value": "0549",
+   "label": "RÍO LUIS",
+   "coreguimiento": "64"
+ },
+ {
+   "value": "0550",
+   "label": "RUBÉN CANTÚ",
+   "coreguimiento": "64"
+ },
+ {
+   "value": "0551",
+   "label": "SANTA FE",
+   "coreguimiento": "64"
+ },
+ {
+   "value": "0552",
+   "label": "CANTO DEL LLANO",
+   "coreguimiento": "65"
+ },
+ {
+   "value": "0553",
+   "label": "CARLOS SANTANA ÁVILA",
+   "coreguimiento": "65"
+ },
+ {
+   "value": "0554",
+   "label": "EDWIN FÁBREGA",
+   "coreguimiento": "65"
+ },
+ {
+   "value": "0555",
+   "label": "EL LLANITO",
+   "coreguimiento": "65"
+ },
+ {
+   "value": "0556",
+   "label": "LA COLORADA",
+   "coreguimiento": "65"
+ },
+ {
+   "value": "0557",
+   "label": "LA PEÑA",
+   "coreguimiento": "65"
+ },
+ {
+   "value": "0558",
+   "label": "LA RAYA DE SANTA MARÍA",
+   "coreguimiento": "65"
+ },
+ {
+   "value": "0559",
+   "label": "LA SOLEDAD",
+   "coreguimiento": "65"
+ },
+ {
+   "value": "0560",
+   "label": "LOS ALGARROBOS",
+   "coreguimiento": "65"
+ },
+ {
+   "value": "0561",
+   "label": "PONUGA",
+   "coreguimiento": "65"
+ },
+ {
+   "value": "0562",
+   "label": "SAN MARTÍN DE PORRES",
+   "coreguimiento": "65"
+ },
+ {
+   "value": "0563",
+   "label": "SAN PEDRO DEL ESPINO",
+   "coreguimiento": "65"
+ },
+ {
+   "value": "0564",
+   "label": "SANTIAGO",
+   "coreguimiento": "65"
+ },
+ {
+   "value": "0565",
+   "label": "RINCÓN LARGO",
+   "coreguimiento": "65"
+ },
+ {
+   "value": "0566",
+   "label": "URRACÁ",
+   "coreguimiento": "65"
+ },
+ {
+   "value": "0567",
+   "label": "BAHÍA HONDA",
+   "coreguimiento": "66"
+ },
+ {
+   "value": "0568",
+   "label": "CALIDONIA",
+   "coreguimiento": "66"
+ },
+ {
+   "value": "0569",
+   "label": "CATIVÉ",
+   "coreguimiento": "66"
+ },
+ {
+   "value": "0570",
+   "label": "EL MARAÑÓN",
+   "coreguimiento": "66"
+ },
+ {
+   "value": "0571",
+   "label": "GUARUMAL",
+   "coreguimiento": "66"
+ },
+ {
+   "value": "0572",
+   "label": "HICACO",
+   "coreguimiento": "66"
+ },
+ {
+   "value": "0573",
+   "label": "LA SOLEDAD",
+   "coreguimiento": "66"
+ },
+ {
+   "value": "0574",
+   "label": "QUEBRADA DE ORO",
+   "coreguimiento": "66"
+ },
+ {
+   "value": "0575",
+   "label": "RÍO GRANDE",
+   "coreguimiento": "66"
+ },
+ {
+   "value": "0576",
+   "label": "RODEO VIEJO",
+   "coreguimiento": "66"
+ },
+ {
+   "value": "0577",
+   "label": "SONÁ",
+   "coreguimiento": "66"
+ },
+ {
+   "value": "0578",
+   "label": "CIRILO GUAYNORA",
+   "coreguimiento": "67"
+ },
+ {
+   "value": "0579",
+   "label": "LAJAS BLANCAS",
+   "coreguimiento": "67"
+ },
+ {
+   "value": "0580",
+   "label": "MANUEL ORTEGA",
+   "coreguimiento": "67"
+ },
+ {
+   "value": "0581",
+   "label": "JINGURUDÓ",
+   "coreguimiento": "68"
+ },
+ {
+   "value": "0582",
+   "label": "RÍO SABALO",
+   "coreguimiento": "68"
+ },
+ {
+   "value": "0583",
+   "label": "BOCA DE BALSA",
+   "coreguimiento": "69"
+ },
+ {
+   "value": "0584",
+   "label": "CERRO BANCO",
+   "coreguimiento": "69"
+ },
+ {
+   "value": "0585",
+   "label": "CERRO PATENA",
+   "coreguimiento": "69"
+ },
+ {
+   "value": "0586",
+   "label": "CAMARÓN ARRIBA",
+   "coreguimiento": "69"
+ },
+ {
+   "value": "0587",
+   "label": "EMPLANADA DE CHORCHA",
+   "coreguimiento": "69"
+ },
+ {
+   "value": "0588",
+   "label": "NÄMNONÍ",
+   "coreguimiento": "69"
+ },
+ {
+   "value": "0589",
+   "label": "NIBA",
+   "coreguimiento": "69"
+ },
+ {
+   "value": "0590",
+   "label": "SOLOY",
+   "coreguimiento": "69"
+ },
+ {
+   "value": "0591",
+   "label": "BISIRA",
+   "coreguimiento": "70"
+ },
+ {
+   "value": "0592",
+   "label": "CALANTE",
+   "coreguimiento": "70"
+ },
+ {
+   "value": "0593",
+   "label": "KANKINTÚ",
+   "coreguimiento": "70"
+ },
+ {
+   "value": "0594",
+   "label": "GUORONÍ",
+   "coreguimiento": "70"
+ },
+ {
+   "value": "0595",
+   "label": "MÜNÜNÍ",
+   "coreguimiento": "70"
+ },
+ {
+   "value": "0596",
+   "label": "PIEDRA ROJA",
+   "coreguimiento": "70"
+ },
+ {
+   "value": "0597",
+   "label": "TOLOTE",
+   "coreguimiento": "70"
+ },
+ {
+   "value": "0598",
+   "label": "BAHÍA AZUL",
+   "coreguimiento": "71"
+ },
+ {
+   "value": "0599",
+   "label": "CAÑAVERAL",
+   "coreguimiento": "71"
+ },
+ {
+   "value": "0600",
+   "label": "KUSAPÍN",
+   "coreguimiento": "71"
+ },
+ {
+   "value": "0601",
+   "label": "RÍO CHIRIQUÍ",
+   "coreguimiento": "71"
+ },
+ {
+   "value": "0602",
+   "label": "TOBOBÉ",
+   "coreguimiento": "71"
+ },
+ {
+   "value": "0603",
+   "label": "CASCABEL",
+   "coreguimiento": "72"
+ },
+ {
+   "value": "0604",
+   "label": "HATO COROTÚ",
+   "coreguimiento": "72"
+ },
+ {
+   "value": "0605",
+   "label": "HATO CULANTRO",
+   "coreguimiento": "72"
+ },
+ {
+   "value": "0606",
+   "label": "HATO PILÓN",
+   "coreguimiento": "72"
+ },
+ {
+   "value": "0607",
+   "label": "HATO JOBO",
+   "coreguimiento": "72"
+ },
+ {
+   "value": "0608",
+   "label": "HATO JULÍ",
+   "coreguimiento": "72"
+ },
+ {
+   "value": "0609",
+   "label": "QUEBRADA DE LORO",
+   "coreguimiento": "72"
+ },
+ {
+   "value": "0610",
+   "label": "SALTO DUPÍ",
+   "coreguimiento": "72"
+ },
+ {
+   "value": "0611",
+   "label": "ALTO CABALLERO",
+   "coreguimiento": "73"
+ },
+ {
+   "value": "0612",
+   "label": "BAGAMA",
+   "coreguimiento": "73"
+ },
+ {
+   "value": "0613",
+   "label": "CERRO CAÑA",
+   "coreguimiento": "73"
+ },
+ {
+   "value": "0614",
+   "label": "CERRO PUERCO",
+   "coreguimiento": "73"
+ },
+ {
+   "value": "0615",
+   "label": "CHICHICA",
+   "coreguimiento": "73"
+ },
+ {
+   "value": "0616",
+   "label": "KRÜA",
+   "coreguimiento": "73"
+ },
+ {
+   "value": "0617",
+   "label": "MARACA",
+   "coreguimiento": "73"
+ },
+ {
+   "value": "0618",
+   "label": "NIBRA",
+   "coreguimiento": "73"
+ },
+ {
+   "value": "0619",
+   "label": "PEÑA BLANCA",
+   "coreguimiento": "73"
+ },
+ {
+   "value": "0620",
+   "label": "ROKA",
+   "coreguimiento": "73"
+ },
+ {
+   "value": "0621",
+   "label": "SITIO PRADO",
+   "coreguimiento": "73"
+ },
+ {
+   "value": "0622",
+   "label": "UMANÍ",
+   "coreguimiento": "73"
+ },
+ {
+   "value": "0623",
+   "label": "CERRO IGLESIAS",
+   "coreguimiento": "74"
+ },
+ {
+   "value": "0624",
+   "label": "HATO CHAMÍ",
+   "coreguimiento": "74"
+ },
+ {
+   "value": "0625",
+   "label": "JÄDABERI",
+   "coreguimiento": "74"
+ },
+ {
+   "value": "0626",
+   "label": "LAJERO",
+   "coreguimiento": "74"
+ },
+ {
+   "value": "0627",
+   "label": "SUSAMA",
+   "coreguimiento": "74"
+ },
+ {
+   "value": "0628",
+   "label": "AGUA DE SALUD",
+   "coreguimiento": "75"
+ },
+ {
+   "value": "0629",
+   "label": "ALTO DE JESÚS",
+   "coreguimiento": "75"
+ },
+ {
+   "value": "0630",
+   "label": "BUENOS AIRES",
+   "coreguimiento": "75"
+ },
+ {
+   "value": "0631",
+   "label": "CERRO PELADO",
+   "coreguimiento": "75"
+ },
+ {
+   "value": "0632",
+   "label": "EL BALE",
+   "coreguimiento": "75"
+ },
+ {
+   "value": "0633",
+   "label": "EL PAREDÓN",
+   "coreguimiento": "75"
+ },
+ {
+   "value": "0634",
+   "label": "EL PIRO",
+   "coreguimiento": "75"
+ },
+ {
+   "value": "0635",
+   "label": "GUAYABITO",
+   "coreguimiento": "75"
+ },
+ {
+   "value": "0636",
+   "label": "GÜIBALE",
+   "coreguimiento": "75"
+ },
+ {
+   "value": "0637",
+   "label": "BURÍ",
+   "coreguimiento": "76"
+ },
+ {
+   "value": "0638",
+   "label": "GUARIVIARA",
+   "coreguimiento": "76"
+ },
+ {
+   "value": "0639",
+   "label": "MAN CREEK",
+   "coreguimiento": "76"
+ },
+ {
+   "value": "0640",
+   "label": "SAMBOA",
+   "coreguimiento": "76"
+ },
+ {
+   "value": "0641",
+   "label": "TUWAI",
+   "coreguimiento": "76"
+ },
+ {
+   "value": "0642",
+   "label": "ALTO BILINGÜE",
+   "coreguimiento": "77"
+ },
+ {
+   "value": "0643",
+   "label": "LOMA YUCA",
+   "coreguimiento": "77"
+ },
+ {
+   "value": "0644",
+   "label": "SAN PEDRITO",
+   "coreguimiento": "77"
+ },
+ {
+   "value": "0645",
+   "label": "VALLE BONITO",
+   "coreguimiento": "77"
+ },
+ {
+   "value": "0646",
+   "label": "SANTA CATALINA O CALOVÉBORA",
+   "coreguimiento": "77"
+ },
+ {
+   "value": "0647",
+   "label": "AILIGANDÍ",
+   "coreguimiento": "78"
+ },
+ {
+   "value": "0648",
+   "label": "NARGANÁ",
+   "coreguimiento": "78"
+ },
+ {
+   "value": "0649",
+   "label": "PUERTO OBALDÍA",
+   "coreguimiento": "78"
+ },
+ {
+   "value": "0650",
+   "label": "TUBUALÁ",
+   "coreguimiento": ""
+ }
+]
