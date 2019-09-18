@@ -10,6 +10,7 @@ var workflowRouter = require('./routes/worflow');
 var assetsRouter = require('./routes/assets');
 var dataRouter = require('./routes/data');
 var jwks = require('./routes/jwks');
+var ip = require('./routes/ip');
 var app = express();
 
 // view engine setup
@@ -39,6 +40,7 @@ app.use('/api', workflowRouter);
 app.use('/assets', assetsRouter);
 app.use('/data', dataRouter);
 app.use('/auth/v1/keystore', jwks);
+app.use('/ip', ip);
 
 // catch 404 and forward to error handler
 app.use((req, res, next) => {
