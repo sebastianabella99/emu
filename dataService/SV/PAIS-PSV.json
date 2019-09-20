@@ -1,4 +1,6 @@
 [
+    { "value": "No hay Catalogo", "label": "No hay Catalogo"},
+    { "value": "EL SALVADOR", "label": "EL SALVADOR"},
     { "value": "MEXICO", "label": "MEXICO"},
     { "value": "ESTADOS UNIDOS", "label": "ESTADOS UNIDOS"}
 ]
