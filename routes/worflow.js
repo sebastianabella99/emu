@@ -6,7 +6,7 @@ var flujo = '';
 countrie = (req, res, next) => {
   console.clear();
   flujo = req.body.assertion;
-  datos = require(`../data/${req.body.assertion}`);
+  datos = require(`../OTPs/${req.body.assertion}`);
   req.body = { token: datos.token}
   next();
 };

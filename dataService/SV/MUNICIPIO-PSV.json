@@ -1,0 +1,6 @@
+[
+    { "value": "No hay Catalogo", "label": "No hay Catalogo", "pais": "No hay Catalogo", "departamento": "No hay Catalogo"},
+    { "value": "EL SALVADOR", "label": "EL SALVADOR", "pais": "EL SALVADOR", "departamento": "EL SALVADOR"},
+    { "value": "MEXICO", "label": "MEXICO", "pais": "MEXICO", "departamento": "MEXICO"},
+    { "value": "ESTADOS UNIDOS", "label": "ESTADOS UNIDOS", "pais": "ESTADOS UNIDOS", "departamento": "ESTADOS UNIDOS"}
+]
