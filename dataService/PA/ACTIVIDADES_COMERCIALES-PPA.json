@@ -40,6 +40,14 @@
     "label": "Independiente"
   },
   {
+    "value": "05",
+    "label": "Socio"
+  },
+  {
+    "value": "05",
+    "label": "Rentista de Capital"
+  },
+  {
     "value": "06",
     "label": "Banca Patrimonial"
   },
