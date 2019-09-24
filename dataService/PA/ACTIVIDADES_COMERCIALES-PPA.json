@@ -1,30 +1,46 @@
 [
- {
-   "value": "01",
-   "label": "Asalariado"
- },
- {
-   "value": "02",
-   "label": "ESTUDIANTE-AMA DE CASA"
- },
- {
-   "value": "03",
-   "label": "Pensionado/Jubilado"
- },
- {
-   "value": "04",
-   "label": "Persona Natural con Negocio Propio"
- },
- {
-   "value": "05",
-   "label": "Profesional Independiente"
- },
- {
-   "value": "06",
-   "label": "Banca Patrimonial"
- },
- {
-   "value": "07",
-   "label": "SCC"
- }
+  {
+    "value": "01",
+    "label": "Asalariado"
+  },
+  {
+    "value": "02",
+    "label": "AMA DE CASA"
+  },
+  {
+    "value": "02",
+    "label": "AMA DE CASA"
+  },
+  {
+    "value": "03",
+    "label": "Jubilado"
+  },
+  {
+    "value": "03",
+    "label": "Pensionado"
+  },
+  {
+    "value": "04",
+    "label": "Persona Natural con Negocio Propio"
+  },
+  {
+    "value": "05",
+    "label": "Profesional Independiente"
+  },
+  {
+    "value": "08",
+    "label": "Socio"
+  },
+  {
+    "value": "09",
+    "label": "Rentista de Capital"
+  },
+  {
+    "value": "10",
+    "label": "Religioso"
+  },
+  {
+    "value": "11",
+    "label": "Servidor Publico"
+  }
 ]
