@@ -25,7 +25,11 @@
   },
   {
     "value": "05",
-    "label": "Profesional Independiente"
+    "label": "Profesional"
+  },
+  {
+    "value": "05",
+    "label": "Independiente"
   },
   {
     "value": "06",
