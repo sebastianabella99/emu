@@ -5,19 +5,19 @@
   },
   {
     "value": "02",
-    "label": "AMA DE CASA"
-  },
-  {
-    "value": "02",
     "label": "ESTUDIANTE"
   },
   {
-    "value": "03",
-    "label": "Jubilado"
+    "value": "02",
+    "label": "AMA DE CASA"
   },
   {
     "value": "03",
     "label": "Pensionado"
+  },
+  {
+    "value": "03",
+    "label": "Jubilado"
   },
   {
     "value": "04",
@@ -28,19 +28,11 @@
     "label": "Profesional Independiente"
   },
   {
-    "value": "08",
-    "label": "Socio"
+    "value": "06",
+    "label": "Banca Patrimonial"
   },
   {
-    "value": "09",
-    "label": "Rentista de Capital"
-  },
-  {
-    "value": "10",
-    "label": "Religioso"
-  },
-  {
-    "value": "11",
-    "label": "Servidor Publico"
+    "value": "06",
+    "label": "SCC"
   }
 ]
