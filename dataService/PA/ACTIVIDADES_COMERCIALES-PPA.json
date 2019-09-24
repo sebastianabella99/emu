@@ -4,6 +4,14 @@
     "label": "Asalariado"
   },
   {
+    "value": "01",
+    "label": "Religioso"
+  },
+  {
+    "value": "01",
+    "label": "Sector Publico"
+  },
+  {
     "value": "02",
     "label": "ESTUDIANTE"
   },
