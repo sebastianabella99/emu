@@ -1,4 +1,9 @@
 [
+  {
+    "value": "01",
+    "label": "No hay catalogo para la actividad Comercial selecionada",
+    "actividad_comercial": "01"
+  },
  {
    "value": "01",
    "label": "Ama de Casa",
