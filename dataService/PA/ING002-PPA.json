@@ -1,26 +1,34 @@
 [
     {
-        "label": "Cédula Panameña",
-        "value": "0000"
+        "label": "CEDULA DE IDENTIDAD PERSONAL",
+        "value": "CED"
     },
     {
-        "label": "Cédula Naturalizado (N)",
-        "value": "0001"
+        "label": "NUMERO DE ID TRIBUTARIA COL",
+        "value": "NIT"
     },
     {
-        "label": "Cédula Nacido en el Extranjero (PE)",
-        "value": "0002"
+        "label": "NUIP Nº UNICO DE ID DE PERSONAS ",
+        "value": "NUIP"
     },
     {
-        "label": "Carné de Residente Permanente (E)",
-        "value": "0003"
+        "label": "OTRA NATURALEZA DE ID, JURIDICO COL",
+        "value": "OTRO"
     },
     {
-        "label": "Cédula Colombiana",
+        "label": "PASAPORTE",
+        "value": "PAS"
+    },
+    {
+        "label": "REGISTRO UNICO DE CONTRIBUYENTE",
+        "value": "RUC"
+    },
+    {
+        "label": "REGISTRO UNICO DE CONTRIB. OTRO",
+        "value": "RUCO"
+    },
+    {
+        "label": "CEDULA COLOMBIANA",
         "value": "0004"
-    },
-    {
-        "label": "Pasaporte",
-        "value": "0005"
     }
 ]

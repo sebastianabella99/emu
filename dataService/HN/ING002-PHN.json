@@ -1,7 +1,15 @@
 [
     {
-        "label": "Tarjeta de Identidad",
-        "value": "0007"
+        "label": "Identidad",
+        "value": "0"
+    }, {
+        "label": "Carnet de residencia",
+        "value": "1"
+    }, {
+        "label": "Pasaporte",
+        "value": "2"
+    }, {
+        "label": "RTN",
+        "value": "4"
     }
-
 ]

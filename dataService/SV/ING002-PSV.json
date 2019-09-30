@@ -1,6 +1,15 @@
 [
     {
-        "label": "Documento Único de Identidad (DUI)",
+        "label": "Documento Único de Identidad",
         "value": "DUI"
+    }, {
+        "label": "Numero de Identificacion Tributaria",
+        "value": "NIT"
+    }, {
+        "label": "Pasaporte",
+        "value": "PASA"
+    }, {
+        "label": "Carnet Residente",
+        "value": "CRED"
     }
 ]
