@@ -1,398 +1,398 @@
 [
  {
-   "value": "1",
+   "value": "001",
    "label": "ABOGADO"
  },
  {
-   "value": "2",
+   "value": "002",
    "label": "ADMINISTRADOR"
  },
  {
-   "value": "3",
+   "value": "003",
    "label": "AGRICULTOR"
  },
  {
-   "value": "4",
+   "value": "004",
    "label": "ALBANIL"
  },
  {
-   "value": "5",
+   "value": "005",
    "label": "AMA DE CASA"
  },
  {
-   "value": "6",
+   "value": "006",
    "label": "ARQUITECTO"
  },
  {
-   "value": "7",
+   "value": "007",
    "label": "ARTISTA"
  },
  {
-   "value": "8",
+   "value": "008",
    "label": "AUDITOR"
  },
  {
-   "value": "9",
+   "value": "009",
    "label": "BANQUERO"
  },
  {
-   "value": "10",
+   "value": "010",
    "label": "BIOLOGO"
  },
  {
-   "value": "11",
+   "value": "011",
    "label": "BIOLOGO MARINO"
  },
  {
-   "value": "12",
+   "value": "012",
    "label": "BOMBERO"
  },
  {
-   "value": "13",
+   "value": "013",
    "label": "CONTADOR"
  },
  {
-   "value": "14",
+   "value": "014",
    "label": "CONTADOR PUBLICO AUTORIZADO"
  },
  {
-   "value": "15",
+   "value": "015",
    "label": "CORREDOR DE SEGUROS"
  },
  {
-   "value": "16",
+   "value": "016",
    "label": "DECORADOR"
  },
  {
-   "value": "17",
+   "value": "017",
    "label": "DIPLOMATICO"
  },
  {
-   "value": "18",
+   "value": "018",
    "label": "DISEÑADOR DE INTERIORES"
  },
  {
-   "value": "19",
+   "value": "019",
    "label": "DISEÑADOR GRAFICO"
  },
  {
-   "value": "20",
+   "value": "020",
    "label": "EMPRESARIO"
  },
  {
-   "value": "21",
+   "value": "021",
    "label": "ENFERMERIA"
  },
  {
-   "value": "22",
+   "value": "022",
    "label": "ESTUDIANTE"
  },
  {
-   "value": "23",
+   "value": "023",
    "label": "FINANCISTA"
  },
  {
-   "value": "24",
+   "value": "024",
    "label": "FISICO"
  },
  {
-   "value": "25",
+   "value": "025",
    "label": "GANADERO"
  },
  {
-   "value": "26",
+   "value": "026",
    "label": "GUARDA DE SEGURIDAD"
  },
  {
-   "value": "27",
+   "value": "027",
    "label": "INGENIERO CIVIL"
  },
  {
-   "value": "28",
+   "value": "028",
    "label": "INGENIERO MECANICO"
  },
  {
-   "value": "29",
+   "value": "029",
    "label": "INGENIERO INDUSTRIAL"
  },
  {
-   "value": "30",
+   "value": "030",
    "label": "INGENIERO EN SISTEMAS"
  },
  {
-   "value": "31",
+   "value": "031",
    "label": "INGENIERO ELECTRICO"
  },
  {
-   "value": "32",
+   "value": "032",
    "label": "INGENIERO AGRONOMO"
  },
  {
-   "value": "33",
+   "value": "033",
    "label": "MAESTRO"
  },
  {
-   "value": "34",
+   "value": "034",
    "label": "MEDICO"
  },
  {
-   "value": "35",
+   "value": "035",
    "label": "MENSAJERO"
  },
  {
-   "value": "36",
+   "value": "036",
    "label": "MERCADOTECNISTA"
  },
  {
-   "value": "37",
+   "value": "037",
    "label": "ODONTOLOGO"
  },
  {
-   "value": "38",
+   "value": "038",
    "label": "PERIODISTA"
  },
  {
-   "value": "39",
+   "value": "039",
    "label": "PILOTO DE AVIACION"
  },
  {
-   "value": "40",
+   "value": "040",
    "label": "PILOTO DE BARCO"
  },
  {
-   "value": "41",
+   "value": "041",
    "label": "POLICIA"
  },
  {
-   "value": "42",
+   "value": "042",
    "label": "PROFESOR"
  },
  {
-   "value": "43",
+   "value": "043",
    "label": "PSICOLOGO"
  },
  {
-   "value": "44",
+   "value": "044",
    "label": "PUBLICISTA"
  },
  {
-   "value": "45",
+   "value": "045",
    "label": "QUIMICO"
  },
  {
-   "value": "46",
+   "value": "046",
    "label": "RELACIONISTA PUBLICO"
  },
  {
-   "value": "47",
+   "value": "047",
    "label": "SACERDOTE/TEOLOGO"
  },
  {
-   "value": "48",
+   "value": "048",
    "label": "SECRETARIA"
  },
  {
-   "value": "49",
+   "value": "049",
    "label": "VENDEDOR"
  },
  {
-   "value": "50",
+   "value": "050",
    "label": "VETERINARIO"
  },
  {
-   "value": "51",
+   "value": "051",
    "label": "ACTOR"
  },
  {
-   "value": "52",
+   "value": "052",
    "label": "ACTUARIO"
  },
  {
-   "value": "53",
+   "value": "053",
    "label": "AGRIMENSOR"
  },
  {
-   "value": "54",
+   "value": "054",
    "label": "ALFARERO"
  },
  {
-   "value": "55",
+   "value": "055",
    "label": "ANALISTA DE SISTEMAS DE COMPUTACION"
  },
  {
-   "value": "56",
+   "value": "056",
    "label": "ANALISTA ECONOMICO"
  },
  {
-   "value": "57",
+   "value": "057",
    "label": "ANALISTA FINANCIERO"
  },
  {
-   "value": "58",
+   "value": "058",
    "label": "OTROS ANALISTAS"
  },
  {
-   "value": "59",
+   "value": "059",
    "label": "ARCHIVERO DE DOCUMENTOS"
  },
  {
-   "value": "60",
+   "value": "060",
    "label": "ARQUEOLOGO"
  },
  {
-   "value": "61",
+   "value": "061",
    "label": "ARQUITECTO ESTRUCTURAL"
  },
  {
-   "value": "62",
+   "value": "062",
    "label": "ARQUITECTO URBANISTA"
  },
  {
-   "value": "63",
+   "value": "063",
    "label": "OTROS ARQUITECTOS"
  },
  {
-   "value": "64",
+   "value": "064",
    "label": "ARTESANO"
  },
  {
-   "value": "65",
+   "value": "065",
    "label": "ASTRONOMO"
  },
  {
-   "value": "66",
+   "value": "066",
    "label": "BIBLIOTECOLOGO"
  },
  {
-   "value": "67",
+   "value": "067",
    "label": "BIBLIOTECARIO"
  },
  {
-   "value": "68",
+   "value": "068",
    "label": "BIOLOGO NATURISTA"
  },
  {
-   "value": "69",
+   "value": "069",
    "label": "OTROS BIOLOGOS"
  },
  {
-   "value": "70",
+   "value": "070",
    "label": "BIOQUIMICO"
  },
  {
-   "value": "71",
+   "value": "071",
    "label": "CANTANTE"
  },
  {
-   "value": "72",
+   "value": "072",
    "label": "CARPINTERO"
  },
  {
-   "value": "73",
+   "value": "073",
    "label": "CATEDRATICO UNIVERSITARIO"
  },
  {
-   "value": "74",
+   "value": "074",
    "label": "CIRUJANO"
  },
  {
-   "value": "75",
+   "value": "075",
    "label": "COMPOSITOR"
  },
  {
-   "value": "76",
+   "value": "076",
    "label": "CONTRALOR"
  },
  {
-   "value": "77",
+   "value": "077",
    "label": "CORREDOR DE BOLSA"
  },
  {
-   "value": "78",
+   "value": "078",
    "label": "DIBUJANTE"
  },
  {
-   "value": "79",
+   "value": "079",
    "label": "DIRECTOR DE ESPECTACULOS"
  },
  {
-   "value": "80",
+   "value": "080",
    "label": "EBANISTA"
  },
  {
-   "value": "81",
+   "value": "081",
    "label": "ECOLOGO"
  },
  {
-   "value": "82",
+   "value": "082",
    "label": "EDITOR"
  },
  {
-   "value": "83",
+   "value": "083",
    "label": "ESCRITOR"
  },
  {
-   "value": "84",
+   "value": "084",
    "label": "ESCULTOR"
  },
  {
-   "value": "85",
+   "value": "085",
    "label": "ESTADISTA"
  },
  {
-   "value": "86",
+   "value": "086",
    "label": "ECONOMISTA"
  },
  {
-   "value": "87",
+   "value": "087",
    "label": "MAESTRO DE OBRAS"
  },
  {
-   "value": "88",
+   "value": "088",
    "label": "FISIOLOGO"
  },
  {
-   "value": "89",
+   "value": "089",
    "label": "FOTOGRAFO"
  },
  {
-   "value": "90",
+   "value": "090",
    "label": "GEOLOGO"
  },
  {
-   "value": "91",
+   "value": "091",
    "label": "GEOGRAFO"
  },
  {
-   "value": "92",
+   "value": "092",
    "label": "INGENIERO ESTRUCTURAL"
  },
  {
-   "value": "93",
+   "value": "093",
    "label": "OTROS INGENIEROS"
  },
  {
-   "value": "94",
+   "value": "094",
    "label": "INSPECTOR"
  },
  {
-   "value": "95",
+   "value": "095",
    "label": "INSTRUCTOR"
  },
  {
-   "value": "96",
+   "value": "096",
    "label": "INTERPRETE"
  },
  {
-   "value": "97",
+   "value": "097",
    "label": "LABORATORISTA"
  },
  {
-   "value": "98",
+   "value": "098",
    "label": "LOCUTOR"
  },
  {
-   "value": "99",
+   "value": "099",
    "label": "MAGISTRADO"
  },
  {
@@ -1573,7 +1573,7 @@
  },
  {
    "value": "335",
-   "label": "JEFE DE CONTABILIDAD"
+   "label": "JEFE DE  CONTABILIDAD"
  },
  {
    "value": "336",
