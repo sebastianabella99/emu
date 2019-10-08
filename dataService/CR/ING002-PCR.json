@@ -1,22 +1,6 @@
 [
     {
-        "label": "Cedula Nacional",
+        "label": "Cédula de identificación",
         "value": "C"
-    },
-    {
-        "label": "Dimex",
-        "value": "D"
-    },
-    {
-        "label": "DIDI",
-        "value": "D"
-    },
-    {
-        "label": "Pasaporte",
-        "value": "P"
-    },
-    {
-        "label": "Cédula Juridica",
-        "value": "J"
     }
 ]
