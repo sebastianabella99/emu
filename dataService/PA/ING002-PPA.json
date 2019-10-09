@@ -1,26 +1,32 @@
 [
     {
         "label": "Cédula Panameña",
-        "value": "PAN"
+        "value": "PAN",
+        "code": "CED"
     },
     {
         "label": "Cédula Naturalizado (N)",
-        "value": "N"
+        "value": "N",
+        "code": "CED"
     },
     {
         "label": "Cédula Nacido en el Extranjero (PE)",
-        "value": "PE"
+        "value": "PE",
+        "code": "CED"
     },
     {
         "label": "Carné de Residente Permanente (E)",
-        "value": "E"
+        "value": "E",
+        "code": "CED"
     },
     {
         "label": "Pasaporte",
-        "value": "PAS"
+        "value": "PAS",
+        "code": "PAS"
     },
     {
         "label": "CEDULA COLOMBIANA",
-        "value": "0004"
+        "value": "0004",
+        "code": "NUIP"
     }
 ]

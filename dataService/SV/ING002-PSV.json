@@ -1,9 +1,11 @@
 [
     {
         "label": "Documento Único de Identidad",
-        "value": "DUI"
+        "value": "DUI",
+        "code": "DUI"
     }, {
         "label": "Pasaporte",
-        "value": "PASA"
+        "value": "PASA",
+        "code": "PASA"
     }
 ]
