@@ -1,6 +1,9 @@
 [
-    { "value": "No hay Catalogo", "label": "No hay Catalogo"},
-    { "value": "EL SALVADOR", "label": "EL SALVADOR"},
-    { "value": "MEXICO", "label": "MEXICO"},
-    { "value": "ESTADOS UNIDOS", "label": "ESTADOS UNIDOS"}
+    { "value": "01", "label": "EL SALVADOR" },
+    { "value": "15", "label": "GUATEMALA" },
+    { "value": "16", "label": "HONDURAS" },
+    { "value": "17", "label": "NICARAGUA" },
+    { "value": "18", "label": "COSTA RICA" },
+    { "value": "19", "label": "ESTADOS UNIDOS" },
+    { "value": "20", "label": "RESTO DEL MUNDO" }
 ]

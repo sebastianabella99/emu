@@ -25,7 +25,12 @@ module.exports = {
     },
     PCL001: {
         status: 1,
-        payload: {}
+        payload: {
+            documento: {
+                numero: '3434',
+                tipo: ''
+            }
+        }
     },
     BEN001: {
         status: 1,
