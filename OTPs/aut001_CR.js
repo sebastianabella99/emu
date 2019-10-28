@@ -22,6 +22,8 @@ module.exports = {
     AUT001: {
         status: 1,
         payload: {
+            esCliente: false,
+            esFatca: false,
             codigoVendedor: [{ label: '2', value: '2'}]
         }
     },

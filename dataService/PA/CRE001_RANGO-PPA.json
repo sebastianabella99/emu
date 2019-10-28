@@ -1,14 +1,14 @@
 [
 	{
-		noCliente: {
-            maxValorDeseado: 1000,
-            minValorDeseado: 50000,
-            intervalo: 500
+		"noCliente": {
+            "maxValorDeseado": 50000,
+            "minValorDeseado": 1000,
+            "intervalo": 500
 		},
-		cliente: {
-			maxValorDeseado: 1000,
-            minValorDeseado: 10000,
-            intervalo: 500
+		"cliente": {
+			"maxValorDeseado": 10000,
+            "minValorDeseado": 1000,
+            "intervalo": 500
 		}
 	}
 ]

@@ -7,7 +7,8 @@ module.exports = {
     workflow: {
         APPBOOT: 'ING001',
         ING001: 'AUT001',
-        AUT001: 'VIN006'
+        AUT001: 'AUT002',
+        AUT002: 'VIN006'
     },
     ING001: {
         status: 1,
@@ -20,6 +21,14 @@ module.exports = {
         }
     },
     AUT001: {
+        status: 1,
+        payload: {
+            esCliente: false,
+            esFatca: true,
+            codigoVendedor: [{ label: '2', value: '2'}]
+        }
+    },
+    AUT002: {
         status: 1,
         payload: {
             codigoVendedor: [{ label: '2', value: '2'}]
