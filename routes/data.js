@@ -7,11 +7,6 @@ const path = require('path');
 const respuesta = (req, res) => {
   const query = req.query;
   file = req.params.data_id;
-  if ( file === 'PROFESIONES') {
-    res.json([{
-      esSuceptible: false
-    }]);
-  }
   // if( query.aliado ) {
   //   file = `${file}-A${query.aliado}`
   // }

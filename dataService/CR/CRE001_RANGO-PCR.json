@@ -7,7 +7,7 @@
 		},
 		"cliente": {
 			"maxValorDeseado": 4000000,
-            "minValorDeseado": 500000,
+            "minValorDeseado": 500000.5,
             "intervalo": 100000
 		}
 	}

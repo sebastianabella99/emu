@@ -21,7 +21,9 @@ module.exports = {
     },
     LHC001: {
         status: 1,
-        payload: { }
+        payload: {
+            nombre: "Sergio Rafael"
+         }
     },
     CRE002: {
         status: 1,

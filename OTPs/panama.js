@@ -27,8 +27,8 @@ module.exports = {
         status: 1,
         payload: {
                 documento: {
-                    tipo: "DUI",
-                    numero: "11111111"
+                    tipo: "E",
+                    numero: "8-888-888"
                 }
         }
     },

@@ -9,6 +9,7 @@ var logger = require('morgan');
 var workflowRouter = require('./routes/worflow');
 var assetsRouter = require('./routes/assets');
 var dataRouter = require('./routes/data');
+var dataFilter = require('./routes/dataFilter');
 var jwks = require('./routes/jwks');
 var ip = require('./routes/ip');
 var app = express();
@@ -41,6 +42,7 @@ app.use('/assets', assetsRouter);
 app.use('/data', dataRouter);
 app.use('/auth/v1/keystore', jwks);
 app.use('/ip', ip);
+app.use('/dataFilter', dataFilter);
 
 // catch 404 and forward to error handler
 app.use((req, res, next) => {
