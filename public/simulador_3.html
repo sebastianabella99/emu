@@ -1,0 +1,168 @@
+<!doctype html>
+<html>
+<!doctype html>
+<html>
+
+<head>
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1">
+    <link href="css/style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+    <section class="container">
+
+        <!-- Back button -->
+        <div class="backButton">
+            <img src="./img/icon/flecha_izquierda_rojo.svg" alt="">
+            <span>Atrás</span>
+        </div>
+        <!-- End -->
+
+        <!-- Form container -->
+        <div class="formContainer">
+            <!-- Initial title -->
+            <div class="initialTitle initialTitle--top">
+                <h3 class="">Las condiciones de su crédito móvil que desea solicitar son:</h3>
+            </div>
+            <!-- End -->
+            <!-- Form column container -->
+            <section class="formContainer__columnContainer">
+                <article class="formColumn formColumn--small">
+                    <div class="formGroup">
+                        <label for="" class="formGroup__label formGroup__label--middle">
+                            Valor:
+                        </label>
+                        <h2>$ 500</h2>
+                    </div>
+
+                    <div class="formGroup">
+                        <label for="" class="formGroup__label formGroup__label--middle">
+                            Valor:
+                        </label>
+                        <h2>L 500</h2>
+                    </div>
+
+                    <div class="formGroup">
+                        <label for="" class="formGroup__label formGroup__label--middle">
+                            Valor:
+                        </label>
+                        <h2>¢ 500</h2>
+                    </div>
+                </article>
+                <article class="formColumn formColumn--small">
+                    <div class="formGroup">
+                        <label for="" class="formGroup__label formGroup__label--middle">
+                            Plazo:
+                        </label>
+                        <h2>12 meses</h2>
+                    </div>
+                </article>
+                <article class="formColumn formColumn--small">
+                    <div class="formGroup">
+                        <label for="" class="formGroup__label formGroup__label--middle">
+                            La cuota mensual aproximada
+                            de su crédito es de:*
+                        </label>
+                        <h2>$ 140
+                            <!-- Tooltip -->
+                            <div class="tooltip tooltip--text">
+                                <span class="tooltip__trigger tooltip__trigger--text">
+                                    <span><b>!</b></span>
+                                </span>
+                                <span class="tooltip__message tooltip__message--text">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                </span>
+                            </div>
+                            <!-- End -->
+                        </h2>
+                    </div>
+
+                    <div class="formGroup">
+                        <label for="" class="formGroup__label formGroup__label--middle">
+                            La cuota mensual aproximada
+                            de su crédito es de:*
+                        </label>
+                        <h2>L 140
+                            <!-- Tooltip -->
+                            <div class="tooltip tooltip--text">
+                                <span class="tooltip__trigger tooltip__trigger--text">
+                                    <span><b>!</b></span>
+                                </span>
+                                <span class="tooltip__message tooltip__message--text">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                </span>
+                            </div>
+                            <!-- End -->
+                        </h2>
+                    </div>
+
+                    <div class="formGroup">
+                        <label for="" class="formGroup__label formGroup__label--middle">
+                            La cuota mensual aproximada
+                            de su crédito es de:*
+                        </label>
+                        <h2>¢ 140
+                            <!-- Tooltip -->
+                            <div class="tooltip tooltip--text">
+                                <span class="tooltip__trigger tooltip__trigger--text">
+                                    <span><b>!</b></span>
+                                </span>
+                                <span class="tooltip__message tooltip__message--text">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                </span>
+                            </div>
+                            <!-- End -->
+                        </h2>
+                    </div>
+                </article>
+                <p class="centerText centerText--info centerText--colorPrimary">
+                    *Tenga en cuenta que este valor es estimado y puede variar
+                    de acuerdo a las condiciones de la tasa que asignaremos luego
+                    de la evaluación. <br><br>
+                    *Tenga en cuenta que este valor es estimado y puede variar de acuerdo a las condiciones de la tasa
+                    que asignaremos luego de la evaluación
+                    La cuota incluye seguros y plan de asistencia.</p>
+            </section>
+
+            <!-- Button Container -->
+            <div class="formContainer__buttonContainer formContainer__buttonContainer--dualButton">
+                <button class="button button--gray">
+                    <span class="button__label button__label--light">
+                        Nueva simulación
+                    </span>
+                </button>
+                <button class="button button--primary">
+                    <span class="button__label button__label--light">
+                        Solicitar crédito
+                    </span>
+                </button>
+            </div>
+            <!-- End -->
+        </div>
+
+    </section>
+</body>
+<script>
+    var value = document.querySelector('input[name="value"]');
+
+    var rangeValue = function () {
+        var newValue = value.value;
+        var target = document.querySelector('.rangeText--value');
+        target.innerHTML = newValue;
+    }
+
+    value.addEventListener("input", rangeValue);
+
+    var elem = document.querySelector('input[name="time"]');
+
+    var rangeTime = function () {
+        var newValue = elem.value;
+        var target = document.querySelector('.rangeText--time');
+        target.innerHTML = newValue;
+    }
+
+    elem.addEventListener("input", rangeTime);
+
+</script>
+
+</html>

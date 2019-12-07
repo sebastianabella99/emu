@@ -15,7 +15,7 @@ module.exports = {
             aliado: 'ML',
             canal: 'web',
             idModulo: 'cam',
-            lenguaje: 'es',
+            lenguaje: 'ES',
             pais: 'CR'
         }
     },

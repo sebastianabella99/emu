@@ -3,7 +3,7 @@ var router = express.Router();
 
 router.get('/', (req, res) => {
   res.json({
-      ip: '10.224.167.53'
+      ip: req.ip
   });
 });
 

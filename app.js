@@ -38,7 +38,7 @@ app.use((req, res, next) => {
 });
 
 app.use('/api', workflowRouter);
-app.use('/assets', assetsRouter);
+app.use('/asset', assetsRouter);
 app.use('/data', dataRouter);
 app.use('/auth/v1/keystore', jwks);
 app.use('/ip', ip);

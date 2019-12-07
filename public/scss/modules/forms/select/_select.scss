@@ -1,0 +1,117 @@
+.form-select {
+
+    background: #ffffff;
+    overflow: hidden;
+    border: 1px solid #cbcbcb;
+    border-radius: 3px;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.1), inset 0 0 10px rgba(0, 0, 0, 0.07);
+
+    &:focus,
+    &:hover {
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    }
+
+    &:after {
+        position: absolute;
+        top: 0;
+        right: 12px;
+        z-index: 1;
+        color: #bbbbbb;
+        line-height: 40px;
+        font-size: 14px;
+
+        .ie & {
+            display: none;
+        }
+    }
+}
+
+select {
+    position: relative;
+    background-color: #E4E4E4;
+    display: block;
+    width: 100%;
+    outline: none;
+    cursor: pointer;
+    z-index: 2;
+    border: none;
+    padding: 10px 10px 10px 5px;
+    background-image: url(../img/icons/dropdown.png);
+	background-size: em(35) em(20);
+	background-position: center right;
+	background-repeat: no-repeat;
+    text-overflow: '';
+    text-indent: 5px;
+
+    text-rendering: auto;
+    color: black;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: start;
+    white-space: pre;
+    @include prefix((
+			box-sizing: border-box,
+	 		appearance: none,
+	 		display: flex,
+	 		justify-content: flex-start,
+	 		align-items: center,
+	 		transition: ease all 0.3s
+	    ), webkit moz o ms);
+
+    &[multiple=multiple] {
+        height: auto;
+        border: 1px solid #cbcbcb;
+        border-radius: 3px;
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0.1), inset 0 0 10px rgba(0, 0, 0, 0.07);
+
+        &:hover {
+            border-color: #cccccc;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+        }
+    }
+
+    option[disabled] {
+        color: #eeeeee;
+        text-shadow: none;
+        border: none;
+        background: #ffffff;
+    }
+
+    option{
+        position: absolute;
+        background-color: white;
+        top: 100%;
+        left: 0;
+        right: 0;
+        z-index: 99;
+        font-size: 16px;
+    }
+
+    option div{
+        width: 10%;
+    }
+}
+
+select:-moz-focusring {
+    color: transparent;
+    text-shadow: 0 0 0 #888888;
+}
+
+select::-ms-expand {
+    display: none;
+}
+
+
+
+/*==========  Generic styling  ==========*/
+
+.column-6 {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   margin: -20px 0 0 -150px;
+   width: 300px;
+}

@@ -13,7 +13,8 @@
                 "id": "2",
                 "descripcion": "Manejo de fondos a través de Tarjeta Débito"
             }
-    ]
+    ],
+    "textoACU": "ALGO"
     },
     {
         "id": "1",
@@ -29,7 +30,8 @@
                     "id": "2",
                     "descripcion": "Asignación de un ejecutivo especializado."
                 }
-        ]
+        ],
+        "textoACU": "ALGO"
     },
     {
         "id": "2",
@@ -48,6 +50,7 @@
                     "id": "3",
                     "descripcion": "5 Retiros gratis en red ATH"
                 }
-        ]
+        ],
+        "textoACU": "ALGO"
         }
 ]

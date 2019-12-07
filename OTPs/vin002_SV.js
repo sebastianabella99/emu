@@ -7,7 +7,7 @@ module.exports = {
     workflow: {
         APPBOOT: 'ING001',
         ING001: 'VIN002',
-        VIN002: 'VIN005'
+        VIN002: 'ING001'
     },
     ING001: {
         status: 1,
@@ -21,7 +21,24 @@ module.exports = {
     },
     VIN002: {
         status: 1,
-        payload: {}
+        payload: {
+            estadoCivil: "1",
+            expedicion: {
+                ciudad: "",
+                departamento: "",
+                municipio: "",
+                fechaExpedicion: "01/01/1990",
+                fechaVencimiento: "02/12/2222"
+            },
+            fechaNacimiento: "12/12/1988",
+            nit: "",
+            nombres: {
+                primerApellido: "Primer Apellido",
+                primerNombre: "Primer Nombre",
+                segundoApellido: "Segundo Apellido",
+                segundoNombre: "Segundo Nombre"
+            }
+        }
     },
     VIN005: {
         status: 1,

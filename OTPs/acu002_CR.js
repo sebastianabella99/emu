@@ -22,7 +22,7 @@ module.exports = {
     ACU002: {
         status: 1,
         payload: {
-            codigoVendedor: [{ label: '2', value: '2'}]
+            codSubProducto: "0"
         }
     },
     VIN006: {

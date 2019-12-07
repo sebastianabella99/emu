@@ -1,0 +1,27 @@
+.cardInfo{
+    width: 96%;
+    border-radius: 10px;
+    padding: 1rem 0.5rem 0.1rem 0.5rem;
+    @include prefix((
+		box-shadow: 0 0 em(8) rgba($color__text--light, 0.30)	 
+    ), webkit moz o ms);
+    hr{
+        width: 100%;
+        border: 1px dashed $color__gray;
+        margin-bottom: 0;
+    }
+    &__elementSelected{
+        display: flex;
+        justify-content: space-between;
+        .cardButtons{
+            display: flex;
+            .iconButton{
+                margin: 0;
+                width: auto;
+                height: auto;
+                background-color: #ffffff;
+            }
+        }
+    }
+
+}

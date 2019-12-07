@@ -1,0 +1,125 @@
+<!doctype html>
+<html>
+<!doctype html>
+<html>
+
+<head>
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1">
+    <link href="css/style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+    <section class="container">
+
+        <!-- Back button -->
+        <div class="backButton">
+            <img src="./img/icon/flecha_izquierda_rojo.svg" alt="">
+            <span>Atrás</span>
+        </div>
+        <!-- End -->
+
+        <!-- Form container -->
+        <div class="formContainer">
+            <!-- Initial title -->
+            <div class="initialTitle initialTitle--isHidden">
+                <h2 class="text__color--primary">Cuenta Móvil</h2>
+                <h5><b>Beneficios y características</b></h5>
+                <p>Ábrala desde su celular sin costo y comience a usarla de inmediato.</p>
+            </div>
+            <!-- End -->
+            <!-- Form column container -->
+            <section class="formContainer__columnContainer">
+                <!-- Form column - Las columnas se ajustan, si inluyes otra columna toma la distancia y se alinean dependiendo del dispositivo. -->
+                <article class="formColumn">
+
+                    <!-- Para todos los países -->
+                    <!-- Type ID -->
+                    <div class="formGroup">
+                        <label for="" class="formGroup__label">
+                            Seleccione el tipo de documento:
+                        </label>
+                        <select name="" id="" class="formGroup__input formGroup__input--select" name="">
+                            <option disabled selected hidden value="0"> Seleccione </option>
+                            <option value="1">Opción 1</option>
+                            <option value="2">Opción 2</option>
+                            <option value="3">Opción 3
+                            <option>
+                        </select>
+                    </div>
+                    <!-- End -->
+
+                    <!-- Este campo se imprime para Salvador, Costa Rica, Honduras -->
+                    <!-- Id number -->
+                    <div class="formGroup">
+                        <label for="" class="formGroup__label">
+                            Escriba su numero de identificación:
+                            <!-- Tooltip -->
+                            <div class="tooltip">
+                                <span class="tooltip__trigger">
+                                    <span>i</span>
+                                </span>
+                                <span class="tooltip__message">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                </span>
+                            </div>
+                            <!-- End -->
+                        </label>
+                        <input type="text" class="formGroup__input" placeholder="Escriba su número de documento"
+                            name="" />
+                    </div>
+                    <!-- End -->
+
+                    <!-- Este campo se imprime para Panamá -->
+                    <!-- Id number -->
+                    <div class="formGroup">
+                        <label for="" class="formGroup__label">
+                            Escriba su numero de identificación:
+                        </label>
+                        <div class="formGroup__flexRow">
+                            <input type="text"
+                                class="formGroup__input formGroup__input--alignCenter formGroup__flexRow__child"
+                                placeholder="" name="" />
+                            <span class="formGroup__flexRow__separator"> - </span>
+                            <input type="text"
+                                class="formGroup__input formGroup__input--alignCenter formGroup__flexRow__child"
+                                placeholder="" name="" />
+                            <span class="formGroup__flexRow__separator"> - </span>
+                            <input type="text"
+                                class="formGroup__input formGroup__input--alignCenter formGroup__flexRow__child formGroup__flexRow__child--idLast"
+                                placeholder="" name="" />
+                        </div>
+                    </div>
+                    <!-- End -->
+                    <!-- Este campo se imprime solo para El Salvador-->
+                    <div class="formGroup">
+                        <div class="checkboxContainer">
+                            <input type="checkbox">
+                            <div class="checkmark"></div>
+                            <span>
+                                Por este medio autorizo a que Banco Davivienda Salvadoreño, S.A., pueda utilizar
+                                toda la información ingresada por mi persona en este proceso, comprendiendo la
+                                información biométrica, fotográfica, clave de acceso, Clave de un solo acceso u
+                                OTP, como mi firma digital para el proceso de Cuenta Móvil.
+                            </span>
+                        </div>
+                    </div>
+
+                    <!-- End -->
+                </article>
+                <!-- End -->
+            </section>
+            <!-- Button Container -->
+            <div class="formContainer__buttonContainer">
+                <button class="button button--primary">
+                    <span class="button__label button__label--light">
+                        Continuar
+                    </span>
+                </button>
+            </div>
+            <!-- End -->
+        </div>
+
+    </section>
+</body>
+
+</html>

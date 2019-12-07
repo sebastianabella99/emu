@@ -8,6 +8,7 @@
 /**
  * body -styles
  */
+
 *
 {
   font-family: $font__family !important;
@@ -17,7 +18,6 @@ body
 {
   font-size: em($font__size);
   line-height: em($font__base);
-  font-family: $font__family !important;
   font-weight: 100;
   font-style: normal;
   margin: auto;
@@ -27,10 +27,4 @@ body
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
- .grecaptcha-badge {
-
-    bottom: 100px !important;
-
 }
