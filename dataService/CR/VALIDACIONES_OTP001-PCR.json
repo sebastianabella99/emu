@@ -1,0 +1,19 @@
+[{
+	"otp": {
+		"TIPO_PARA_GENERAR_OTP": 60000,
+		"placeholder": "",
+		"rules": {
+			"minLength": 6,
+			"maxLength": 6,
+			"restric": "0123456789"
+		},
+		"errors": {
+			"title": "Información Incorrecta:",
+			"message": [
+            	{ "type": "minlength", "label": "No se permiten menos de 6 digitos." },
+            	{ "type": "maxlength", "label": "No se permiten más de 6 digitos." },
+            	{ "type": "required", "label": "Información requerida." }
+			]
+		}
+	}
+}]

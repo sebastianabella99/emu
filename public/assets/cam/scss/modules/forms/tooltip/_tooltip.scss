@@ -1,0 +1,119 @@
+.tooltip {
+    position: relative;
+    font-size: 12px;
+    &--text {
+        display: -webkit-inline-box;
+    }
+    &__trigger {
+        background-color: $color__tooltip;
+        color: white !important;
+        width: em(25);
+        height: em(25);
+        text-decoration: none !important;
+        border-radius: 50%;
+        right: em(20);
+        top: em(57);
+        position: relative;
+        font-family: "Trebuchet MS", Helvetica, sans-serif;
+        cursor: pointer;
+        @include prefix(( box-sizing: border-box, appearance: none, display: flex, justify-content: center, align-items: center, ), webkit moz o ms);
+        &:hover~.tooltip__message {
+            @include prefix(( opacity: 1, pointer-events: aoto, transform: translateY(0), ), webkit moz o ms);
+        }
+        &--info {
+            background-color: #D4D4D4;
+            color: #EE3124 !important;
+            width: em(30);
+            height: em(30);
+            top: 0;
+        }
+        &--text {
+            width: em(25);
+            height: em(25);
+            top: -0.5rem;
+            right: -1rem;
+        }
+    }
+    &__message {
+        width: em(350);
+        padding: em(28);
+        background-color: $color__lightgray !important;
+        position: absolute;
+        top: em(95);
+        right: 0;
+        border-radius: em(15);
+        font-size: em(15);
+        line-height: em(21);
+        font-weight: 500;
+        z-index: 10;
+        @include prefix(( box-sizing: border-box, opacity: 0, transition: ease all 0.3s, pointer-events: none, transform: translateY(2em), ), webkit moz o ms);
+        &--info {
+            top: em(40);
+        }
+        &--text {
+            top: em(30);
+            right: -4rem;
+        }
+    }
+}
+
+@media (max-width: 800px) {
+    .tooltip {
+        position: relative;
+        font-size: 12px;
+        &--text {
+            display: -webkit-inline-box;
+        }
+        &__trigger {
+            background-color: $color__tooltip;
+            color: white !important;
+            width: em(25);
+            height: em(25);
+            text-decoration: none !important;
+            border-radius: 50%;
+            right: em(20);
+            top: em(55);
+            position: relative;
+            font-family: "Trebuchet MS", Helvetica, sans-serif;
+            cursor: pointer;
+            @include prefix(( box-sizing: border-box, appearance: none, display: flex, justify-content: center, align-items: center, ), webkit moz o ms);
+            &:hover~.tooltip__message {
+                @include prefix(( opacity: 1, pointer-events: aoto, transform: translateY(0), ), webkit moz o ms);
+            }
+            &--info {
+                background-color: #D4D4D4;
+                color: #EE3124 !important;
+                width: em(30);
+                height: em(30);
+                top: 0;
+            }
+            &--text {
+                width: em(25);
+                height: em(25);
+                top: -0.5rem;
+                right: -1rem;
+            }
+        }
+        &__message {
+            width: em(350);
+            padding: em(28);
+            background-color: $color__lightgray !important;
+            position: absolute;
+            top: em(95);
+            right: 0;
+            border-radius: em(15);
+            font-size: em(15);
+            line-height: em(21);
+            font-weight: 500;
+            z-index: 10;
+            @include prefix(( box-sizing: border-box, opacity: 0, transition: ease all 0.3s, pointer-events: none, transform: translateY(2em), ), webkit moz o ms);
+            &--info {
+                top: em(40);
+            }
+            &--text {
+                top: em(30);
+                right: -4rem;
+            }
+        }
+    }
+}

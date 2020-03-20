@@ -12,7 +12,7 @@ module.exports = {
         status: 1,
         payload: {
             "aliado":"LM",
-            "canal":"48",
+            "canal":"2",
             "idModulo":"MNUING",
             "lenguaje":"ES",
             "pais":"PA"

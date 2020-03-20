@@ -13,7 +13,7 @@ module.exports = {
         status: 1,
         payload: {
             "aliado":"LM",
-            "canal":"48",
+            "canal":"1",
             "idModulo":"MNUING",
             "lenguaje":"ES",
             "pais":"CR"
@@ -28,7 +28,7 @@ module.exports = {
                 departamento: "",
                 municipio: "",
                 fechaExpedicion: "01/01/1990",
-                fechaVencimiento: "02/12/22"
+                fechaVencimiento: "02/12/2020"
             },
             fechaNacimiento: "12/12/1988",
             nit: "",

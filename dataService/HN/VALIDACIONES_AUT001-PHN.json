@@ -1,0 +1,19 @@
+[{
+	"codigoVendedor": {
+		"placeholder": "Opcional",
+		"rules": {
+			"required": true,
+			"minLength": 3,
+			"maxLength": 3,
+			"restric": "0123456789QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm"
+		},
+		"errors": {
+			"title": "Información Incorrecta:",
+			"message": [
+				{"type": "required", "label": "Información Requerida"},
+				{"type": "minlength", "label": "Se requieren 3 caracteres minimos."},
+				{"type": "maxlength", "label": "Se requieren 3 caracteres maximos."}
+			]
+		}
+	}
+}]

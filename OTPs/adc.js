@@ -14,7 +14,7 @@ module.exports = {
         CRE008: 'CRE009',
         CRE009: 'ING001'
     },
-    ING001: {
+    ING002: {
         status: 1,
         payload: {
             "aliado":"LM",

@@ -13,7 +13,7 @@ module.exports = {
         status: 1,
         payload: {
             "aliado":"LM",
-            "canal":"48",
+            "canal":"1",
             "idModulo":"MNUING",
             "lenguaje":"ES",
             "pais":"SV"
@@ -22,7 +22,8 @@ module.exports = {
     VIN002: {
         status: 1,
         payload: {
-            estadoCivil: "1",
+            nit: "321321321321",
+            estadoCivil: "888",
             expedicion: {
                 ciudad: "",
                 departamento: "",
@@ -30,8 +31,6 @@ module.exports = {
                 fechaExpedicion: "01/01/1990",
                 fechaVencimiento: "02/12/2222"
             },
-            fechaNacimiento: "12/12/1988",
-            nit: "",
             nombres: {
                 primerApellido: "Primer Apellido",
                 primerNombre: "Primer Nombre",

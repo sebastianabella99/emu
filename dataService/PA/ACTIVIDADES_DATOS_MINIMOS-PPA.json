@@ -1,0 +1,12 @@
+[
+	{
+		"label": "Asalariado",
+		"value": "1"
+	}, {
+		"label": "Persona Natural con Negocio Propio",
+		"value": "2"
+	}, {
+		"label": "Profesional Independiente",
+		"value": "3"
+	}
+]

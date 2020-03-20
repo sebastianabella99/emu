@@ -13,21 +13,17 @@ module.exports = {
         status: 1,
         payload: {
             aliado: 'ML',
-            canal: 'q',
-            idModulo: 'CTACAM',
+            canal: '1',
+            idModulo: 'CRECAM',
             lenguaje: 'ES',
-            pais: 'SV'
+            pais: 'CR'
         }
     },
     CUE001: {
         status: 1,
         payload: {
-            valorDeseado: 500000,
-            maxValorDeseado: 10000000,
-            minValorDeseado: 500000,
-            plazo: 12,
-            minPlazo: 12,
-            maxPlazo: 96
+            tieneCuentaDigital: true,
+            esCliente: false
         }
     },
     SIM002: {

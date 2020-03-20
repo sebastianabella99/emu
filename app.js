@@ -12,18 +12,18 @@ var dataRouter = require('./routes/data');
 var dataFilter = require('./routes/dataFilter');
 var jwks = require('./routes/jwks');
 var ip = require('./routes/ip');
+var upload = require('./routes/upload');
+var files = require('./routes/files');
 var app = express();
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 
-app.use(cors({
-  origin: '*',
-  optionsSuccessStatus: 200
-}));
+app.use(cors());
 app.disable('x-powered-by');
-app.use(helmet());
+app.use(helmet.noCache())
+app.use(helmet({ frameguard: false }))
 app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
@@ -33,7 +33,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use((req, res, next) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
-  res.setHeader('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization');
+  res.setHeader('Access-Control-Allow-Headers', 'Origin, X-Frame-Options, X-Requested-With, Content-Type, Accept, Authorization');
   next();
 });
 
@@ -43,6 +43,8 @@ app.use('/data', dataRouter);
 app.use('/auth/v1/keystore', jwks);
 app.use('/ip', ip);
 app.use('/dataFilter', dataFilter);
+app.use('/upload', upload);
+app.use('/files', files);
 
 // catch 404 and forward to error handler
 app.use((req, res, next) => {

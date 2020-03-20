@@ -13,7 +13,7 @@ module.exports = {
         status: 1,
         payload: {
             "aliado":"LM",
-            "canal":"48",
+            "canal":"1",
             "idModulo":"MNUING",
             "lenguaje":"ES",
             "pais":"PA"
@@ -22,9 +22,17 @@ module.exports = {
     AUT001: {
         status: 1,
         payload: {
-            esCliente: false,
+            esCliente: true,
             esFatca: false,
-            codigoVendedor: [{ label: '2', value: '2'}]
+            codigoVendedor: [{ label: '2', value: '2'}],
+            SV: {},
+            PA: {},
+            CR: {},
+            HN: {},
+            sv: {},
+            hn: {},
+            cr: {},
+            pa: {}
         }
     },
     VIN006: {

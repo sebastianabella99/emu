@@ -1,0 +1,200 @@
+[{
+	"nombreReferenciaFamiliar": {
+		"placeholder": "",
+		"rules": {
+			"minLength": 3,
+			"maxLength": 40,
+			"restric": "QWERTYUIOPÑLKJHGFDSAZXCVBNMqwertyuiopñlkjhgfdsazxcvbnm áéíóúÁÉÍÓÚ",
+			"regex": "^[a-zA-ZñÑáéíóúÁÉÍÓÚ]{3,}([ ]+([a-zA-ZñÑáéíóúÁÉÍÓÚ]{1,}))+$"
+		},
+		"errors": {
+			"title": "Información Incorrecta:",
+			"message": [
+				{ "type": "required", "label": "Información requerida." },
+            	{ "type": "minlength", "label": "No se permiten menos de 3 caracteres." },
+            	{ "type": "pattern", "label": "Favor ingresar el nombre completo de la referencia familiar." }
+			]
+		}
+	},
+	"noTelefonoReferenciaFamiliar": {
+		"placeholder": "",
+		"rules": {
+			"minLength": 8,
+			"maxLength": 8,
+			"restric": "0123456789",
+			"regex": "^(2|3|6|7|8|9)[0-9]*$"
+		},
+		"errors": {
+			"title": "Información Incorrecta:",
+			"message": [
+				{ "type": "required", "label": "Información requerida." },
+            	{ "type": "minlength", "label": "No se permiten menos de 8 caracteres." },
+            	{ "type": "pattern", "label": "El número de teléfono no debe iniciar con 0, 1, 4 y 5. " }
+			]
+		}
+	},
+	"nombreReferenciaPersonal": {
+		"placeholder": "",
+		"rules": {
+			"minLength": 3,
+			"maxLength": 40,
+			"restric": "QWERTYUIOPÑLKJHGFDSAZXCVBNMqwertyuiopñlkjhgfdsazxcvbnm áéíóúÁÉÍÓÚ",
+			"regex": "^[a-zA-ZñÑáéíóúÁÉÍÓÚ]{3,}([ ]+([a-zA-ZñÑáéíóúÁÉÍÓÚ]{1,}))+$"
+		},
+		"errors": {
+			"title": "Información Incorrecta:",
+			"message": [
+				{ "type": "required", "label": "Información requerida." },
+	            { "type": "minlength", "label": "No se permiten menos de 3 caracteres." },
+            	{ "type": "pattern", "label": "Favor ingresar el nombre completo de la referencia personal." }
+        	]
+		}
+	},
+	"noTelefonoReferenciaPersonal": {
+		"placeholder": "",
+		"rules": {
+			"minLength": 8,
+			"maxLength": 8,
+			"restric": "0123456789",
+			"regex": "^(2|3|6|7|8|9)[0-9]*$"
+		},
+		"errors": {
+			"title": "Información Incorrecta:",
+			"message": [
+				{ "type": "required", "label": "Información requerida." },
+            	{ "type": "minlength", "label": "No se permiten menos de 8 caracteres." },
+            	{ "type": "pattern", "label": "El número de teléfono no debe iniciar con 0, 1, 4 y 5. " }
+			]
+		}
+	},
+	"nombre": {
+		"placeholder": "",
+		"rules": {
+			"minLength": 3,
+			"maxLength": 40,
+			"restric": "QWERTYUIOPÑLKJHGFDSAZXCVBNMqwertyuiopñlkjhgfdsazxcvbnm áéíóúÁÉÍÓÚ",
+			"regex": "^[a-zA-ZñÑáéíóúÁÉÍÓÚ]{3,}([ ]+([a-zA-ZñÑáéíóúÁÉÍÓÚ]{1,}))+$"
+		},
+		"errors": {
+			"title": "Información Incorrecta:",
+			"message": [
+				{ "type": "required", "label": "Información requerida." },
+				{ "type": "minlength", "label": "No se permiten menos de 3 caracteres." },
+            	{ "type": "pattern", "label": "Favor ingresar el nombre completo del beneficiario." }
+		]
+		}
+	},
+	"parentesco": {
+		"placeholder": "Seleccione",
+		"rules": {},
+		"errors": {
+			"title": "Información Incorrecta:",
+			"message": [{ "type": "select", "label": "Selecciona un elemento de la lista preaprobada." }]
+		}
+	},
+	"tipoIdentificacion": {
+		"placeholder": "Selecione",
+		"rules": {
+			"PARENTESCO_ID": {
+		        "001": true,
+				"002": true,
+				"003": false,
+				"004": false,
+				"005": true,
+				"006": true,
+				"007": true,
+				"008": true,
+				"009": true,
+				"010": true,
+				"011": false,
+				"012": false,
+				"013": false,
+				"014": true,
+				"015": true,
+				"016": false,
+				"017": false,
+				"018": false,
+				"019": false,
+				"020": false,
+				"021": false,
+				"022": false,
+				"023": false,
+				"024": true,
+				"025": true,
+				"026": true,
+				"027": true,
+				"028": false,
+				"029": false,
+				"030": false,
+				"031": false,
+				"032": false,
+				"033": false,
+				"034": false,
+				"035": false,
+				"036": false,
+				"037": false
+			}
+		},
+		"errors": {
+			"title": "Información Incorrecta:",
+			"message": [{ "type": "select", "label": "Selecciona un elemento de la lista preaprobada." }]
+		}
+	},
+	"docIdentidad": {
+		"placeholder": "",
+		"rules": {
+			"PARENTESCO_ID": {
+		        "001": true,
+				"002": true,
+				"003": false,
+				"004": false,
+				"005": true,
+				"006": true,
+				"007": true,
+				"008": true,
+				"009": true,
+				"010": true,
+				"011": false,
+				"012": false,
+				"013": false,
+				"014": true,
+				"015": true,
+				"016": false,
+				"017": false,
+				"018": false,
+				"019": false,
+				"020": false,
+				"021": false,
+				"022": false,
+				"023": false,
+				"024": true,
+				"025": true,
+				"026": true,
+				"027": true,
+				"028": false,
+				"029": false,
+				"030": false,
+				"031": false,
+				"032": false,
+				"033": false,
+				"034": false,
+				"035": false,
+				"036": false,
+				"037": false
+			},
+			"0": {
+				"minLength": 13
+			},
+			"1": {
+				"minLength": 8
+			},
+			"2": {
+				"minLength": 15
+			}
+		},
+		"errors": {
+			"title": "Información Incorrecta:",
+			"message": [{ "type": "required", "label": "Información requerida." }]
+		}
+	}
+}]

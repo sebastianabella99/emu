@@ -1,0 +1,36 @@
+[
+    {
+    "idProducto": "CRECAM",
+    "titulo": "Crédito Móvil",
+    "imagen": "asset_IMG_ING001_001",
+    "descripcion": "Crédito de consumo con aprobación en línea",
+    "tipo": "url",
+    "data": {}
+    },
+    {
+    "imagen": "asset_IMG_ING001_002",
+    "descripcion": "Ábrala desde su celular sin costo y comience a usarla de inmediato",
+    "idProducto": "CTACAM",
+    "titulo": "Cuenta Móvil",
+    "tipo": "url",
+    "data": {}
+    },
+    {
+    "idProducto": "2",
+    "titulo": "Tarjeta Móvil",
+    "imagen": "asset_IMG_ING001_003",
+    "descripcion": "Solicítela y recíbala en su domicilio",
+    "tipo": "url",
+    "data": {}
+    },
+    {
+    "titulo": "Depósitos a Plazo",
+    "imagen": "asset_IMG_ING001_004",
+    "tipo": "postMessage",
+    "data": {
+    "postMessage": "op_cdt"
+    },
+    "descripcion": "Abra un Depósito a Plazo 100% Digital",
+    "idProducto": "2"
+    }
+    ]

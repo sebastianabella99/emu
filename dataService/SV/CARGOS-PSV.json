@@ -1,0 +1,2514 @@
+[
+ {
+   "value": "91",
+   "label": "Abogado"
+ },
+ {
+   "value": "92",
+   "label": "Activador"
+ },
+ {
+   "value": "48",
+   "label": "Administrador de ventas"
+ },
+ {
+   "value": "62",
+   "label": "Adminsitrativo"
+ },
+ {
+   "value": "93",
+   "label": "Aeromosa"
+ },
+ {
+   "value": "94",
+   "label": "Agarrador"
+ },
+ {
+   "value": "95",
+   "label": "Agente"
+ },
+ {
+   "value": "96",
+   "label": "Agente de aduana"
+ },
+ {
+   "value": "97",
+   "label": "Agente de seguridad"
+ },
+ {
+   "value": "98",
+   "label": "Agente de servicio"
+ },
+ {
+   "value": "99",
+   "label": "Agente de ventas"
+ },
+ {
+   "value": "100",
+   "label": "Agente policiales y cam"
+ },
+ {
+   "value": "101",
+   "label": "Agricultor"
+ },
+ {
+   "value": "102",
+   "label": "Agronomo"
+ },
+ {
+   "value": "103",
+   "label": "Albanil"
+ },
+ {
+   "value": "44",
+   "label": "Alcalde"
+ },
+ {
+   "value": "104",
+   "label": "Alimentador de cana"
+ },
+ {
+   "value": "105",
+   "label": "Almacenero"
+ },
+ {
+   "value": "106",
+   "label": "Ama de casa"
+ },
+ {
+   "value": "107",
+   "label": "Analista"
+ },
+ {
+   "value": "53",
+   "label": "analista"
+ },
+ {
+   "value": "108",
+   "label": "Analista de computacion"
+ },
+ {
+   "value": "20",
+   "label": "Analista programador"
+ },
+ {
+   "value": "109",
+   "label": "Apicultor"
+ },
+ {
+   "value": "110",
+   "label": "Apilador"
+ },
+ {
+   "value": "111",
+   "label": "Apoderado"
+ },
+ {
+   "value": "112",
+   "label": "Aprendiz"
+ },
+ {
+   "value": "113",
+   "label": "Archivista"
+ },
+ {
+   "value": "114",
+   "label": "Armador"
+ },
+ {
+   "value": "115",
+   "label": "Arqueologo"
+ },
+ {
+   "value": "61",
+   "label": "Arquitecto"
+ },
+ {
+   "value": "116",
+   "label": "Arquitecto"
+ },
+ {
+   "value": "117",
+   "label": "Artesano"
+ },
+ {
+   "value": "118",
+   "label": "Ascensorista"
+ },
+ {
+   "value": "119",
+   "label": "Asesor"
+ },
+ {
+   "value": "46",
+   "label": "Asistente"
+ },
+ {
+   "value": "120",
+   "label": "Asistente de abogacia"
+ },
+ {
+   "value": "121",
+   "label": "Asistente de auditoria"
+ },
+ {
+   "value": "122",
+   "label": "Asistente de consultorio medico"
+ },
+ {
+   "value": "16",
+   "label": "Asistente direccion de administracion"
+ },
+ {
+   "value": "38",
+   "label": "Asistente direccion de operaciones"
+ },
+ {
+   "value": "32",
+   "label": "Asistente gerencia general"
+ },
+ {
+   "value": "123",
+   "label": "Atendente"
+ },
+ {
+   "value": "28",
+   "label": "Auxiliar"
+ },
+ {
+   "value": "124",
+   "label": "Auxiliar de cocina"
+ },
+ {
+   "value": "125",
+   "label": "Auxiliar de contabilidad"
+ },
+ {
+   "value": "657",
+   "label": "AUXILIAR DE RESGUARDO"
+ },
+ {
+   "value": "126",
+   "label": "Auxiliar dental"
+ },
+ {
+   "value": "127",
+   "label": "Aviador piloto"
+ },
+ {
+   "value": "128",
+   "label": "Avisador"
+ },
+ {
+   "value": "129",
+   "label": "Ayudante"
+ },
+ {
+   "value": "130",
+   "label": "Ayudante de mecanico general"
+ },
+ {
+   "value": "31",
+   "label": "Ayudante de planta"
+ },
+ {
+   "value": "131",
+   "label": "Ayudante operario construccion"
+ },
+ {
+   "value": "132",
+   "label": "Back office"
+ },
+ {
+   "value": "133",
+   "label": "Bailarin"
+ },
+ {
+   "value": "134",
+   "label": "Bailarina"
+ },
+ {
+   "value": "135",
+   "label": "Bandeador"
+ },
+ {
+   "value": "136",
+   "label": "Banderillero"
+ },
+ {
+   "value": "137",
+   "label": "Barbero"
+ },
+ {
+   "value": "138",
+   "label": "Barista"
+ },
+ {
+   "value": "139",
+   "label": "Barrendero"
+ },
+ {
+   "value": "140",
+   "label": "Bartender"
+ },
+ {
+   "value": "141",
+   "label": "Becario"
+ },
+ {
+   "value": "142",
+   "label": "Bibliotecario"
+ },
+ {
+   "value": "143",
+   "label": "Biologo"
+ },
+ {
+   "value": "144",
+   "label": "Bloquero"
+ },
+ {
+   "value": "145",
+   "label": "Bodeguero"
+ },
+ {
+   "value": "146",
+   "label": "Bombero"
+ },
+ {
+   "value": "147",
+   "label": "Botones"
+ },
+ {
+   "value": "148",
+   "label": "Busero"
+ },
+ {
+   "value": "149",
+   "label": "Cabo"
+ },
+ {
+   "value": "150",
+   "label": "Cadenero"
+ },
+ {
+   "value": "151",
+   "label": "Cajero"
+ },
+ {
+   "value": "56",
+   "label": "cajero"
+ },
+ {
+   "value": "152",
+   "label": "Calculista y controlador"
+ },
+ {
+   "value": "153",
+   "label": "Calderero"
+ },
+ {
+   "value": "154",
+   "label": "Camarera"
+ },
+ {
+   "value": "155",
+   "label": "Camarografo"
+ },
+ {
+   "value": "156",
+   "label": "Camillero"
+ },
+ {
+   "value": "157",
+   "label": "Canciller"
+ },
+ {
+   "value": "158",
+   "label": "Cantante de musica"
+ },
+ {
+   "value": "159",
+   "label": "Capacitador"
+ },
+ {
+   "value": "160",
+   "label": "Caporal"
+ },
+ {
+   "value": "161",
+   "label": "Capturista de datos"
+ },
+ {
+   "value": "162",
+   "label": "Cargador"
+ },
+ {
+   "value": "163",
+   "label": "Carnicero"
+ },
+ {
+   "value": "164",
+   "label": "Carpintero"
+ },
+ {
+   "value": "165",
+   "label": "Carretero"
+ },
+ {
+   "value": "166",
+   "label": "Cartero"
+ },
+ {
+   "value": "167",
+   "label": "Cartografo"
+ },
+ {
+   "value": "168",
+   "label": "Casetero"
+ },
+ {
+   "value": "1",
+   "label": "Catedratico"
+ },
+ {
+   "value": "169",
+   "label": "Cerrajero"
+ },
+ {
+   "value": "170",
+   "label": "Chef pastelero"
+ },
+ {
+   "value": "171",
+   "label": "Chequeador de buses"
+ },
+ {
+   "value": "172",
+   "label": "Chequero"
+ },
+ {
+   "value": "173",
+   "label": "Chofer"
+ },
+ {
+   "value": "174",
+   "label": "Chofer de buses"
+ },
+ {
+   "value": "175",
+   "label": "Chofer de trailer"
+ },
+ {
+   "value": "176",
+   "label": "Chofer de vehiculo"
+ },
+ {
+   "value": "177",
+   "label": "Chofer despachador"
+ },
+ {
+   "value": "178",
+   "label": "Ciclista"
+ },
+ {
+   "value": "179",
+   "label": "Citador"
+ },
+ {
+   "value": "180",
+   "label": "Citotecnologo"
+ },
+ {
+   "value": "181",
+   "label": "Clasificador"
+ },
+ {
+   "value": "182",
+   "label": "Cobrador"
+ },
+ {
+   "value": "183",
+   "label": "Cobrador de bus"
+ },
+ {
+   "value": "184",
+   "label": "Cobrador de microbus"
+ },
+ {
+   "value": "185",
+   "label": "Cocinero"
+ },
+ {
+   "value": "65",
+   "label": "Colaborador de desarrollo 1"
+ },
+ {
+   "value": "186",
+   "label": "Colector"
+ },
+ {
+   "value": "187",
+   "label": "Colocador"
+ },
+ {
+   "value": "188",
+   "label": "Comandante"
+ },
+ {
+   "value": "189",
+   "label": "Comercializador"
+ },
+ {
+   "value": "190",
+   "label": "Comerciante"
+ },
+ {
+   "value": "191",
+   "label": "Comodin"
+ },
+ {
+   "value": "192",
+   "label": "Comprador de suministros"
+ },
+ {
+   "value": "193",
+   "label": "Concejal"
+ },
+ {
+   "value": "194",
+   "label": "Concejera"
+ },
+ {
+   "value": "195",
+   "label": "Conductor de bus padron"
+ },
+ {
+   "value": "196",
+   "label": "Confrontador"
+ },
+ {
+   "value": "197",
+   "label": "Conserje"
+ },
+ {
+   "value": "198",
+   "label": "Consignatario"
+ },
+ {
+   "value": "199",
+   "label": "Constructor"
+ },
+ {
+   "value": "200",
+   "label": "Consultor"
+ },
+ {
+   "value": "6",
+   "label": "Contador"
+ },
+ {
+   "value": "33",
+   "label": "Contador general"
+ },
+ {
+   "value": "30",
+   "label": "Contador y asesor de creditos"
+ },
+ {
+   "value": "201",
+   "label": "Contratista"
+ },
+ {
+   "value": "202",
+   "label": "Control"
+ },
+ {
+   "value": "203",
+   "label": "Controlador"
+ },
+ {
+   "value": "204",
+   "label": "Controlador de inventario"
+ },
+ {
+   "value": "9",
+   "label": "Coordinador area de compras"
+ },
+ {
+   "value": "8",
+   "label": "Coordinador de unidades productivas"
+ },
+ {
+   "value": "205",
+   "label": "Copiloto"
+ },
+ {
+   "value": "206",
+   "label": "Coronel"
+ },
+ {
+   "value": "207",
+   "label": "Corredor de seguros"
+ },
+ {
+   "value": "208",
+   "label": "Cortador"
+ },
+ {
+   "value": "209",
+   "label": "Cosedor"
+ },
+ {
+   "value": "210",
+   "label": "Cosmetologa"
+ },
+ {
+   "value": "211",
+   "label": "Costurera modista"
+ },
+ {
+   "value": "212",
+   "label": "Costurera sastre"
+ },
+ {
+   "value": "213",
+   "label": "Cotizador"
+ },
+ {
+   "value": "214",
+   "label": "Critico codificador"
+ },
+ {
+   "value": "215",
+   "label": "Cuido de ancianos"
+ },
+ {
+   "value": "216",
+   "label": "Custodio"
+ },
+ {
+   "value": "217",
+   "label": "Customer service"
+ },
+ {
+   "value": "218",
+   "label": "Dansing"
+ },
+ {
+   "value": "219",
+   "label": "Decano"
+ },
+ {
+   "value": "220",
+   "label": "Decorador de pasteleria"
+ },
+ {
+   "value": "221",
+   "label": "Defensor"
+ },
+ {
+   "value": "222",
+   "label": "Degustador"
+ },
+ {
+   "value": "223",
+   "label": "Delegado"
+ },
+ {
+   "value": "224",
+   "label": "Dependiente de farmacia"
+ },
+ {
+   "value": "225",
+   "label": "Dependiente de mostrador"
+ },
+ {
+   "value": "226",
+   "label": "Deportista"
+ },
+ {
+   "value": "227",
+   "label": "Depositante"
+ },
+ {
+   "value": "228",
+   "label": "Deputy"
+ },
+ {
+   "value": "229",
+   "label": "Desarrollador"
+ },
+ {
+   "value": "230",
+   "label": "Deshuezador"
+ },
+ {
+   "value": "231",
+   "label": "Despachador"
+ },
+ {
+   "value": "232",
+   "label": "Despachador agencia de aduana"
+ },
+ {
+   "value": "233",
+   "label": "Despachador revisador"
+ },
+ {
+   "value": "234",
+   "label": "Despacho de comida"
+ },
+ {
+   "value": "235",
+   "label": "Despostador"
+ },
+ {
+   "value": "236",
+   "label": "Destuzador"
+ },
+ {
+   "value": "237",
+   "label": "Detector de metales"
+ },
+ {
+   "value": "238",
+   "label": "Dibujante de artes graficas"
+ },
+ {
+   "value": "239",
+   "label": "Dibujante de ingnieria arquitectura"
+ },
+ {
+   "value": "240",
+   "label": "Dibujante ilustrador"
+ },
+ {
+   "value": "241",
+   "label": "Diputado"
+ },
+ {
+   "value": "242",
+   "label": "Director"
+ },
+ {
+   "value": "55",
+   "label": "director"
+ },
+ {
+   "value": "243",
+   "label": "Director centro educativo"
+ },
+ {
+   "value": "58",
+   "label": "Director comercial"
+ },
+ {
+   "value": "244",
+   "label": "Disenador"
+ },
+ {
+   "value": "245",
+   "label": "Display"
+ },
+ {
+   "value": "246",
+   "label": "Distribuidor"
+ },
+ {
+   "value": "17",
+   "label": "Docente"
+ },
+ {
+   "value": "25",
+   "label": "Doctor"
+ },
+ {
+   "value": "247",
+   "label": "Ebanista"
+ },
+ {
+   "value": "248",
+   "label": "Economista"
+ },
+ {
+   "value": "249",
+   "label": "Editor"
+ },
+ {
+   "value": "250",
+   "label": "Educador i"
+ },
+ {
+   "value": "251",
+   "label": "Ejecutiva"
+ },
+ {
+   "value": "40",
+   "label": "Ejecutiva de negocios"
+ },
+ {
+   "value": "11",
+   "label": "Ejecutivo"
+ },
+ {
+   "value": "252",
+   "label": "Ejecutivo de atencion al cliente"
+ },
+ {
+   "value": "253",
+   "label": "Ejecutivo de investigacion de desarrollo"
+ },
+ {
+   "value": "254",
+   "label": "Ejecutivo de ventas"
+ },
+ {
+   "value": "255",
+   "label": "Electricista"
+ },
+ {
+   "value": "256",
+   "label": "Electromecanico"
+ },
+ {
+   "value": "257",
+   "label": "Embalador"
+ },
+ {
+   "value": "258",
+   "label": "Embalsamador"
+ },
+ {
+   "value": "261",
+   "label": "Empacador"
+ },
+ {
+   "value": "259",
+   "label": "Empacador"
+ },
+ {
+   "value": "260",
+   "label": "Empacador, etiquetador"
+ },
+ {
+   "value": "262",
+   "label": "Empleada domestica"
+ },
+ {
+   "value": "263",
+   "label": "Empleado de despacho"
+ },
+ {
+   "value": "264",
+   "label": "Empleado sector publico"
+ },
+ {
+   "value": "265",
+   "label": "Empolinador"
+ },
+ {
+   "value": "266",
+   "label": "Empresario"
+ },
+ {
+   "value": "267",
+   "label": "Encargada de proveedores"
+ },
+ {
+   "value": "268",
+   "label": "Encargado"
+ },
+ {
+   "value": "269",
+   "label": "Encargado de fotocopiadora"
+ },
+ {
+   "value": "270",
+   "label": "Encargado de limpieza en general"
+ },
+ {
+   "value": "271",
+   "label": "Encargado de poner discos discjockey"
+ },
+ {
+   "value": "272",
+   "label": "Encargado indicar acomodo parqueo"
+ },
+ {
+   "value": "273",
+   "label": "Encargado limpiesa en piscinas"
+ },
+ {
+   "value": "274",
+   "label": "Encargado mantenimiento edificio"
+ },
+ {
+   "value": "275",
+   "label": "Encargado mantenimiento preventivo computo"
+ },
+ {
+   "value": "276",
+   "label": "Encargando mantenimiento correctivo computo"
+ },
+ {
+   "value": "277",
+   "label": "Encuadernador empastador"
+ },
+ {
+   "value": "278",
+   "label": "Encuadernador empastador"
+ },
+ {
+   "value": "279",
+   "label": "Encuestador"
+ },
+ {
+   "value": "280",
+   "label": "Enderezador"
+ },
+ {
+   "value": "281",
+   "label": "Enderezador automotriz"
+ },
+ {
+   "value": "282",
+   "label": "Enfermera"
+ },
+ {
+   "value": "13",
+   "label": "Enfermera especializada"
+ },
+ {
+   "value": "283",
+   "label": "Engrasador de autos"
+ },
+ {
+   "value": "284",
+   "label": "Enlace con la oficial de informacion"
+ },
+ {
+   "value": "285",
+   "label": "Ensablador de computadoras"
+ },
+ {
+   "value": "286",
+   "label": "Ensamblador"
+ },
+ {
+   "value": "287",
+   "label": "Entomologo"
+ },
+ {
+   "value": "288",
+   "label": "Entregador"
+ },
+ {
+   "value": "289",
+   "label": "Entrenador"
+ },
+ {
+   "value": "290",
+   "label": "Escaneador"
+ },
+ {
+   "value": "291",
+   "label": "Especialista"
+ },
+ {
+   "value": "292",
+   "label": "Estampador"
+ },
+ {
+   "value": "293",
+   "label": "Estampador en textil serigrafia"
+ },
+ {
+   "value": "294",
+   "label": "Esteticista"
+ },
+ {
+   "value": "295",
+   "label": "Estibador"
+ },
+ {
+   "value": "296",
+   "label": "Estilista"
+ },
+ {
+   "value": "297",
+   "label": "Estudiante de servicio social"
+ },
+ {
+   "value": "298",
+   "label": "Etiquetador"
+ },
+ {
+   "value": "299",
+   "label": "Examinador"
+ },
+ {
+   "value": "300",
+   "label": "Extensionista"
+ },
+ {
+   "value": "301",
+   "label": "Facilitador"
+ },
+ {
+   "value": "302",
+   "label": "Facturador"
+ },
+ {
+   "value": "303",
+   "label": "Farmaceutico"
+ },
+ {
+   "value": "19",
+   "label": "Fiscal"
+ },
+ {
+   "value": "304",
+   "label": "Fisioterapista"
+ },
+ {
+   "value": "305",
+   "label": "Fletes"
+ },
+ {
+   "value": "306",
+   "label": "Florista"
+ },
+ {
+   "value": "307",
+   "label": "Fogonero"
+ },
+ {
+   "value": "308",
+   "label": "Foliadora"
+ },
+ {
+   "value": "309",
+   "label": "Fontanero"
+ },
+ {
+   "value": "310",
+   "label": "Formador"
+ },
+ {
+   "value": "311",
+   "label": "Formador de tamal"
+ },
+ {
+   "value": "312",
+   "label": "Formador de tortillas y pupusas"
+ },
+ {
+   "value": "313",
+   "label": "Fotografo"
+ },
+ {
+   "value": "314",
+   "label": "Fotomecanico"
+ },
+ {
+   "value": "315",
+   "label": "Fotoperiodista"
+ },
+ {
+   "value": "316",
+   "label": "Friccionero"
+ },
+ {
+   "value": "317",
+   "label": "Fumigador"
+ },
+ {
+   "value": "318",
+   "label": "Funcionario publico"
+ },
+ {
+   "value": "319",
+   "label": "Fundidor"
+ },
+ {
+   "value": "320",
+   "label": "Futbolista"
+ },
+ {
+   "value": "321",
+   "label": "Gambucero"
+ },
+ {
+   "value": "322",
+   "label": "General services clerk"
+ },
+ {
+   "value": "323",
+   "label": "Generalista"
+ },
+ {
+   "value": "24",
+   "label": "Gerente de proyectos"
+ },
+ {
+   "value": "21",
+   "label": "Gerente de ventas"
+ },
+ {
+   "value": "43",
+   "label": "Gerente general"
+ },
+ {
+   "value": "324",
+   "label": "Gestor"
+ },
+ {
+   "value": "325",
+   "label": "Gobernador"
+ },
+ {
+   "value": "326",
+   "label": "Gondolero"
+ },
+ {
+   "value": "327",
+   "label": "Grafico"
+ },
+ {
+   "value": "658",
+   "label": "GRUPO DE REACCION"
+ },
+ {
+   "value": "328",
+   "label": "Guardalmacen"
+ },
+ {
+   "value": "329",
+   "label": "Guardarrecursos"
+ },
+ {
+   "value": "330",
+   "label": "Guardavida"
+ },
+ {
+   "value": "331",
+   "label": "Guardia de seguridad"
+ },
+ {
+   "value": "332",
+   "label": "Guia de parque"
+ },
+ {
+   "value": "333",
+   "label": "Guia turistico"
+ },
+ {
+   "value": "334",
+   "label": "Guillotinista"
+ },
+ {
+   "value": "335",
+   "label": "Higienista"
+ },
+ {
+   "value": "336",
+   "label": "Historiador"
+ },
+ {
+   "value": "337",
+   "label": "Hojalatero"
+ },
+ {
+   "value": "338",
+   "label": "Horneador"
+ },
+ {
+   "value": "339",
+   "label": "Hornero"
+ },
+ {
+   "value": "340",
+   "label": "Hostess"
+ },
+ {
+   "value": "341",
+   "label": "Housekeeping"
+ },
+ {
+   "value": "342",
+   "label": "Hro reportero"
+ },
+ {
+   "value": "343",
+   "label": "Impresor"
+ },
+ {
+   "value": "344",
+   "label": "Impulsadora display"
+ },
+ {
+   "value": "345",
+   "label": "Independent reviewer"
+ },
+ {
+   "value": "346",
+   "label": "Infante de marina"
+ },
+ {
+   "value": "351",
+   "label": "Infante de marina ii"
+ },
+ {
+   "value": "352",
+   "label": "Infante de marina primera clase"
+ },
+ {
+   "value": "348",
+   "label": "Infante de marina 1ra clase"
+ },
+ {
+   "value": "347",
+   "label": "Infante de marina 2da clase"
+ },
+ {
+   "value": "350",
+   "label": "Infante de marina 2da clase"
+ },
+ {
+   "value": "349",
+   "label": "Infante de marina 2da clase"
+ },
+ {
+   "value": "353",
+   "label": "Infografista"
+ },
+ {
+   "value": "5",
+   "label": "Ingeniero agronomo"
+ },
+ {
+   "value": "354",
+   "label": "Instalador"
+ },
+ {
+   "value": "54",
+   "label": "Instructor"
+ },
+ {
+   "value": "355",
+   "label": "Instructor de bailes"
+ },
+ {
+   "value": "356",
+   "label": "Instructor entrenador"
+ },
+ {
+   "value": "357",
+   "label": "Insulador"
+ },
+ {
+   "value": "358",
+   "label": "Integrante"
+ },
+ {
+   "value": "359",
+   "label": "Intendente"
+ },
+ {
+   "value": "360",
+   "label": "Inventariador kardista"
+ },
+ {
+   "value": "361",
+   "label": "Investigador"
+ },
+ {
+   "value": "362",
+   "label": "Jardinero"
+ },
+ {
+   "value": "364",
+   "label": "Jefe"
+ },
+ {
+   "value": "26",
+   "label": "Jefe de archivo y microfilm"
+ },
+ {
+   "value": "363",
+   "label": "Jefe de cocina chef"
+ },
+ {
+   "value": "4",
+   "label": "Jefe de compras"
+ },
+ {
+   "value": "18",
+   "label": "Jefe de control de calidad"
+ },
+ {
+   "value": "47",
+   "label": "Jefe de mantenimiento"
+ },
+ {
+   "value": "10",
+   "label": "Jefe de recursos humanos"
+ },
+ {
+   "value": "365",
+   "label": "Jornalero"
+ },
+ {
+   "value": "366",
+   "label": "Joyero"
+ },
+ {
+   "value": "367",
+   "label": "Juez"
+ },
+ {
+   "value": "368",
+   "label": "Junior"
+ },
+ {
+   "value": "369",
+   "label": "Juridico"
+ },
+ {
+   "value": "370",
+   "label": "Kifos"
+ },
+ {
+   "value": "371",
+   "label": "Laboratorio clinico"
+ },
+ {
+   "value": "372",
+   "label": "Laboratorista"
+ },
+ {
+   "value": "373",
+   "label": "Laboratorista clinico"
+ },
+ {
+   "value": "374",
+   "label": "Laminador"
+ },
+ {
+   "value": "375",
+   "label": "Lavador"
+ },
+ {
+   "value": "376",
+   "label": "Lavador de banos pisos etc"
+ },
+ {
+   "value": "377",
+   "label": "Lavador de cabellos"
+ },
+ {
+   "value": "378",
+   "label": "Lavador de carros"
+ },
+ {
+   "value": "379",
+   "label": "Lavandera"
+ },
+ {
+   "value": "380",
+   "label": "Lector"
+ },
+ {
+   "value": "381",
+   "label": "Levantador de textos (artes graficas)"
+ },
+ {
+   "value": "382",
+   "label": "Lider de logistica"
+ },
+ {
+   "value": "383",
+   "label": "Lider de proceso"
+ },
+ {
+   "value": "384",
+   "label": "Lider de programa de desarrollo"
+ },
+ {
+   "value": "385",
+   "label": "Limpieza salas"
+ },
+ {
+   "value": "386",
+   "label": "Liniero"
+ },
+ {
+   "value": "387",
+   "label": "Liquidador"
+ },
+ {
+   "value": "388",
+   "label": "Litografo"
+ },
+ {
+   "value": "389",
+   "label": "Llanteros"
+ },
+ {
+   "value": "390",
+   "label": "Llenador"
+ },
+ {
+   "value": "393",
+   "label": "Locutor"
+ },
+ {
+   "value": "391",
+   "label": "Locutor de radioemisora"
+ },
+ {
+   "value": "392",
+   "label": "Locutor de television"
+ },
+ {
+   "value": "394",
+   "label": "Logistica"
+ },
+ {
+   "value": "45",
+   "label": "Maestra"
+ },
+ {
+   "value": "395",
+   "label": "Maestre primero"
+ },
+ {
+   "value": "396",
+   "label": "Maestro de obra"
+ },
+ {
+   "value": "397",
+   "label": "Maestro de obras"
+ },
+ {
+   "value": "398",
+   "label": "Mantenimiento"
+ },
+ {
+   "value": "399",
+   "label": "Mantenimiento de centros de computo"
+ },
+ {
+   "value": "400",
+   "label": "Mantenimiento frigorificos"
+ },
+ {
+   "value": "401",
+   "label": "Maquillista"
+ },
+ {
+   "value": "402",
+   "label": "Maquinista de planta"
+ },
+ {
+   "value": "403",
+   "label": "Maquinista de remolcador"
+ },
+ {
+   "value": "404",
+   "label": "Marinero"
+ },
+ {
+   "value": "405",
+   "label": "Masajista"
+ },
+ {
+   "value": "71",
+   "label": "MECANICO"
+ },
+ {
+   "value": "406",
+   "label": "Mecanico dental"
+ },
+ {
+   "value": "407",
+   "label": "Mediador conciliador"
+ },
+ {
+   "value": "408",
+   "label": "Mensajero"
+ },
+ {
+   "value": "409",
+   "label": "Mercaderista"
+ },
+ {
+   "value": "410",
+   "label": "Merchandising"
+ },
+ {
+   "value": "411",
+   "label": "Mesero"
+ },
+ {
+   "value": "412",
+   "label": "Metodologo deportivo"
+ },
+ {
+   "value": "413",
+   "label": "Microbiologia"
+ },
+ {
+   "value": "414",
+   "label": "Microbusero"
+ },
+ {
+   "value": "415",
+   "label": "Microfilmador"
+ },
+ {
+   "value": "416",
+   "label": "Miembro junta de la carrera docente"
+ },
+ {
+   "value": "417",
+   "label": "Militar general"
+ },
+ {
+   "value": "418",
+   "label": "Militares"
+ },
+ {
+   "value": "419",
+   "label": "Ministro"
+ },
+ {
+   "value": "420",
+   "label": "Miscelaneos de produccion"
+ },
+ {
+   "value": "421",
+   "label": "Misionera"
+ },
+ {
+   "value": "422",
+   "label": "Monitor de camaras de seguridad"
+ },
+ {
+   "value": "423",
+   "label": "Monitor de proyectos"
+ },
+ {
+   "value": "424",
+   "label": "Monitoreador"
+ },
+ {
+   "value": "425",
+   "label": "Montacargista"
+ },
+ {
+   "value": "426",
+   "label": "Motociclista"
+ },
+ {
+   "value": "427",
+   "label": "Motorista"
+ },
+ {
+   "value": "428",
+   "label": "Motorista de bus"
+ },
+ {
+   "value": "429",
+   "label": "Motorista de microbus"
+ },
+ {
+   "value": "430",
+   "label": "Motorista publico"
+ },
+ {
+   "value": "431",
+   "label": "Mozo"
+ },
+ {
+   "value": "432",
+   "label": "Muellero"
+ },
+ {
+   "value": "433",
+   "label": "Muestrista"
+ },
+ {
+   "value": "434",
+   "label": "Musico"
+ },
+ {
+   "value": "435",
+   "label": "Negociador"
+ },
+ {
+   "value": "436",
+   "label": "Ninera"
+ },
+ {
+   "value": "437",
+   "label": "Niplero"
+ },
+ {
+   "value": "72",
+   "label": "nombredelcargo"
+ },
+ {
+   "value": "438",
+   "label": "Notificador"
+ },
+ {
+   "value": "439",
+   "label": "Nutricionista"
+ },
+ {
+   "value": "440",
+   "label": "Observador climatologico"
+ },
+ {
+   "value": "441",
+   "label": "Odontologo"
+ },
+ {
+   "value": "442",
+   "label": "Ofical de desarrollo"
+ },
+ {
+   "value": "443",
+   "label": "Oficial"
+ },
+ {
+   "value": "444",
+   "label": "Oficial aduanero"
+ },
+ {
+   "value": "445",
+   "label": "Oficial bloque de mantenimiento"
+ },
+ {
+   "value": "446",
+   "label": "Oficial de comunicacion"
+ },
+ {
+   "value": "447",
+   "label": "Oficial de credito"
+ },
+ {
+   "value": "448",
+   "label": "Oficial de cumplimiento"
+ },
+ {
+   "value": "449",
+   "label": "Oficial de informacion aeronautica"
+ },
+ {
+   "value": "450",
+   "label": "Oficial de variedades"
+ },
+ {
+   "value": "451",
+   "label": "Oficial mayor"
+ },
+ {
+   "value": "452",
+   "label": "Oficinista"
+ },
+ {
+   "value": "453",
+   "label": "Oficios varios"
+ },
+ {
+   "value": "454",
+   "label": "Operaciones"
+ },
+ {
+   "value": "466",
+   "label": "Operador"
+ },
+ {
+   "value": "455",
+   "label": "Operador de computacion"
+ },
+ {
+   "value": "456",
+   "label": "Operador de grua estacionaria"
+ },
+ {
+   "value": "457",
+   "label": "Operador de maquina en general"
+ },
+ {
+   "value": "458",
+   "label": "Operador de maquinaria"
+ },
+ {
+   "value": "459",
+   "label": "Operador de monitoreo"
+ },
+ {
+   "value": "460",
+   "label": "Operador de muestreador core sampler"
+ },
+ {
+   "value": "461",
+   "label": "Operador de planta"
+ },
+ {
+   "value": "462",
+   "label": "Operador de planta transmisora"
+ },
+ {
+   "value": "463",
+   "label": "Operador de radio taxi"
+ },
+ {
+   "value": "42",
+   "label": "Operador de sistemas"
+ },
+ {
+   "value": "464",
+   "label": "Operador escogedoras de cafe"
+ },
+ {
+   "value": "465",
+   "label": "Operador grafico"
+ },
+ {
+   "value": "49",
+   "label": "Operaria"
+ },
+ {
+   "value": "467",
+   "label": "Operario"
+ },
+ {
+   "value": "468",
+   "label": "Operativo area de frutas y ortalizas"
+ },
+ {
+   "value": "469",
+   "label": "Operativo de conservas"
+ },
+ {
+   "value": "470",
+   "label": "Operativo de empaque frio"
+ },
+ {
+   "value": "471",
+   "label": "Operativo rea de harinas y especies"
+ },
+ {
+   "value": "472",
+   "label": "Optometrista"
+ },
+ {
+   "value": "474",
+   "label": "Ordenador"
+ },
+ {
+   "value": "473",
+   "label": "Ordenanza"
+ },
+ {
+   "value": "475",
+   "label": "Orientador"
+ },
+ {
+   "value": "476",
+   "label": "Pagador"
+ },
+ {
+   "value": "477",
+   "label": "Panadero"
+ },
+ {
+   "value": "478",
+   "label": "Panificador"
+ },
+ {
+   "value": "479",
+   "label": "Paquetero"
+ },
+ {
+   "value": "480",
+   "label": "Paramedico"
+ },
+ {
+   "value": "481",
+   "label": "Parrillero"
+ },
+ {
+   "value": "482",
+   "label": "Pasador"
+ },
+ {
+   "value": "483",
+   "label": "Pastelero"
+ },
+ {
+   "value": "484",
+   "label": "Pastor"
+ },
+ {
+   "value": "35",
+   "label": "Pastor general"
+ },
+ {
+   "value": "485",
+   "label": "Payroll clerk"
+ },
+ {
+   "value": "3",
+   "label": "Peluquero"
+ },
+ {
+   "value": "2",
+   "label": "Pensionado"
+ },
+ {
+   "value": "486",
+   "label": "Peon"
+ },
+ {
+   "value": "487",
+   "label": "Perifoneo"
+ },
+ {
+   "value": "488",
+   "label": "Periodista"
+ },
+ {
+   "value": "489",
+   "label": "Perito"
+ },
+ {
+   "value": "490",
+   "label": "Personal"
+ },
+ {
+   "value": "491",
+   "label": "Personal de carga"
+ },
+ {
+   "value": "492",
+   "label": "Personal de servicio"
+ },
+ {
+   "value": "493",
+   "label": "Pesador"
+ },
+ {
+   "value": "494",
+   "label": "Piloto"
+ },
+ {
+   "value": "495",
+   "label": "Pintor"
+ },
+ {
+   "value": "496",
+   "label": "Piscinero"
+ },
+ {
+   "value": "497",
+   "label": "Planchador"
+ },
+ {
+   "value": "29",
+   "label": "Planer customer service"
+ },
+ {
+   "value": "498",
+   "label": "Planificador"
+ },
+ {
+   "value": "22",
+   "label": "Planificadora de medios"
+ },
+ {
+   "value": "499",
+   "label": "Podador"
+ },
+ {
+   "value": "500",
+   "label": "Policiales"
+ },
+ {
+   "value": "501",
+   "label": "Poligrafista"
+ },
+ {
+   "value": "502",
+   "label": "Portero"
+ },
+ {
+   "value": "503",
+   "label": "Portero conserje"
+ },
+ {
+   "value": "504",
+   "label": "Prensista"
+ },
+ {
+   "value": "505",
+   "label": "Preparador"
+ },
+ {
+   "value": "506",
+   "label": "Presentador"
+ },
+ {
+   "value": "507",
+   "label": "Presidente"
+ },
+ {
+   "value": "508",
+   "label": "Prevencion y riesgo"
+ },
+ {
+   "value": "509",
+   "label": "Prevencion y riesgos"
+ },
+ {
+   "value": "510",
+   "label": "Prevendedor"
+ },
+ {
+   "value": "511",
+   "label": "Probador de medidores"
+ },
+ {
+   "value": "512",
+   "label": "Procurador auxiliar"
+ },
+ {
+   "value": "513",
+   "label": "Procurador de familia"
+ },
+ {
+   "value": "514",
+   "label": "Procurador general"
+ },
+ {
+   "value": "515",
+   "label": "Produccion e instalador"
+ },
+ {
+   "value": "516",
+   "label": "Productor"
+ },
+ {
+   "value": "517",
+   "label": "Prof. de equipo multidisciplinario"
+ },
+ {
+   "value": "518",
+   "label": "Profesional de cocina"
+ },
+ {
+   "value": "519",
+   "label": "Profesional de domicilio"
+ },
+ {
+   "value": "520",
+   "label": "Profesional de servicio"
+ },
+ {
+   "value": "521",
+   "label": "Profesional en materno infantil"
+ },
+ {
+   "value": "522",
+   "label": "Profesional especializado"
+ },
+ {
+   "value": "523",
+   "label": "Profesional tecnico adm"
+ },
+ {
+   "value": "34",
+   "label": "Profesor"
+ },
+ {
+   "value": "524",
+   "label": "Programador"
+ },
+ {
+   "value": "525",
+   "label": "Project manager"
+ },
+ {
+   "value": "526",
+   "label": "Promotor"
+ },
+ {
+   "value": "15",
+   "label": "Promotora en salud"
+ },
+ {
+   "value": "527",
+   "label": "Promovendedor"
+ },
+ {
+   "value": "528",
+   "label": "Pronosticador"
+ },
+ {
+   "value": "529",
+   "label": "Propagandista"
+ },
+ {
+   "value": "7",
+   "label": "Propietario"
+ },
+ {
+   "value": "530",
+   "label": "Proveedor"
+ },
+ {
+   "value": "531",
+   "label": "Proyectista"
+ },
+ {
+   "value": "532",
+   "label": "Psicologo"
+ },
+ {
+   "value": "533",
+   "label": "Psiquiatra"
+ },
+ {
+   "value": "534",
+   "label": "Publicista"
+ },
+ {
+   "value": "535",
+   "label": "Pulidor"
+ },
+ {
+   "value": "536",
+   "label": "Puntoxpress"
+ },
+ {
+   "value": "537",
+   "label": "Quimico"
+ },
+ {
+   "value": "538",
+   "label": "Quimico espumador"
+ },
+ {
+   "value": "539",
+   "label": "Radiologo"
+ },
+ {
+   "value": "540",
+   "label": "Raspador"
+ },
+ {
+   "value": "541",
+   "label": "Rastrillero"
+ },
+ {
+   "value": "542",
+   "label": "Realizador de proyectos"
+ },
+ {
+   "value": "543",
+   "label": "Rebabiador de linea"
+ },
+ {
+   "value": "544",
+   "label": "Recamarera"
+ },
+ {
+   "value": "545",
+   "label": "Recepcionista"
+ },
+ {
+   "value": "546",
+   "label": "Receptor"
+ },
+ {
+   "value": "547",
+   "label": "Reciclador"
+ },
+ {
+   "value": "548",
+   "label": "Reclutadora"
+ },
+ {
+   "value": "549",
+   "label": "Recolector de basura"
+ },
+ {
+   "value": "550",
+   "label": "Recolector de basura"
+ },
+ {
+   "value": "551",
+   "label": "Recolector de cafe"
+ },
+ {
+   "value": "552",
+   "label": "Rector"
+ },
+ {
+   "value": "553",
+   "label": "Redactor"
+ },
+ {
+   "value": "554",
+   "label": "Regador"
+ },
+ {
+   "value": "555",
+   "label": "Regente"
+ },
+ {
+   "value": "556",
+   "label": "Regidor"
+ },
+ {
+   "value": "557",
+   "label": "Registrador"
+ },
+ {
+   "value": "558",
+   "label": "Religioso"
+ },
+ {
+   "value": "559",
+   "label": "Relojero"
+ },
+ {
+   "value": "560",
+   "label": "Repartidor"
+ },
+ {
+   "value": "561",
+   "label": "Representante"
+ },
+ {
+   "value": "41",
+   "label": "Representante de servicio al cliente"
+ },
+ {
+   "value": "562",
+   "label": "Resolutor"
+ },
+ {
+   "value": "563",
+   "label": "Resortero"
+ },
+ {
+   "value": "564",
+   "label": "Responsable de medio ambiente"
+ },
+ {
+   "value": "565",
+   "label": "Revelador"
+ },
+ {
+   "value": "566",
+   "label": "Revisador"
+ },
+ {
+   "value": "568",
+   "label": "Rht formador"
+ },
+ {
+   "value": "567",
+   "label": "Rht reportero"
+ },
+ {
+   "value": "569",
+   "label": "Rociador de malaria"
+ },
+ {
+   "value": "570",
+   "label": "Rotulista"
+ },
+ {
+   "value": "571",
+   "label": "Sargento"
+ },
+ {
+   "value": "573",
+   "label": "Sastre"
+ },
+ {
+   "value": "572",
+   "label": "Sastre"
+ },
+ {
+   "value": "27",
+   "label": "Secretaria"
+ },
+ {
+   "value": "574",
+   "label": "Seguridad"
+ },
+ {
+   "value": "575",
+   "label": "Senior"
+ },
+ {
+   "value": "576",
+   "label": "Servicio"
+ },
+ {
+   "value": "577",
+   "label": "Sindico"
+ },
+ {
+   "value": "578",
+   "label": "Sistemas informatica"
+ },
+ {
+   "value": "579",
+   "label": "Sociologo"
+ },
+ {
+   "value": "580",
+   "label": "Soldado"
+ },
+ {
+   "value": "581",
+   "label": "Soldador"
+ },
+ {
+   "value": "582",
+   "label": "Soldador en general"
+ },
+ {
+   "value": "583",
+   "label": "Soporte"
+ },
+ {
+   "value": "584",
+   "label": "Steward"
+ },
+ {
+   "value": "585",
+   "label": "Stocker"
+ },
+ {
+   "value": "586",
+   "label": "Sub administrador"
+ },
+ {
+   "value": "587",
+   "label": "Sub director"
+ },
+ {
+   "value": "588",
+   "label": "Sub gerente"
+ },
+ {
+   "value": "589",
+   "label": "Sub jefe"
+ },
+ {
+   "value": "590",
+   "label": "Sub sargento"
+ },
+ {
+   "value": "591",
+   "label": "Subcontador"
+ },
+ {
+   "value": "592",
+   "label": "Subinspector 1"
+ },
+ {
+   "value": "593",
+   "label": "Subteniente"
+ },
+ {
+   "value": "594",
+   "label": "Superintendente"
+ },
+ {
+   "value": "595",
+   "label": "Supernumerario"
+ },
+ {
+   "value": "51",
+   "label": "Supervisor"
+ },
+ {
+   "value": "37",
+   "label": "Supervisor de lineas de cosmetico"
+ },
+ {
+   "value": "596",
+   "label": "Surtidor de cocina"
+ },
+ {
+   "value": "597",
+   "label": "Surtidora"
+ },
+ {
+   "value": "598",
+   "label": "Sustituto de ventas"
+ },
+ {
+   "value": "599",
+   "label": "Tabla roquero"
+ },
+ {
+   "value": "600",
+   "label": "Tachero"
+ },
+ {
+   "value": "601",
+   "label": "Talador"
+ },
+ {
+   "value": "602",
+   "label": "Talento operativo"
+ },
+ {
+   "value": "603",
+   "label": "Tapicero"
+ },
+ {
+   "value": "604",
+   "label": "Taquigrafia"
+ },
+ {
+   "value": "605",
+   "label": "Taquillero"
+ },
+ {
+   "value": "606",
+   "label": "Taxista"
+ },
+ {
+   "value": "14",
+   "label": "Tecnico"
+ },
+ {
+   "value": "52",
+   "label": "Técnico de Instalaciones"
+ },
+ {
+   "value": "607",
+   "label": "Tecnico de planta"
+ },
+ {
+   "value": "608",
+   "label": "Tecnico en aparatos ortopedicos"
+ },
+ {
+   "value": "609",
+   "label": "Tecnico en educacion superior"
+ },
+ {
+   "value": "610",
+   "label": "Tecnico en panificacion"
+ },
+ {
+   "value": "611",
+   "label": "Tecnico en refrigeracion"
+ },
+ {
+   "value": "612",
+   "label": "Tecnico en salud"
+ },
+ {
+   "value": "613",
+   "label": "Tecnico maquinas coser industrial"
+ },
+ {
+   "value": "614",
+   "label": "Tecnologo"
+ },
+ {
+   "value": "615",
+   "label": "Tejedor"
+ },
+ {
+   "value": "39",
+   "label": "Telefonista"
+ },
+ {
+   "value": "616",
+   "label": "Teleoperador"
+ },
+ {
+   "value": "617",
+   "label": "Teller"
+ },
+ {
+   "value": "12",
+   "label": "Teniente de navio"
+ },
+ {
+   "value": "618",
+   "label": "Terapeuta"
+ },
+ {
+   "value": "619",
+   "label": "Terminalista"
+ },
+ {
+   "value": "620",
+   "label": "Terracero"
+ },
+ {
+   "value": "621",
+   "label": "Tesorera"
+ },
+ {
+   "value": "622",
+   "label": "Timonel de remolcador"
+ },
+ {
+   "value": "623",
+   "label": "Tintorero"
+ },
+ {
+   "value": "624",
+   "label": "Tipografo"
+ },
+ {
+   "value": "625",
+   "label": "Topografo"
+ },
+ {
+   "value": "626",
+   "label": "Tornero"
+ },
+ {
+   "value": "627",
+   "label": "Tornero en madera"
+ },
+ {
+   "value": "628",
+   "label": "Tornero en metal"
+ },
+ {
+   "value": "629",
+   "label": "Trabajador social"
+ },
+ {
+   "value": "630",
+   "label": "Tractorista"
+ },
+ {
+   "value": "631",
+   "label": "Tramitador"
+ },
+ {
+   "value": "632",
+   "label": "Transportista"
+ },
+ {
+   "value": "633",
+   "label": "Tripulante"
+ },
+ {
+   "value": "634",
+   "label": "Tripulante municipal"
+ },
+ {
+   "value": "635",
+   "label": "Troquelador"
+ },
+ {
+   "value": "636",
+   "label": "Turbinero"
+ },
+ {
+   "value": "637",
+   "label": "Utilero"
+ },
+ {
+   "value": "638",
+   "label": "Valet parking"
+ },
+ {
+   "value": "639",
+   "label": "Validador"
+ },
+ {
+   "value": "640",
+   "label": "Valuador"
+ },
+ {
+   "value": "641",
+   "label": "Valvulero"
+ },
+ {
+   "value": "642",
+   "label": "Vendedor autoservicios"
+ },
+ {
+   "value": "643",
+   "label": "Vendedor rutero"
+ },
+ {
+   "value": "644",
+   "label": "Verdulero"
+ },
+ {
+   "value": "645",
+   "label": "Vice decano"
+ },
+ {
+   "value": "646",
+   "label": "Vice ministro"
+ },
+ {
+   "value": "647",
+   "label": "Vice presidente"
+ },
+ {
+   "value": "648",
+   "label": "Vice rectora"
+ },
+ {
+   "value": "649",
+   "label": "Videotecario"
+ },
+ {
+   "value": "70",
+   "label": "Vigilante"
+ },
+ {
+   "value": "650",
+   "label": "Vigilante"
+ },
+ {
+   "value": "651",
+   "label": "Visualizador"
+ },
+ {
+   "value": "652",
+   "label": "Volantero"
+ },
+ {
+   "value": "653",
+   "label": "Vs 2 de tiendas"
+ },
+ {
+   "value": "654",
+   "label": "Web master"
+ },
+ {
+   "value": "655",
+   "label": "Winchero"
+ },
+ {
+   "value": "656",
+   "label": "Zapatero"
+ }
+]
