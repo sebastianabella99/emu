@@ -21,7 +21,11 @@ module.exports = {
     },
     VIN004: {
         status: 1,
-        payload: {}
+        payload: {
+            hn: {
+                ingresoMensual: '1000501.50'
+            }
+        }
     },
     VIN006: {
         status: 1,

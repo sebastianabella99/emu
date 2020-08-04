@@ -1,0 +1,26 @@
+/* 
+    Comentarios del autor
+*/
+
+// =============================================================================
+// Import SMACSS Base Category
+// =============================================================================
+
+@import '../../base/_base';
+
+// =============================================================================
+// Import SMACSS Layout Category
+// =============================================================================
+
+@import '../../layout/_layout';
+
+// =============================================================================
+// Import SMACSS Modules for sim001
+// =============================================================================
+
+@import '../../modules/back-button/_back-button';
+@import '../../modules/main-title/_main-title';
+@import '../../modules/forms/group/_form-group';
+@import '../../modules/forms/button/_button';
+@import '../../modules/forms/range-slider/_range';
+@import '../../modules/forms/checkbox/_custom-checkbox';

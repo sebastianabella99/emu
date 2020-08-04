@@ -21,7 +21,25 @@ module.exports = {
     },
     VIN002: {
         status: 1,
-        payload: {}
+        payload: {
+            fechaNacimiento: "18/04/1995",
+            nombre: "Sergio Rafael Manjarrez Chacón",
+            estadoCivil: '',
+            expedicion: {
+                ciudad:'',
+                departamento: '',
+                municipio: '',
+                fechaExpedicion: "18/05/2013",
+                fechaVencimiento: "18/05/2023"
+            },
+            hn: {
+                departamento: '01',
+                municipio: '001',
+                colonia: '184',
+                direccion: 'cedro 566',
+                referencia: 'a un lado del parque'
+            }
+        }
     },
     VIN005: {
         status: 1,

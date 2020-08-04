@@ -17,7 +17,7 @@ module.exports = {
             "idModulo":"MNUING",
             "lenguaje":"ES",
             "pais":"SV",
-            zona: true
+            "zona": true
         }
     },
     PCL001: {

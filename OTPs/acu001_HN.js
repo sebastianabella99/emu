@@ -24,7 +24,17 @@ module.exports = {
         payload: {
             esCliente: false,
             esFatca: false,
-            codigoVendedor: [{ label: '2', value: '2'}]
+            codigoVendedor: [{ label: '2', value: '2'}],
+            hn: {
+                referenciaFamiliar: {
+                    nombre: 'Sergio Rafael',
+                    telefono: '5912627'
+                },
+                referenciaPersonal: {
+                    nombre: 'Sergio Rafael1',
+                    telefono: '5912111'
+                }
+            }
         }
     },
     VIN006: {

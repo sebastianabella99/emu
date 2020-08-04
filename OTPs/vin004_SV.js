@@ -21,10 +21,20 @@ module.exports = {
     },
     VIN004: {
         status: 1,
-        payload: {}
+        payload: {
+            sv: {
+                ingresosFijos: '1000401',
+                ingresosVariables: '0'
+            }
+        }
     },
     VIN006: {
         status: 1,
-        payload: {}
+        payload: {
+            sv: {
+                ingresosFijos: '1000401.05',
+                IngresosVariables: '1000401.06'
+            }
+        }
     }
 };

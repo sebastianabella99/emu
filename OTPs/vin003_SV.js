@@ -21,7 +21,18 @@ module.exports = {
     },
     VIN003: {
         status: 1,
-        payload: {}
+        payload: {
+            sv: {
+                actividadLaboral: '0001',
+                empresa: '10',
+                cargo: '91',
+                fechaIngreso: {
+                    anio: '2019',
+                    mes: '02',
+                    dia: '27'
+                }
+            }
+        }
     },
     VIN005: {
         status: 1,

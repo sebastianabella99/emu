@@ -13,19 +13,21 @@ module.exports = {
         status: 1,
         payload: {
             aliado: 'ML',
-            canal: '1',
+            canal: '2',
             idModulo: 'cam',
             lenguaje: 'ES',
-            pais: 'SV'
+            pais: 'SV',
+            zona: false
         }
     },
     CRE016: {
         status: 1,
         payload: {
-            nombre: "Sergio Rafael",
+            nombre: "CRISTINA DEL CARMEN MAGANA CEA",
             documento: {
-                numero: '123456445-4',
-                tipo: 'D'
+                numero: '036759289',
+                tipo: 'D',
+                nit: '06031501871014'
             }
          }
     }

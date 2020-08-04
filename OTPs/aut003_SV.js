@@ -5,8 +5,8 @@ module.exports = {
     token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1MTU0NzAwNzYsImV4cCI6MTU0NjkxOTY3NiwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsIkdpdmVuTmFtZSI6IkpvaG5ueSIsIlN1cm5hbWUiOiJSb2NrZXQiLCJFbWFpbCI6Impyb2NrZXRAZXhhbXBsZS5jb20iLCJSb2xlIjpbIk1hbmFnZXIiLCJQcm9qZWN0IEFkbWluaXN0cmF0b3IiXX0._A7pY7lDS3-43R68XFLPUSspUVmyi9fleksPzLifcqI',
     workflow: {
         APPBOOT: 'ING001',
-        ING001: 'CRE011',
-        CRE011: 'ING001'
+        ING001: 'CRE017',
+        CRE017: 'CRE011'
     },
     ING001: {
         status: 1,
@@ -19,262 +19,323 @@ module.exports = {
             "zona": true
         }
     },
+    CRE017: {
+        "clientId": "af85aa00-745b-11ea-8cb2-ef056eaa4eba",
+        "message": "MSG_CRE_001",
+        "payload": {
+            "cuentas": [{
+                "valAliasProducto": "1 CUENTAS DE AHORRO MOVIL",
+                "valCodigoProducto": "CAMO",
+                "valCodigoSubProducto": "CAHC",
+                "valNumeroProducto": "777977006586"
+            }, {
+                "valAliasProducto": "2 CUENTAS DE AHORRO MOVIL",
+                "valCodigoProducto": "CAMO",
+                "valCodigoSubProducto": "CAHC",
+                "valNumeroProducto": "777977006586"
+            }, {
+                "valAliasProducto": "3 CUENTAS DE AHORRO MOVIL",
+                "valCodigoProducto": "CAMO",
+                "valCodigoSubProducto": "CAHC",
+                "valNumeroProducto": "777977006586"
+            }, {
+                "valAliasProducto": " 4 CUENTAS DE AHORRO MOVIL",
+                "valCodigoProducto": "CAMO",
+                "valCodigoSubProducto": "CAHC",
+                "valNumeroProducto": "777977006586"
+            }]
+        },
+        "status": 1,
+        "stepId": "CRE011"
+    },
     CRE011: {
-        status: 1,
-        payload: {
-            cuentas: [{
-                valCodigoProducto: 'HCL',
-                valCodigoSubProducto: 'HCL002',
-                valNumeroProducto: '0000012345'
-            }],
-            SV: {
-                CONTRATO_DE_CREDITO_MOVIL: {
-                    cantidadCuotasMensuales: 'ss',
-                    codCiudad: 'ss',
-                    comisionSinIVA: '312',
-                    comisionUSD: '99999999999999999',
-                    cuotaTotalMensual: 'ss',
-                    desembolso: 'ss',
-                    destinoCredito: '',
-                    direccion: 'YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY',
-                    dui:'AAAAAAAAAAAAAAAAAAAAAA',
-                    edadActualAnios: '29',
-                    edadActualMeses: '2',
-                    fechaActual: {
-                      anioFechaActual: 'XXXX',
-                      aniocortoFechaActual: 'XX',
-                      diaFechaActual: 'C',
-                      fechaActual: 'CC',
-                      mesFechaActual: 'xXX',
-                    },
-                    finalidadPrestamo: 'ww',
-                    impuestoTransferenciaMueblesBienes: 'dfdf',
-                    interesSaldoMora: 'ww',
-                    ivaUSD: '888888888888888',
-                    nombres: {
-                      primerApellido: 'sd'  ,
-                      primerNombre: ' sdsd'  ,
-                      segundoApellido: 'sdsd'  ,
-                      segundoNombre: 'wee'
-                    },
-                    numeroCuenta: 'wwe',
-                    pagarDiaMes: 'wee',
-                    pagoInteresesAbonoCapital: 'wewe',
-                    pagoSeguroVida: 'wewe',
-                    plazoSolicitado: 'wewe',
-                    porcentajeTasaReferenciaMes: 'weew',
-                    profesion:'XXXXXXXXXXXXXXXXXXXXXX',	  
-                    tasaInteresEfectivaAnual: 'wewe',
-                    tasaInteresEfectivaAnualTexto: 'wewewe',
-                    tasaInteresNominalAnual: 'www',
-                    tasaInteresNominalAnualTexto: '222',
-                    tasaReferenciaMes: 'ww',
-                    valorSolicitado: 'eee'
-                },
-                "CONTRATO_BANCA_ELECTRONICA": {
-                    "codCiudad": "14",
-                    "codDepartamento": "6",
+        "clientId": "af85aa00-745b-11ea-8cb2-ef056eaa4eba",
+        "message": "MSG_CRE_001",
+        "payload": {
+            "cuenta": {
+                "valCodigoProducto": 'AAAAAAAA',
+                "valCodigoSubProducto": 'BBBBBBB',
+                "valAliasProducto": 'CCCCC',
+                "valNumeroProducto": 'DDDDDDD'
+            },
+            "SV": {
+                "CARTA_COMUNICACIONES_CRONOGRAMA_PAGOS": {
+                    "cantidadCuotasMensuales": "12",
+                    "cantidadTotalPagar": " 1,000.00",
+                    "codCiudad": "1",
+                    "codDepartamento": "1",
+                    "comisionSinIVA": "",
                     "codMunicipio": "",
-                    "direccion": "COL.SAN MATEO AV.LA PAZ BLK.C NO.18SAN SALVADOR S.S.LVADOR S.S.",
-                    "dui": "003002768",
-                    "edad": 66,
+                    "codPais": "SV",
+                    "comisionDesembolso": "56.50",
+                    "comisionMasIVA": "6.50",
+                    "cuotaCapitalIntereses": " 90.00",
+                    "cuotaDetalleSeguros": ".60",
+                    "cuotaTotal": " 91.00",
+                    "desembolso": "1000",
+                    "destinoMontoAprobado": "GASTOS PERSONALES",
                     "fechaActual": {
                         "anioFechaActual": "2020",
-                        "aniocortoFechaActual": "20",
-                        "diaFechaActual": "24",
-                        "fechaActual": "2020-02-24T15:36:45-06:00",
-                        "mesFechaActual": "2"
+                        "aniocortoFechaActual": "VEINTE",
+                        "diaFechaActual": "VEINTICUATRO",
+                        "fechaActual": "24-06-2020",
+                        "mesFechaActual": "junio"
                     },
+                    "montoACobrarHasta": "2.50",
+                    "montoOtorgadoMinimo": "225.00",
                     "nombres": {
-                        "primerApellido": "HUEZO",
-                        "primerNombre": "LILIAN",
-                        "segundoApellido": "CACERES",
-                        "segundoNombre": "ESTER"
+                        "primerApellido": "MAGANA",
+                        "primerNombre": "CRISTINA",
+                        "segundoApellido": "CEA",
+                        "segundoNombre": "DEL CARMEN"
                     },
-                    "numeroDocumento": "003002768",
-                    "profesion": "JUB"
+                    "numCuotaTotal": "12",
+                    "numeroCuentaFormaRetiro": "",
+                    "numRemanenteAbonar": "943.50",
+                    "numSeguros": ".60",
+                    "numSumaCapital": "1,000.00",
+                    "numSumaCuotas": "1,099.28",
+                    "numSumaIntereses": "92.08",
+                    "numSumaSeguros": "7.20",
+                    "plazo": 12,
+                    "plazoCuotasMensuales": "",
+                    "referenciaDeCredito": "",
+                    "tablaAmortizacion": [{
+                        "numCuota": "1",
+                        "fecFechaPago": "09/06/2021",
+                        "valCapitalPago": "76.96",
+                        "valInteresesPago": "14.01",
+                        "valMontoSeguro": ".60",
+                        "valTotalCuota": "91.57"
+                    }, {
+                        "numCuota": "2",
+                        "fecFechaPago": "09/07/2021",
+                        "valCapitalPago": "78.45",
+                        "valInteresesPago": "12.52",
+                        "valMontoSeguro": ".60",
+                        "valTotalCuota": "91.57"
+                    }, {
+                        "numCuota": "3",
+                        "fecFechaPago": "09/08/2021",
+                        "valCapitalPago": "79.13",
+                        "valInteresesPago": "11.84",
+                        "valMontoSeguro": ".60",
+                        "valTotalCuota": "91.57"
+                    }, {
+                        "numCuota": "4",
+                        "fecFechaPago": "09/09/2021",
+                        "valCapitalPago": "80.24",
+                        "valInteresesPago": "10.73",
+                        "valMontoSeguro": ".60",
+                        "valTotalCuota": "91.57"
+                    }, {
+                        "numCuota": "5",
+                        "fecFechaPago": "09/10/2021",
+                        "valCapitalPago": "81.68",
+                        "valInteresesPago": "9.29",
+                        "valMontoSeguro": ".60",
+                        "valTotalCuota": "91.57"
+                    }, {
+                        "numCuota": "6",
+                        "fecFechaPago": "09/11/2021",
+                        "valCapitalPago": "82.51",
+                        "valInteresesPago": "8.46",
+                        "valMontoSeguro": ".60",
+                        "valTotalCuota": "91.57"
+                    }, {
+                        "numCuota": "7",
+                        "fecFechaPago": "09/12/2021",
+                        "valCapitalPago": "83.90",
+                        "valInteresesPago": "7.07",
+                        "valMontoSeguro": ".60",
+                        "valTotalCuota": "91.57"
+                    }, {
+                        "numCuota": "8",
+                        "fecFechaPago": "09/01/2022",
+                        "valCapitalPago": "84.84",
+                        "valInteresesPago": "6.13",
+                        "valMontoSeguro": ".60",
+                        "valTotalCuota": "91.57"
+                    }, {
+                        "numCuota": "9",
+                        "fecFechaPago": "09/02/2022",
+                        "valCapitalPago": "86.03",
+                        "valInteresesPago": "4.94",
+                        "valMontoSeguro": ".60",
+                        "valTotalCuota": "91.57"
+                    }, {
+                        "numCuota": "10",
+                        "fecFechaPago": "09/03/2022",
+                        "valCapitalPago": "87.60",
+                        "valInteresesPago": "3.37",
+                        "valMontoSeguro": ".60",
+                        "valTotalCuota": "91.57"
+                    }, {
+                        "numCuota": "11",
+                        "fecFechaPago": "09/04/2022",
+                        "valCapitalPago": "88.47",
+                        "valInteresesPago": "2.50",
+                        "valMontoSeguro": ".60",
+                        "valTotalCuota": "91.57"
+                    }, {
+                        "numCuota": "12",
+                        "fecFechaPago": "09/05/2022",
+                        "valCapitalPago": "90.19",
+                        "valInteresesPago": "1.22",
+                        "valMontoSeguro": ".60",
+                        "valTotalCuota": "92.01"
+                    }],
+                    "tasaInteresEfectivaAnual": "31.57",
+                    "tasaInteresEfectivaAnualTexto": "TREINTAPUNTO UN PUNTO CINCUENTA Y SIETE",
+                    "tasaInteresesNominalMensual": "DIECISEIS PUNTO CINCUENTA",
+                    "tasaInteresNominalAnual": "16.5",
+                    "tasaInteresNominalAnualTexto": "DIECISEIS PUNTO CINCUENTA"
                 },
-                "CONTRATO_CUENTA_AHORROS": {
-                    "beneficiarios": {
-                        "nombres": ['Ssergio', 'Rafael'],
-                        "parentescos": ['YO', 'YO tambien'],
-                        "porcentajes": [50, 50]
-                    },
-                    "contratoFinDiasHabiles": "5",
-                    "direccion": "COL.SAN MATEO AV.LA PAZ BLK.C NO.18SAN SALVADOR S.S.LVADOR S.S.",
+                "CLAUSULA_ESTIPULACIONES_JUDICIALES": {
+                    "codCiudad": "1",
+                    "codMunicipio": "",
                     "fechaActual": {
                         "anioFechaActual": "2020",
-                        "aniocortoFechaActual": "20",
-                        "diaFechaActual": "24",
-                        "fechaActual": "2020-02-24T15:36:45-06:00",
-                        "mesFechaActual": "2"
+                        "aniocortoFechaActual": "VEINTE",
+                        "diaFechaActual": "UNO",
+                        "fechaActual": "01-04-2020",
+                        "mesFechaActual": "abril"
                     },
-                    "montosComisionesCargos": [{
-                            "valComision": "Cobro al emisor por cada cheque rechazado",
-                            "valDescripcion": "Recargo al emisor de cheques por falta de fondos, firma no valida, etc. El cobro de dicho recargo procederÃ¡ sÃ³lo si se aplica al emisor del cheque no pagado por causa atribuible a Ã©l, sin que su cobro deba trasladarse al beneficiario del mismo.",
-                            "valTarifaCobro": "2.00"
-                        },
-                        {
-                            "valComision": "MembresÃ­a de tarjeta de dÃ©bito o Acceso a servicios de canales electrÃ³nicos.",
-                            "valDescripcion": "ComisiÃ³n por acceso a red de establecimientos afiliados en el paÃ­s y en el exterior para pago de bienes y servicios, kioscos electrÃ³nicos, servicios de banca por telÃ©fono denominada IVR, asÃ­ como acceso a servicios varios de asistencia contratados con un tercero, segÃºn los tÃ©rminos de esa contrataciÃ³n.",
-                            "valTarifaCobro": "1.00"
-                        },
-                        {
-                            "valComision": "ReposiciÃ³n de tarjeta de dÃ©bito por destrucciÃ³n o extravÃ­o.",
-                            "valDescripcion": "ComisiÃ³n por la emisiÃ³n de una nueva tarjeta de dÃ©bito en caso de reposiciÃ³n por extravÃ­o, hurto, robo, daÃ±o o destrucciÃ³n u otros motivos no imputables al emisor.",
-                            "valTarifaCobro": "2.00"
-                        },
-                        {
-                            "valComision": "Retiro de Efectivo de cuenta de depÃ³sito, Acceso electrÃ³nico a Fondos de lÃ­nea de crÃ©dito o retiro en ventanilla sin previo aviso, Acceso electrÃ³nico a adelanto salarial en cualquier medio electrÃ³nico disponible y retiro en ventanilla, consulta de saldo, cambio de PIN e ImpresiÃ³n de estado de cuenta en cajero automÃ¡tico Davivienda SalvadoreÃ±o.",
-                            "valDescripcion": "ComisiÃ³n por transacciones con tarjeta de dÃ©bito en cajeros automÃ¡ticos del Banco ubicados en el recinto de la agencia (Incluye los autobancos) a partir de la 5ta. transacciÃ³n y fuera del recinto de la agencia desde la primera transacciÃ³n. | Los cajeros del Banco ubicados fuera de las agencias, es decir centros comerciales, tiendas de conveniencia, etc., se cobre desde la primera transacciÃ³n 1ComisiÃ³n por transacciones con tarjeta de dÃ©bito del Banco, retiro de efectivo de cuenta de depÃ³sito, consulta de saldo, cambio de pin y acceso electrÃ³nico a Fondos de lÃ­nea de crÃ©dito o Adelanto Salarial.",
-                            "valTarifaCobro": "2.00"
-                        },
-                        {
-                            "valComision": "Operaciones en cajeros automÃ¡ticos fuera de red Davivienda SalvadoreÃ±o",
-                            "valDescripcion": "ComisiÃ³n a todas aquellas tarjetas de dÃ©bito que efectÃºan transacciones en cajeros automÃ¡ticos ajenos al banco en el territorio nacional e internacional.",
-                            "valTarifaCobro": "3.00"
-                        },
-                        {
-                            "valComision": "LiberaciÃ³n de fondos en compensaciÃ³n local",
-                            "valDescripcion": "LiberaciÃ³n de fondos en compensaciÃ³n local\tComisiÃ³n por el servicio de anticipo de fondos sobre cheques en proceso de cobro, emitidos por instituciones salvadoreÃ±as autorizadas para tal efecto por la Superintendencia del Sistema Financiero.",
-                            "valTarifaCobro": "2.00"
-                        },
-                        {
-                            "valComision": "LiberaciÃ³n de fondos en compensaciÃ³n extranjera",
-                            "valDescripcion": "Es el pago aplicado por cada evento en el cliente solicita copia de un comprobante de compra por considerar que es una operaciÃ³n que no le corresponde. El cobro aplica cuando la transacciÃ³n fue efectivamente realizada por el cliente.",
-                            "valTarifaCobro": "2.00"
-                        },
-                        {
-                            "valComision": "Servicio de Banca por Internet Banc@ Personal y Banc@ Pyme",
-                            "valDescripcion": "ComisiÃ³n por el servicio de sistema de banca electrÃ³nica que incluye consultas y transacciones a travÃ©s de internet",
-                            "valTarifaCobro": "1.00"
-                        },
-                        {
-                            "valComision": "Manejo de saldo mÃ­nimo mensual menor a USD50.00 para personas naturales y USD75.00 para personas jurÃ­dicas en cuentas corrientes y de ahorros y por saldo menor a USD500.00 en cuenta de ahorro Plazo Flexible.",
-                            "valDescripcion": "ComisiÃ³n por manejo de cuentas cuando el saldo de la misma sea menor al mÃ­nimo establecido por el Banco y las leyes correspondientes.",
-                            "valTarifaCobro": "2.00"
-                        },
-                        {
-                            "valComision": "Por trÃ¡mite de devoluciÃ³n de giros, cheques extranjeros y otros instrumentos internacionales rechazados",
-                            "valDescripcion": "CertificaciÃ³n de cheques: ComisiÃ³n por el servicio de validar y certificar que los fondos del cheque girado de la cuenta corriente del cliente existen y que han sido reservados especÃ­ficamente hasta su cobro. EmisiÃ³n de cheque de caja o de gerencia: ComisiÃ³n por elaboraciÃ³n y emisiÃ³n de un cheque propio del banco para los pagos locales que realice el solicitante. Este servicio involucra lo siguiente: Costos de materiales, elaboraciÃ³n, atenciÃ³n y controles operativos.",
-                            "valTarifaCobro": "3.00"
-                        },
-                        {
-                            "valComision": "CertificaciÃ³n de cheques, emisiÃ³n de cheques de caja o de gerencia",
-                            "valDescripcion": "CertificaciÃ³n de cheques: comisiÃ³n por el servicio de validar y certificar que los fondos del cheque girado de la cuenta corriente del cliente existen y han sido reservados especÃ­ficamente hasta su cobro. emisiÃ³n de cheque de caja o de gerencia : ComisiÃ³n por elaboraciÃ³n y emisiÃ³n de un cheque propio del banco para los pagos locales que realice el solicitante. Este servicio involucra los siguiente: Costos de materiales, elaboraciÃ³n,atenciÃ³n y controles operativos",
-                            "valTarifaCobro": "2.00"
-                        },
-                        {
-                            "valComision": "Remesas con cheques del exterior",
-                            "valDescripcion": "ComisiÃ³n por servicio de gestiÃ³n de cobro de cheques emitidos en el exterior y depositados a cuentas del banco.",
-                            "valTarifaCobro": "3.00"
-                        },
-                        {
-                            "valComision": "Por trÃ¡mite de devoluciÃ³n de giros, cheques extranjeros, y otros instrumentos internacionales rechazados",
-                            "valDescripcion": "ComisiÃ³n por servicio de gestiÃ³n de cobro de cheques emitidos en el exterior y depositados a cuenta del banco",
-                            "valTarifaCobro": "3.00"
-                        },
-                        {
-                            "valComision": "Cargos a cuenta por cobro de servicios y pagos diversos, exceptuando el cargo por venta de chequera",
-                            "valDescripcion": "ComisiÃ³n por servicio proporcionado a clientes que solicitan que el Banco realice pagos a terceros con cargo a la cuenta del cliente.",
-                            "valTarifaCobro": "2.00"
-                        },
-                        {
-                            "valComision": "Conteo de moneda fraccionaria y billete (para clientes comerciales de alto volumen y servicio requerido por el cliente), siempre que no sea con el objetivo de realizar un pago o depÃ³sito.",
-                            "valDescripcion": "ComisiÃ³n por conteo de efectivo directamente en agencias para clientes comerciales de alto volumen, servicio requerido por el cliente.",
-                            "valTarifaCobro": "2.00"
-                        },
-                        {
-                            "valComision": "Por emisiÃ³n de constancias a requerimiento del consumidor.",
-                            "valDescripcion": "ComisiÃ³n por emisiÃ³n de documentos solicitados por el cliente.",
-                            "valTarifaCobro": "1.00"
-                        },
-                        {
-                            "valComision": "Transferencias:Orden entrante del exterior, abono a cuenta Davivienda",
-                            "valDescripcion": "ComisiÃ³n por el servicio de recibir fondos procedentes de cualquier paÃ­s de cualquier paÃ­s a travÃ©s de bancos corresponsales para ser transferidos a cuentas Davivienda",
-                            "valTarifaCobro": "1.00"
-                        },
-                        {
-                            "valComision": "Transferencias salientes al exterior",
-                            "valDescripcion": "ComisiÃ³n por servicio de envÃ­o de fondos a un beneficiario en el extranjero a travÃ©s de bancos corresponsales",
-                            "valTarifaCobro": "2.00"
-                        },
-                        {
-                            "valComision": "Copia de voucher o comprobantes de compra con tarjetas de dÃ©bito",
-                            "valDescripcion": "Es el pago aplicado por cada evento en el cliente solicita copia de un comprobante de compra por considerar que es una operaciÃ³n que no le corresponde. El cobro aplica cuando la transacciÃ³n fue efectivamente realizada por el cliente.",
-                            "valTarifaCobro": "1.00"
-                        },
-                        {
-                            "valComision": "CertificaciÃ³n de cheques, emisiÃ³n de cheques de caja o de gerencia",
-                            "valDescripcion": "CertificaciÃ³n de cheques: comisiÃ³n por el servicio de validar y certificar que los fondos del cheque girado de la cuenta corriente del cliente existen y han sido reservados especÃ­ficamente hasta su cobro. emisiÃ³n de cheque de caja o de gerencia : ComisiÃ³n por elaboraciÃ³n y emisiÃ³n de un cheque propio del banco para los pagos locales que realice el solicitante. Este servicio involucra los siguiente: Costos de materiales, elaboraciÃ³n,atenciÃ³n y controles operativos",
-                            "valTarifaCobro": "2.00"
-                        },
-                        {
-                            "valComision": "Remesas con cheques del exterior",
-                            "valDescripcion": "ComisiÃ³n por servicio de gestiÃ³n de cobro de cheques emitidos en el exterior y depositados a cuenta del banco",
-                            "valTarifaCobro": "3.00"
-                        }
-                    ],
-                    "nit": "06141611530080",
-                    "noComisionSaldoInferior": "0.00",
                     "nombres": {
-                        "primerApellido": "HUEZO",
-                        "primerNombre": "LILIAN",
-                        "segundoApellido": "CACERES",
-                        "segundoNombre": "ESTER"
+                        "primerApellido": "MAGANA",
+                        "primerNombre": "CRISTINA",
+                        "segundoApellido": "CEA",
+                        "segundoNombre": "DEL CARMEN"
+                    }
+                },
+                "CONTRATO_DE_CREDITO_MOVIL": {
+                    "cantidadCuotasMensuales": "DOCE",
+                    "codCiudad": "1",
+                    "codDepartamento": "1",
+                    "comisionSinIVA": "50.00",
+                    "comisionUSD": "CINCUENTA",
+                    "cuotaTotalMensual": "NOVENTA Y UN PUNTO CINCUENTA Y SIETE",
+                    "desembolso": "UN MIL",
+                    "destinoCredito": "GASTOS PERSONALES",
+                    "direccion": "asd",
+                    "dui": "CERO TRES SEIS SIETE CINCO NUEVE DOS OCHO NUEVE",
+                    "edadActualAnios": "TREINTA Y TRES",
+                    "edadActualMeses": "2",
+                    "fechaActual": {
+                        "anioFechaActual": "2020",
+                        "aniocortoFechaActual": "VEINTE",
+                        "diaFechaActual": "UNO",
+                        "fechaActual": "01-04-2020",
+                        "mesFechaActual": "abril"
+                    },
+                    "finalidadPrestamo": "GASTOS PERSONALES",
+                    "impuestoTransferenciaMueblesBienes": "CERO PUNTO CERO CERO",
+                    "interesSaldoMora": "CINCO",
+                    "ivaUSD": "6.50",
+                    "montoACobrarHasta": "2.50",
+                    "montoOtorgadoMinimo": "225.00",
+                    "nombres": {
+                        "primerApellido": "MAGANA",
+                        "primerNombre": "CRISTINA",
+                        "segundoApellido": "CEA",
+                        "segundoNombre": "DEL CARMEN"
                     },
                     "numeroCuenta": "",
-                    "numeroDocumento": "003002768",
-                    "profesion": "JUB",
-                    "tasasInteres": [{
-                            "valDescripcion": "Por la porciÃ³n de saldo sobre $ 500,000.01",
-                            "valPorcentaje": "2.25%"
-                        },
-                        {
-                            "valDescripcion": "Por la porciÃ³n de saldo entre $ 340,000.01 a $ 500,000.00",
-                            "valPorcentaje": "3.25%"
-                        },
-                        {
-                            "valDescripcion": "Por la porciÃ³n de saldo entre $ 120,000.01 a $ 340,000.00",
-                            "valPorcentaje": "0.50%"
-                        },
-                        {
-                            "valDescripcion": "Por la porciÃ³n de saldo entre $ 60,000.01 a $ 120,000.00",
-                            "valPorcentaje": "0.10%"
-                        },
-                        {
-                            "valDescripcion": "Por la porciÃ³n de saldo entre $ 20,000.01 a $ 60,000.00",
-                            "valPorcentaje": "3.26%"
-                        },
-                        {
-                            "valDescripcion": "Por la porciÃ³n de saldo entre $ 5,000.01 a $ 20,000.00",
-                            "valPorcentaje": "1.00%"
-                        },
-                        {
-                            "valDescripcion": "Por la porciÃ³n de saldo entre $ 2,000.01 a $ 5,000.00",
-                            "valPorcentaje": "0.05%"
-                        },
-                        {
-                            "valDescripcion": "Por la porciÃ³n de saldo entre $ 0.01 a $ 2,000.00",
-                            "valPorcentaje": "2.29%"
-                        },
-                        {
-                            "valDescripcion": "Cuentas de ahorro inactivas",
-                            "valPorcentaje": "2.29%"
-                        }
-                    ],
-                    "codCiudad": "14",
-                    "codDepartamento": "6",
-                    "codMunicipio": "",
+                    "pagarDiaMes": "UN",
+                    "pagoInteresesAbonoCapital": "NOVENTA PUNTO NOVENTA Y SIETE",
+                    "pagoSeguroVida": "125.00",
+                    "plazoSolicitado": 12,
+                    "porcentajeTasaReferenciaMes": "NUEVE PUNTO CINCO",
+                    "profesion": "ABOG",
+                    "tasaInteresEfectivaAnual": "31.57",
+                    "tasaInteresEfectivaAnualTexto": "TREINTAPUNTO UN PUNTO CINCUENTA Y SIETE",
+                    "tasaInteresNominalAnual": "16.5",
+                    "tasaInteresNominalAnualTexto": "DIECISEIS PUNTO CINCUENTA",
+                    "tasaReferenciaMes": "DIECISEIS  PUNTO CINCO",
+                    "valorSolicitado": 1000
                 },
-                FORMULARIO_VINCULACION: {
-                    informacionPersonasPoliExp: {
-                        productosExtrangero: {
-                            codCiudadProductosExtrangero: ''
-                        }
+                "DECLARACION_DE_ASEGURABILIDAD": {
+                    "codCiudad": "1",
+                    "dui": "036759289",
+                    "empresa": {
+                        "cargo": "",
+                        "direccion": "",
+                        "fechaIngreso": "1999-10-10",
+                        "nombre": "1"
+                    },
+                    "fecFechaFinSeguro": "01 de noviembre de 2020",
+                    "fecFechaInicioSeguro": "01 de noviembre de 2019",
+                    "nacimiento": {
+                        "codCiudad": "",
+                        "codEstado": "",
+                        "codMunicipio": "",
+                        "codPais": "SV",
+                        "edadActualAnios": "33",
+                        "edadActualMeses": "2",
+                        "fecha": "1987-01-15",
+                        "fechaActual": {
+                            "anioFechaActual": "2020",
+                            "aniocortoFechaActual": "VEINTE",
+                            "diaFechaActual": "UNO",
+                            "fechaActual": "01-04-2020",
+                            "mesFechaActual": "abril"
+                        },
+                        "lugar": "",
+                        "nacionalidad": "SV",
+                        "otraNacionalidad": ""
+                    },
+                    "nit": "06031501871014",
+                    "nombres": {
+                        "primerApellido": "MAGANA",
+                        "primerNombre": "CRISTINA",
+                        "segundoApellido": "CEA",
+                        "segundoNombre": "DEL CARMEN"
+                    },
+                    "plazoSolicitado": "DOCE",
+                    "telefonoResidencia": " 78511545",
+                    "tipoCredito": "GASTOS PERSONALES",
+                    "valorSolicitado": 1000,
+                    "vigenciaPolizaAnio": {
+                        "anioFechaActual": "2020",
+                        "aniocortoFechaActual": "VEINTE",
+                        "diaFechaActual": "UNO",
+                        "fechaActual": "01-04-2020",
+                        "mesFechaActual": "abril"
                     }
+                },
+                "DECLARACION_JURADA": {
+                    "codActividadEconomica": "0001",
+                    "codOrigenPrincipal": '',
+                    "montoAbono": "",
+                    "montoAbonoEfectivo": "",
+                    "montoRetiro": "",
+                    "montoRetiroEfectivo": "",
+                    "primerApellido": "MAGANA",
+                    "primerNombre": "CRISTINA",
+                    "segundoApellido": "CEA",
+                    "segundoNombre": "DEL CARMEN"
+                },
+                "LHC": {
+                    "dui": "036759289",
+                    "nit": "06031501871014",
+                    "nombres": {
+                        "primerApellido": "MAGANA",
+                        "primerNombre": "CRISTINA",
+                        "segundoApellido": "CEA",
+                        "segundoNombre": "DEL CARMEN"
+                    },
+                    "tieneLhc": true
+                },
+                "SOLICITUD_CREDITO": {
+                    "cuotaMensual": "91.57",
+                    "plazoSolicitado": 12,
+                    "valorSolicitado": 1000
                 }
-            }
-        }
-    }
+            },
+            "esCliente": true,
+            "esFatca": false
+        },
+        "status": 1,
+        "stepId": "CRE011"
+    },
 };

@@ -1,0 +1,699 @@
+/**
+ * Modules - Modal - custom form
+ */
+
+ @import '../../../base/variables/_base-variables';
+ .customForm
+ {
+    display: block;
+    @include prefix((
+        box-sizing: border-box,
+    ), webkit moz o ms);
+    font-size: 0.8em;
+    &--vinculation
+    {
+        border: solid 1px $color__text;
+        padding: 0 !important;
+    }
+    &--w9
+    {
+        padding: 20px !important;
+        &__header
+        {
+            border-bottom: solid 2px $color__text--dark;
+            @include prefix((
+                display: flex,
+                justify-content: space-between,
+                align-items: center,
+            ), webkit moz o ms);
+            .headcol
+            {
+                border-right: solid 2px $color__text--dark;
+                padding: 2px;
+                width: 15%;
+                min-height: 12em;
+                &:last-child
+                {
+                    border: none;
+                }
+                &--big
+                {
+                    text-align: center;
+                    width: 70%;
+                }
+                h2
+                {
+                    font-size: 2.1em;
+                    small
+                    {
+                        font-weight: normal !important;
+                        font-size: 0.7em;
+                    }
+                }
+                h3
+                {
+                    font-size: 1.7em;
+                }
+                h4
+                {
+                    font-size: 1.6em;
+                }
+                span
+                {
+                    font-size: 1.5em;
+                }
+            }
+        }
+        &__grid
+        {
+            width: 100%;
+            @include prefix((
+                box-sizing: border-box,
+                display: flex,
+                justify-content: flex-start,
+                align-items: flex-start,
+            ), webkit moz o ms);
+            .gridHead
+            {
+                border-right: solid 2px $color__text--dark;
+                text-align: center;
+                width: 6em;
+                min-height: 30em;
+                h3
+                {
+                    margin: 11em -12em;
+                    padding: 0;
+                    width: 30em;
+                    height: 5em;
+                    font-size: 1.4em;
+                    font-weight: normal !important;
+                    @include prefix((
+                        transform: rotate(-90deg),
+                        box-sizing: border-box,
+                    ), webkit moz o ms);
+                }
+            }
+        }
+        .gridTable
+        {
+            border: none;
+            tr
+            {
+                border-bottom: solid 2px $color__text--dark !important;
+                &:last-child
+                {
+                    border: none !important;
+                }
+                th
+                {
+                    background-color: transparent;
+                    border-right: solid 2px $color__text--dark;
+                    font-size: 1.2em;
+                    &:last-child
+                    {
+                        border: none;
+                    }
+                }
+                td
+                {
+                    padding: 0 !important;
+                    border-right: solid 2px $color__text--dark;
+                    p
+                    {
+                        padding: 0;
+                        font-size: 1.1em;
+                        text-align: left;
+                        margin: 0;
+                    }
+                    span
+                    {
+                        font-size: 1em;
+                        padding: 5px 10px;
+                        display: block;
+                    }
+                    hr
+                    {
+                        border-color: $color__text--dark;
+                    }
+                }
+            }
+        }
+        &__separator
+        {
+            padding: 0;
+            margin: 0;
+            border-top: 2px solid $color__text--dark;
+            border-bottom: 2px solid $color__text--dark ;
+            @include prefix((
+                box-sizing: border-box,
+                display: flex,
+                align-items: center,
+                justify-content: flex-start,
+            ), webkit moz o ms);
+            .indicator
+            {
+                background-color: $color__text--dark;
+                padding: 7px 10px;
+                color: white;
+                font-size: 1.5em;
+                display: inline-block;
+                margin-right: 0.7em;
+                width: 80px;
+                &--light
+                {
+                    background-color: white;
+                    color: $color__text--dark;
+                    font-weight: bold;
+                    border-right: solid 2px $color__text--dark;
+                }
+            }
+            .title
+            {
+                padding: 7px 10px;
+                color: $color__text--dark;
+                font-size: 1.7em;
+                display: inline-block;
+                width: 100%;
+                span
+                {
+                    font-size: 0.8em;
+                    padding: 0;
+                    margin: 0;
+                }
+                h2
+                {
+                    padding: 0;
+                    margin: 0;
+                    font-size: 1.5em;
+                }
+            }
+        }
+        .frameTitle
+        {
+            border: solid 2px $color__text--dark;
+            padding: 3px;
+            display: block;
+            margin: 7px 0 10px 15px;
+            font-size: 1.3em;
+            font-weight: bold;
+            &--noBorder
+            {
+                border: none;
+                padding: 0;
+                margin: 0 15px;
+                font-weight: normal;
+            }
+        }
+        .serialNumberBoxes
+        {
+            margin: 7px 0 10px 15px;
+            @include prefix((
+                box-sizing: border-box,
+                display: flex,
+                justify-content: flex-start,
+                align-items: center,
+            ), webkit moz o ms);
+            &__box
+            {
+                width: 25px;
+                height: 35px;
+                border: solid 2px $color__text--dark;
+                border-right: none;
+                font-weight: bold;
+                &--borderRight
+                {
+                    border-right: solid 2px $color__text--dark;
+                }
+                &--noBorder
+                {
+                    border: none;
+                }
+                @include prefix((
+                    display: flex,
+                    justify-content: center,
+                    align-items: center,
+                ), webkit moz o ms);
+            }
+        }
+    }
+    h2
+    {
+        font-weight: bold;
+        font-size: 1.2em;
+        @include media(lg)
+        {
+            font-size: 1.6em;
+        }
+        @include media(xlg)
+        {
+            font-size: 1.6em;
+        }
+    }
+    h3
+    {
+        font-weight: bold !important;
+        text-transform: inherit !important;
+        font-size: 1em;
+        @include media(lg)
+        {
+            font-size: 1.3em;
+        }
+        @include media(xlg)
+        {
+            font-size: 1.3em;
+        }
+    }
+    span, label
+    {
+        font-weight: normal;
+        font-size: 1em;
+        text-align: justify;
+        &.mr4
+        {
+            @include media(lg)
+            {
+                margin-right: 4em;
+            }
+            @include media(xlg)
+            {
+                margin-right: 4em;
+            }
+        }
+        &.upper
+        {
+            text-transform: uppercase !important;
+        }
+        &.underline
+        {
+            border-bottom: 1px solid #000;
+        }
+        @include media(lg)
+        {
+            font-size: 1.2em;
+        }
+        @include media(xlg)
+        {
+            font-size: 1.2em;
+        }
+    }
+    em
+    {
+        font-size: 1em;
+        margin: 0;
+        padding: 0;
+        display: block;
+    }
+    ol
+    {
+        margin: 0;
+        padding-left: 5em;
+        &.pdl1
+        {
+            padding-left: 1em;
+            li
+            {
+                font-size: 1.15em;       
+                text-align: justify;
+                padding-left: 0.2em;
+                margin-bottom: 0.5em;
+            }
+        }
+        li
+        {
+            font-size: 1.3em;
+            text-align: justify;
+            padding-left: 1em;
+            margin-bottom: 1em;
+        }
+    }
+    ul
+    {
+        margin: 0;
+        padding-left: 1.2em;
+        li
+        {
+            font-size: 1.15em;       
+            text-align: justify;
+            padding-left: 0.2em;
+            margin-bottom: 0.5em;
+        }
+    }
+    label
+    {
+        position: relative;
+        input[type=checkbox]
+        {
+            opacity: 1;
+            width: 13px;
+            height: 13px;
+            top: 13px;
+        }
+        span
+        {
+            padding-left: 20px;
+            font-size: 1em;
+            display: block;
+            margin-top: 10px;
+        }
+    }
+    table
+    {
+        width: 100%;
+        border: solid 1px $color__text;
+        tr
+        {
+            border-bottom: solid 1px $color__text;
+            &:last-child
+            {
+                border-bottom: 0;
+            }
+            td
+            {
+                border-right: solid 1px $color__text;
+                padding: em(2) em(5);
+                font-size: 0.9em;
+    
+                vertical-align: top;
+                &.w25
+                {
+                    width: 25%;
+                }
+                &.center
+                {
+                    text-align: center;
+                }
+                @include media(lg)
+                {
+                    font-size: 1.2em;
+                }
+                @include media(xlg)
+                {
+                    font-size: 1.2em;
+                }
+                &:last-child
+                {
+                    border-right: 0;
+                }
+                &.alingRight
+                {
+                    
+                    text-align: right;
+                }
+            }
+            th
+            {
+                background-color: $color__inputs;
+                color: $color__text;
+                font-size: 0.9em;
+                padding: 5px;
+                border: none;
+                &.dark
+                {
+                    background-color: $color__text--dark;
+                    color: white;
+                    text-align: center;
+                }
+                @include media(lg)
+                {
+                    font-size: 1.3em;
+                }
+                @include media(xlg)
+                {
+                    font-size: 1.3em;
+                }
+            }
+        }
+    }
+    .brand
+    {
+        width: 200px;
+        display: block;
+        @include media(lg)
+        {
+            width: 250px;
+        }
+        @include media(xlg)
+        {
+            width: 250px;
+        }
+    }
+    @include media(lg)
+    {
+        padding: 3em 6em;
+    }
+    @include media(xlg)
+    {
+        padding: 3em 6em;
+    }
+    &__row
+    {
+        width: 100%;
+        padding: em(5);
+        min-height: 2em;
+        @include prefix((
+            display: flex,
+            flex-direction: column,
+            box-sizing: border-box,
+        ), webkit moz o ms);
+        @include media(lg)
+        {
+            @include prefix((
+                flex-direction: row,
+            ), webkit moz o ms);
+        }
+        @include media(xlg)
+        {
+            @include prefix((
+                flex-direction: row,
+            ), webkit moz o ms);
+        }
+        &--center
+        {
+            @include prefix((
+                justify-content: center,
+            ), webkit moz o ms);
+        }
+        &--spaceBetween
+        {
+            @include prefix((
+                justify-content: space-between,
+            ), webkit moz o ms);
+        }
+        &--spaceAround
+        {
+            @include prefix((
+                justify-content: space-around,
+            ), webkit moz o ms);
+        }
+        &--start
+        {
+            @include prefix((
+                justify-content: flex-start,
+            ), webkit moz o ms);
+        }
+        &--bdTop
+        {
+            border-top: solid 2px $color__text;
+            padding-top: 1em;
+        }
+        &--fdColumn
+        {
+            @include prefix((
+                flex-direction: column,
+            ), webkit moz o ms);
+            span
+            {
+                margin-bottom: 0.5em;
+            }
+        }
+        &__header
+        {
+            background-color: rgb(242, 242, 242);
+            border: solid 1px $color__text--dark;
+            span
+            {
+                font-weight: bold;
+            }
+        }
+        &--noMargin
+        {
+            margin: 0 !important;
+            padding: 0;
+        }
+    }
+    .fieldContainer
+    {
+        padding-right: 1em;
+        width: 100%;
+        margin: 5px 0;
+        &--oneThirds
+        {
+            width: 100%;
+            @include media(lg)
+            {
+                width: 50% !important;
+            }
+            @include media(xlg)
+            {
+                width: 50% !important;
+            }
+        }
+        &--twoThirds
+        {
+            width: 100%;
+            @include media(lg)
+            {
+                width: 200% !important;
+            }
+            @include media(xlg)
+            {
+                width: 200% !important;
+            }
+        }
+        &--noMargin
+        {
+            margin: 0 !important;
+        }
+        @include prefix((
+            display: flex,
+            box-sizing: border-box,
+            align-items: flex-start,
+            justify-content: flex-start,
+        ), webkit moz o ms);
+        &__label
+        {
+            color: $color__text--dark;
+            margin-right: 1.5em;
+            font-size: 1em;
+            text-align: left;
+            width: auto;
+        }
+        &__field
+        {
+            border-bottom: solid 2px rgb(189, 189, 189);
+            flex: 1;
+            text-align: center;
+            margin-top: 0.5em;
+            margin-left: 0.5em;
+            font-size: 1em;
+        }
+        &__checkbox
+        {
+            @include prefix((
+                display: flex,
+                box-sizing: border-box,
+                align-items: flex-start,
+                justify-content: flex-start,
+            ), webkit moz o ms);
+            &__label
+            {
+                font-size: 1em;
+                margin-right: 1.5em;
+                flex: 1;
+            }
+            &__box
+            {
+                width: 1.7em;
+                height: 1.7em;
+                border: solid 2px rgb(189, 189, 189);
+                background-color: white;
+                color: $color__text--dark;
+                margin-right: 1.5em;
+                &--small
+                {
+                    width: 1.2em;
+                    height: 1.2em;
+                    border: solid 2px $color__text--dark;
+                    margin: 0 0.7em 0 0;
+                }
+                @include prefix((
+                    display: flex,
+                    box-sizing: border-box,
+                    align-items: center,
+                    justify-content: center,
+                ), webkit moz o ms);
+            }
+        }
+    }
+    // Size modificators
+    .half
+    {
+        width: 100%;
+        text-align: left;
+        @include media(lg)
+        {
+            width: 50% !important;
+        }
+        @include media(xlg)
+        {
+            width: 50% !important;
+        }
+        span
+        {
+            display: block;
+        }
+    }
+    .oneThirds
+    {
+        width: 100%;
+        @include media(lg)
+        {
+            width: 33.3% !important;
+        }
+        @include media(xlg)
+        {
+            width: 33.3% !important;
+        }
+    }
+    .twoThirds
+    {
+        width: 100%;
+        @include media(lg)
+        {
+            width: 66.4% !important;
+        }
+        @include media(xlg)
+        {
+            width: 66.4% !important;
+        }
+    }
+    // End
+    // Align modificators
+    .middle
+    {
+        @include prefix((
+            display: flex,
+            align-items: center,
+        ), webkit moz o ms);
+    }
+    // End
+    // Text modificators
+    // Fontface
+    .times
+    {
+        font-family: "Times New Roman", Times, Baskerville, Georgia, serif !important;
+    }
+    .arial
+    {
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif !important;
+    }
+    // Style
+    .italic
+    {
+        font-style: italic !important;
+    }
+    // Color
+    .red
+    {
+        color: $color__primary !important;
+    }
+    .gray
+    {
+        color: gray;
+    }
+    // End
+    .pdr1
+    {
+        padding-right: 1em;
+    }
+ }

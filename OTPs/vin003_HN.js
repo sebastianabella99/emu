@@ -21,7 +21,23 @@ module.exports = {
     },
     VIN003: {
         status: 1,
-        payload: {}
+        payload: {
+            hn: {
+                actividadComercial: '1',
+                antiguedadLaboral: {
+                    anio: '2019',
+                    mes: '02',
+                    dia: '27'
+                },
+                direccionEmpresa: {
+                    departamento: '02',
+                    municipio: '003',
+                    colonia: '999',
+                    direccion: 'yyyy',
+                    referencia: 'zzz'
+                }
+            }
+        }
     },
     VIN005: {
         status: 1,

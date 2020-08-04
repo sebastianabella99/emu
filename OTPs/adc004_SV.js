@@ -34,7 +34,8 @@ module.exports = {
     CRE006: {
         status: 1,
         payload: {
-            esCliente: false
+            esCliente: false,
+            cuota: '5555.95'
         }
     },
     CRE007: {

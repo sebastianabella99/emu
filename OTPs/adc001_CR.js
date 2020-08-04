@@ -27,7 +27,8 @@ module.exports = {
         status: 1,
         payload: {
             tieneProducto: true,
-            esCliente: true
+            esCliente: true,
+            cuota: '12200.99'
          }
     },
     CRE007: {

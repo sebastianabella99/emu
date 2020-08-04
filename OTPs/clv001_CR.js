@@ -24,15 +24,21 @@ module.exports = {
             // usuarioBancaElectronica: '123456789',
             crypto: {
                 metodo: "encriptacionClaveA",
-                credencial : `-----BEGIN PUBLIC KEY-----
-                MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi0/ajmKQ6P3+lInTZvRp
-                l8NBxUikVzz1ZaqJVlW6cy6rXkms2TYwawHJp6Uat4VoMj7+jCFxs7daOcQOLWA2
-                6KMKP+C8uSzdy6tgKN/CwkalDPU/+kC/ImEHwa7i3FFnXsBeJN5Md7my0MOhqYR6
-                vpiGtFu99YvRzBkOsj53ZT7Fya/EgEFrAmudfnNg7BmALO0lgXUKwGBZbg5h4pSk
-                ss06SQdNwvrpC0dRBBnww0nOXQmnEljNIfcJ1kCXyYO3GKVNkyzW+gQCpkB+xPxM
-                4+m4WWo93xKbI9SOXaIxhDu19Y5V7cbm2BunVaIvTNAtQuoamUN3arfg3d9mO8/y
-                BQIDAQAB
-          -----END PUBLIC KEY-----`
+                credencial: `-----BEGIN PUBLIC KEY-----
+                MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA5EM+PpFGljhLw4ZvcoxS
+                kyLaVkJVN03Pk3aw99tc6jsgmUmM4aYkxeTDHPcpd7FwzIiwRmHPaYxA54r0hYVq
+                wQ5KfNlJm3J1SY6B0EyWnEsvLwk382wvFlZW0DWmE6K2aBa1ypZUqXUwGmyAFu1q
+                jg5AWb4qigziwy1/ukYPfNsFEfbldSAB3m3qZJC08YbcDfmfmOc1ylV6UWVWdUh7
+                uGjPMipL9VI6MuIK5cqXliMKjUsIqoP585JrwnqkWe0f9GcShGBtONpyAK6/2scD
+                t9sugaS2TDgu9JWe+Clh9yPXPoRuHnti0/kctpzCtQRR59UIqDG0jyajxQDyx8wb
+                7K2aCvFv+d1BqNJ+JkHA7oSW0Ulvd3/sou7VjKK1d+o0RaU+6JDtda444ZNBx0lo
+                Q+C+ZnMd0R9uoxGREeyprxnJRPph1GVfGSkr8QHIxTLmYUhacMgnORbccEGkhMyQ
+                UQOsSzBaI63NbcqX28oExyRlpZDsMiDR59ikvaX1supUOBZRR1614GTsWvV2xIW+
+                y+/an/Gzq3yGSOI2dzPrqrS4Qr086HZEs7NgmZQPbKsckNwmidLAJZue2ovNmCAa
+                3OyhDEtCyiQxEb2Z7kL9kJqKmdqtKQVCHqjM2PqzWX3PJ9VQX+GS9riqOwJqkUQZ
+                ii/NcrfiE71w0hiOMkBAzukCAwEAAQ==
+                -----END PUBLIC KEY-----
+                `
             },
             usuario: 'usurioSSS'
         }

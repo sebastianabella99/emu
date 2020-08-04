@@ -21,7 +21,11 @@ module.exports = {
     },
     VIN004: {
         status: 1,
-        payload: {}
+        payload: {
+            cr: {
+                ingresoMensuales: '15911.99'
+            }
+        }
     },
     VIN006: {
         status: 1,

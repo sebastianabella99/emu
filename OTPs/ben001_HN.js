@@ -16,7 +16,8 @@ module.exports = {
             "canal":"1",
             "idModulo":"MNUING",
             "lenguaje":"ES",
-            "pais":"HN"
+            "pais":"HN",
+            zona: true
         }
     },
     BEN001: {

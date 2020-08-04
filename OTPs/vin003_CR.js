@@ -21,7 +21,18 @@ module.exports = {
     },
     VIN003: {
         status: 1,
-        payload: {}
+        payload: {
+            cr: {
+                antiguedadLaboral: {
+                    anio: '2019',
+                    mes: '02',
+                    dia: '27'
+                },
+                ocupacion: '1',
+                empresa: 'mi empresa',
+                fuenteIngresos: 'AEPU'
+            }
+        }
     },
     VIN005: {
         status: 1,

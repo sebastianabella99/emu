@@ -12,8 +12,7 @@ module.exports = {
     ING001: {
         status: 1,
         payload: {
-            "aliado":"LM",
-            "canal":"1",
+            "aliado":"LM","canal":"1",
             "idModulo":"MNUING",
             "lenguaje":"ES",
             "pais":"PA"
@@ -21,10 +20,11 @@ module.exports = {
     },
     VIN003: {
         status: 1,
-        payload: {}
-    },
-    VIN005: {
-        status: 1,
-        payload: {}
+        payload: {
+            pa: {
+                actividadComercial: '1',
+                empresa: 'pepe y toño'
+            }
+        }},VIN005: {status: 1,payload: {}
     }
 };

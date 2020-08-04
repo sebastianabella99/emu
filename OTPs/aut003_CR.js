@@ -23,10 +23,32 @@ module.exports = {
     CRE011: {
         status: 1,
         payload: {
+            clienteExistente: true,
             cuentas: [{
+                valAliasProducto: 'Mi producto',
                 valCodigoProducto: 'HCL',
                 valCodigoSubProducto: 'HCL002',
                 valNumeroProducto: '0000012345'
+            }, {
+                "valAliasProducto": "1 CUENTAS DE AHORRO MOVIL",
+                "valCodigoProducto": "CAMO",
+                "valCodigoSubProducto": "CAHC",
+                "valNumeroProducto": "777977006586"
+            }, {
+                "valAliasProducto": "2 CUENTAS DE AHORRO MOVIL",
+                "valCodigoProducto": "CAMO",
+                "valCodigoSubProducto": "CAHC",
+                "valNumeroProducto": "777977006586"
+            }, {
+                "valAliasProducto": "3 CUENTAS DE AHORRO MOVIL",
+                "valCodigoProducto": "CAMO",
+                "valCodigoSubProducto": "CAHC",
+                "valNumeroProducto": "777977006586"
+            }, {
+                "valAliasProducto": " 4 CUENTAS DE AHORRO MOVIL",
+                "valCodigoProducto": "CAMO",
+                "valCodigoSubProducto": "CAHC",
+                "valNumeroProducto": "777977006586"
             }]
         }
     }

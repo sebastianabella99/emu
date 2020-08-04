@@ -22,8 +22,14 @@ module.exports = {
     VIN004: {
         status: 1,
         payload: {
-            actividadComercial: '4',
-            nombre: 'Mi nombrelksdjaslkdj'
+            actividadComercial: '04',
+            nombre: 'Mi nombrelksdjaslkdj',
+            pa: {
+                ingresoFijo: '15000',
+                tieneOtrosIngresos: false,
+                otrosIngresos: '',
+                totalIngresos: '2000'
+            }
         }
     },
     VIN006: {

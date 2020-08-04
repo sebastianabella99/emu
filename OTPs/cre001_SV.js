@@ -24,13 +24,14 @@ module.exports = {
     status: 1,
     payload: {
       sv: {
+        nit: "1231-240483-569-8",
         esCliente: true,
-        correo: "rocio.huezo@davivienda.com.sv",
-        departamento: "6",
+        correo: "",
+        departamento: "1",
         escolaridad: "BACH",
         estadoFamiliar: "1",
         fechaNacimiento: { anio: "1983", dia: "24", mes: "04" },
-        municipio: "17",
+        municipio: "1",
         nacionalidad: "SV",
         noTelefono: "79223902",
         sexo: "M"
