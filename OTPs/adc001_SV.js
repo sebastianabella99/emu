@@ -20,7 +20,8 @@ module.exports = {
             canal: '1',
             idModulo: 'cam',
             lenguaje: 'ES',
-            pais: 'SV'
+            pais: 'SV',
+            zona: true
         }
     },
     CRE006: {
@@ -28,13 +29,17 @@ module.exports = {
         payload: {
             tieneProducto: true,
             esCliente: true,
-            cuota: '12200.99',
+            cuota: '11111.99',
+            montoAprobado: '2222.99',
+            comision: '33.99',
+            plazo: '36.66',
+            tasaInteres: '12.66',
             ki: {
-                capitalIntereses: '10',
-                tasaInteresNominal: '1.03',
-                tasaInteresEfectiva: '0.02',
-                seguroDeuda: '1500.00',
-                seguroDesempleo: '50000.02'
+                capitalIntereses: '1',
+                tasaInteresNominal: '12',
+                tasaInteresEfectiva: '10',
+                seguroDeuda: '45.99',
+                seguroDesempleo: '9999.99'
             }
          }
     },
@@ -42,21 +47,57 @@ module.exports = {
         status: 1,
         payload: {
             tieneProducto: true,
-            esCliente: true
+            esCliente: true,
+            cuota: '11111.99',
+            montoAprobado: '2222.99',
+            comision: '33.99',
+            plazo: '36.66',
+            tasaInteres: '12.66',
+            ki: {
+                capitalInteres: '1',
+                tasaInteresNominal: '12',
+                tasaInteresEfectiva: '10',
+                seguroDeuda: '45.99',
+                seguroDesempleo: '9999.99'
+            }
          }
     },
     CRE008: {
         status: 1,
         payload: {
             tieneProducto: true,
-            esCliente: true
+            esCliente: true,
+            cuota: '11111.99',
+            montoAprobado: '2222.99',
+            comision: '33.99',
+            plazo: '36.66',
+            tasaInteres: '12.66',
+            ki: {
+                capitalInteres: '1',
+                tasaInteresNominal: '12',
+                tasaInteresEfectiva: '10',
+                seguroDeuda: '45.99',
+                seguroDesempleo: '9999.99'
+            }
          }
     },
     CRE009: {
         status: 1,
         payload: {
             tieneProducto: true,
-            esCliente: true
+            esCliente: true,
+            cuota: '11111.99',
+            montoAprobado: '2222.99',
+            comision: '33.99',
+            plazo: '36.66',
+            tasaInteres: '12.66',
+            ki: {
+                capitalInteres: '1',
+                tasaInteresNominal: '12',
+                tasaInteresEfectiva: '10',
+                seguroDeuda: '45.99',
+                seguroDesempleo: '9999.99'
+            }
          }
     },
     CRE010: {

@@ -1,0 +1,10 @@
+[{
+  "initial": {
+    "header": "Conectando",
+    "footer": "Por favor espera"
+  },
+  "forbidden": {
+    "title": "Acceso denegado",
+    "subTitle": "Lo sentimos, esta página no se encuentra disponible."
+  }
+}]

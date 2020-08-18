@@ -24,7 +24,7 @@ input[type="checkbox"]
 	}
 }
 
-.contCheckboxSiNo 
+.contCheckboxSiNo
 {
 	width: 55%;
 	display: flex;
@@ -67,7 +67,7 @@ input[type="checkbox"]
 	@include media(xlg){
 		width: 50%;
 	}
-	  
+
 	input[type=checkbox].cambiar + .switch {
 		vertical-align: middle;
 		width: 40px;
@@ -137,7 +137,7 @@ input[type="checkbox"]
 }
 
 /* Customize the label (the checkboxContainer) */
-.checkboxContainer 
+.checkboxContainer
 {
 	display: inline-block;
 	position: relative;
@@ -201,7 +201,7 @@ input[type="checkbox"]
 }
 
 /* Create a custom checkbox */
-.checkmark 
+.checkmark
 {
 	position: absolute;
 	top: 0;
@@ -227,11 +227,11 @@ input[type="checkbox"]
 		outline: none,
 		transition: ease all 0.3s
 	), webkit moz o ms);
-	&:after 
+	&:after
 	{
 		font-family: 'icomoon';
-		content: "\002714";
-		color: $color__primary;
+		content: "\e901";
+		color: $color__primary !important;
 		font-size: 16px;
 		@include prefix((
 			transition: ease all 0.3s,
@@ -248,16 +248,26 @@ input[type="checkbox"]
 	}
 }
 
+.fakeCheckmark {
+  background-image: url('/assets/cam/img/icon/check.PNG');
+  background-repeat: no-repeat;
+  background-position: center center;
+  &:after
+	{
+		content: none;
+	}
+}
+
 /* When the checkbox is checked, add a primary background */
 
-input[type="checkbox"]:checked ~ .checkmark 
+input[type="checkbox"]:checked ~ .checkmark
 {
 	background-color: white;
 }
 
 /* Show the checkmark when checked */
 
-input[type="checkbox"]:checked ~ .checkmark:after 
+input[type="checkbox"]:checked ~ .checkmark:after
 {
 	@include prefix((
 		transform: translateY(0)

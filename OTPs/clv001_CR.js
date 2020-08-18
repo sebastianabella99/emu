@@ -15,7 +15,8 @@ module.exports = {
             "canal":"2",
             "idModulo":"MNUING",
             "lenguaje":"ES",
-            "pais":"CR"
+            "pais":"CR",
+            zona: true
         }
     },
     CVI001: {

@@ -16,13 +16,27 @@ module.exports = {
             canal: '1',
             idModulo: 'cam',
             lenguaje: 'ES',
-            pais: 'HN'
+            pais: 'HN',
+            zona: true
         }
     },
     CRE001: {
         status: 1,
         payload: {
-            esCliente: true
+            esCliente: true,
+            esCreditoPreaprobado: true,
+            creditoPreaprobado: {
+                plazo: {
+                    "minPlazo": 17,
+                    "maxPlazo": 17,
+                    "intervalo": 0
+                },
+                rango: {
+                    "minValorDeseado": 1000,
+                    "intervalo": 10,
+                    "maxValorDeseado": 1050
+                }
+            }
         }
     },
     SIM002: {

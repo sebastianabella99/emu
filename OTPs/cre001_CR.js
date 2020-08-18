@@ -16,7 +16,8 @@ module.exports = {
             canal: '1',
             idModulo: 'cam',
             lenguaje: 'ES',
-            pais: 'CR'
+            pais: 'CR',
+            zona: true
         }
     },
     CRE004: {

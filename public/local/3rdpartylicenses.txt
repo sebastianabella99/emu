@@ -68,9 +68,6 @@ SOFTWARE.
 @ngx-translate/core
 MIT
 
-@ngx-translate/http-loader
-MIT
-
 base64-js
 MIT
 The MIT License (MIT)
