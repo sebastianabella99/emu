@@ -16,7 +16,8 @@ module.exports = {
             canal: 'web',
             idModulo: 'cam',
             lenguaje: 'es',
-            pais: 'SV'
+            pais: 'SV',
+            zona: true
         }
     },
     SIM001: {

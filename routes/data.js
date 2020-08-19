@@ -56,6 +56,10 @@ const respuesta = (req, res) => {
   if ( req.originalUrl === '/data/i18n_CRE001?lenguaje=ES&pais=HN') {
     return res.json([{
       titulo: "Seleccione las condiciones de su crédito:",
+      ingresosMensuales: {
+        label: "¿Cuáles son sus ingresos mensuales en Lempiras?",
+        mensajeGeneralError: "Información Incorrecta:"
+      },
       rango: {
         label: "Escoja el valor deseado",
         min: "Min.",

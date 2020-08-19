@@ -17,7 +17,8 @@ module.exports = {
             canal: '1',
             idModulo: 'CRECAM',
             lenguaje: 'ES',
-            pais: 'CR'
+            pais: 'CR',
+            zona: true
         }
     },
     CRE001: {
